@@ -4,15 +4,25 @@
   "files": {
     "블러 엣지/blur_resnet50_edge_v6.ipynb": {
       "bytes": 107890,
-      "sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c"
+      "sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c",
+      "public_path": "블러 엣지/blur_resnet50_edge_v6.ipynb",
+      "public_bytes": 107890,
+      "public_sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c"
     },
     "원본자료/블러 엣지/all_blur_results_resnet50_same_settings_gpu4090_v2.json": {
       "bytes": 5000,
-      "sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54"
+      "sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54",
+      "public_path": "원본자료/블러 엣지/all_blur_results_resnet50_same_settings_gpu4090_v2.json",
+      "public_bytes": 5000,
+      "public_sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54"
     },
     "원본자료/블러 엣지/blur_resnet50_edge_v6.ipynb": {
       "bytes": 648837,
-      "sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392"
+      "sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392",
+      "public_path": "원본자료/블러 엣지/blur_resnet50_edge_v6.ipynb",
+      "public_bytes": 648837,
+      "public_sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

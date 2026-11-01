@@ -4,47 +4,81 @@
   "files": {
     "논문/2차_ResNet50_최종.pdf": {
       "bytes": 2827829,
-      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7"
+      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7",
+      "public_path": "논문/2차_ResNet50_최종.pdf",
+      "public_bytes": 2821093,
+      "public_sha256": "3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f"
     },
     "자료차수/4차/코드/block_blur_resnet50_v4_KO.ipynb": {
       "bytes": 219524,
-      "sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03"
+      "sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03",
+      "public_path": "자료차수/4차/코드/block_blur_resnet50_v4_KO.ipynb",
+      "public_bytes": 219524,
+      "public_sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03"
     },
     "자료차수/4차/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 135877,
-      "sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986"
+      "sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986",
+      "public_path": "자료차수/4차/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 135877,
+      "public_sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986"
     },
     "자료차수/4차/코드/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 130270,
-      "sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa"
+      "sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa",
+      "public_path": "자료차수/4차/코드/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 130270,
+      "public_sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa"
     },
     "자료차수/4차/코드/heatmaps_windows.ipynb": {
       "bytes": 8646,
-      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
+      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a",
+      "public_path": "자료차수/4차/코드/heatmaps_windows.ipynb",
+      "public_bytes": 8536,
+      "public_sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
     },
     "자료차수/4차/코드/paper_figures_resnet50.ipynb": {
       "bytes": 37162,
-      "sha256": "f317a502c0658e3dbcb90cb7af67db526d6594f733b0a0bccb6ec536a3df53c0"
+      "sha256": "f317a502c0658e3dbcb90cb7af67db526d6594f733b0a0bccb6ec536a3df53c0",
+      "public_path": "자료차수/4차/코드/paper_figures_resnet50.ipynb",
+      "public_bytes": 36901,
+      "public_sha256": "d36471d4fe1498c1bf80ad827c1995f0fa28766219f89d1642c6c6f987b8fd6c"
     },
     "자료차수/4차/코드/pareto_scatter.ipynb": {
       "bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_path": "자료차수/4차/코드/pareto_scatter.ipynb",
+      "public_bytes": 0,
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "자료차수/4차/코드/picture2x2.ipynb": {
       "bytes": 7054,
-      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
+      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046",
+      "public_path": "자료차수/4차/코드/picture2x2.ipynb",
+      "public_bytes": 6849,
+      "public_sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
     },
     "자료차수/4차/코드/plot_privacy_metrics_split.ipynb": {
       "bytes": 18984,
-      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
+      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be",
+      "public_path": "자료차수/4차/코드/plot_privacy_metrics_split.ipynb",
+      "public_bytes": 18799,
+      "public_sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
     },
     "자료차수/4차/코드/privacy_score_ssim_psnr_updated.ipynb": {
       "bytes": 94241,
-      "sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5"
+      "sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5",
+      "public_path": "자료차수/4차/코드/privacy_score_ssim_psnr_updated.ipynb",
+      "public_bytes": 94241,
+      "public_sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5"
     },
     "원본자료/4차/work/source/게재논문(한글논문)양식.hwp": {
       "bytes": 414720,
-      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
+      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196",
+      "public_path": "원본자료/4차/work/source/게재논문(한글논문)양식.hwp.md",
+      "public_bytes": 495,
+      "public_sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

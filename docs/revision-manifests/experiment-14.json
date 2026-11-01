@@ -4,163 +4,284 @@
   "files": {
     "추가 학습모델과 실험/block_blur_resnet50_edge.ipynb": {
       "bytes": 147769,
-      "sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb"
+      "sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb",
+      "public_path": "추가 학습모델과 실험/block_blur_resnet50_edge.ipynb",
+      "public_bytes": 147769,
+      "public_sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb"
     },
     "추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb": {
       "bytes": 136449,
-      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
+      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc",
+      "public_path": "추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb",
+      "public_bytes": 136449,
+      "public_sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
     },
     "추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb": {
       "bytes": 120967,
-      "sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4"
+      "sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4",
+      "public_path": "추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb",
+      "public_bytes": 120967,
+      "public_sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4"
     },
     "추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 108653,
-      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
+      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af",
+      "public_path": "추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 108653,
+      "public_sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
     },
     "추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb": {
       "bytes": 52637,
-      "sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa"
+      "sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa",
+      "public_path": "추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb",
+      "public_bytes": 52637,
+      "public_sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa"
     },
     "추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb": {
       "bytes": 119871,
-      "sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f"
+      "sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f",
+      "public_path": "추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb",
+      "public_bytes": 119871,
+      "public_sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f"
     },
     "추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 102127,
-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
+      "public_path": "추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 102127,
+      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
     },
     "추가 학습모델과 실험/heatmaps.py": {
       "bytes": 5522,
-      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
+      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420",
+      "public_path": "추가 학습모델과 실험/heatmaps.py",
+      "public_bytes": 5478,
+      "public_sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
     },
     "추가 학습모델과 실험/paper_figures_resnet50.ipynb": {
       "bytes": 24466,
-      "sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d"
+      "sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d",
+      "public_path": "추가 학습모델과 실험/paper_figures_resnet50.ipynb",
+      "public_bytes": 24466,
+      "public_sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d"
     },
     "추가 학습모델과 실험/plot_privacy_metrics_split.py": {
       "bytes": 5450,
-      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
+      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9",
+      "public_path": "추가 학습모델과 실험/plot_privacy_metrics_split.py",
+      "public_bytes": 5450,
+      "public_sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
     },
     "추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb": {
       "bytes": 37525,
-      "sha256": "9d9c636cfb43dd76cf562e4cf378581748aaf8cd88fbcc2eac516be8ed3858a7"
+      "sha256": "9d9c636cfb43dd76cf562e4cf378581748aaf8cd88fbcc2eac516be8ed3858a7",
+      "public_path": "추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
+      "public_bytes": 37500,
+      "public_sha256": "c40bc7f42abb30b15681993ac194b7877ffe8ef9697c2b23a41c48db3820d600"
     },
     "추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb": {
       "bytes": 29338,
-      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
+      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434",
+      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb",
+      "public_bytes": 29338,
+      "public_sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
     },
     "추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb": {
       "bytes": 29338,
-      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
+      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434",
+      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb",
+      "public_bytes": 29338,
+      "public_sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
     },
     "추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb": {
       "bytes": 26824,
-      "sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5"
+      "sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5",
+      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb",
+      "public_bytes": 26824,
+      "public_sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5"
     },
     "추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb": {
       "bytes": 52527,
-      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
+      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef",
+      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb",
+      "public_bytes": 52527,
+      "public_sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
     },
     "추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb": {
       "bytes": 136778,
-      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
+      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f",
+      "public_path": "추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
+      "public_bytes": 136723,
+      "public_sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
     },
     "추가 학습모델과 실험/Train.ipynb": {
       "bytes": 315835,
-      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
+      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771",
+      "public_path": "추가 학습모델과 실험/Train.ipynb",
+      "public_bytes": 315835,
+      "public_sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
     },
     "원본자료/추가 학습모델과 실험/all_block_results.json": {
       "bytes": 5040,
-      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
+      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801",
+      "public_path": "원본자료/추가 학습모델과 실험/all_block_results.json",
+      "public_bytes": 5040,
+      "public_sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
     },
     "원본자료/추가 학습모델과 실험/block_blur_resnet50_edge.ipynb": {
       "bytes": 148347,
-      "sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9"
+      "sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9",
+      "public_path": "원본자료/추가 학습모델과 실험/block_blur_resnet50_edge.ipynb",
+      "public_bytes": 148347,
+      "public_sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9"
     },
     "원본자료/추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb": {
       "bytes": 168661,
-      "sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a"
+      "sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a",
+      "public_path": "원본자료/추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb",
+      "public_bytes": 168661,
+      "public_sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a"
     },
     "원본자료/추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 138317,
-      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
+      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f",
+      "public_path": "원본자료/추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 138317,
+      "public_sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
     },
     "원본자료/추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb": {
       "bytes": 59418,
-      "sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50"
+      "sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50",
+      "public_path": "원본자료/추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb",
+      "public_bytes": 59418,
+      "public_sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50"
     },
     "원본자료/추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb": {
       "bytes": 169241,
-      "sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda"
+      "sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda",
+      "public_path": "원본자료/추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb",
+      "public_bytes": 169241,
+      "public_sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda"
     },
     "원본자료/추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 132788,
-      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
+      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f",
+      "public_path": "원본자료/추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 132788,
+      "public_sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
     },
     "원본자료/추가 학습모델과 실험/heatmaps.py": {
       "bytes": 5522,
-      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
+      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420",
+      "public_path": "원본자료/추가 학습모델과 실험/heatmaps.py",
+      "public_bytes": 5478,
+      "public_sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
     },
     "원본자료/추가 학습모델과 실험/paper_figures_resnet50.ipynb": {
       "bytes": 24465,
-      "sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c"
+      "sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c",
+      "public_path": "원본자료/추가 학습모델과 실험/paper_figures_resnet50.ipynb",
+      "public_bytes": 24465,
+      "public_sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c"
     },
     "원본자료/추가 학습모델과 실험/plot_privacy_metrics_split.py": {
       "bytes": 5450,
-      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
+      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9",
+      "public_path": "원본자료/추가 학습모델과 실험/plot_privacy_metrics_split.py",
+      "public_bytes": 5450,
+      "public_sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb": {
       "bytes": 38472,
-      "sha256": "862bff744ac2f97bbfad309bb72a60349ca46e39388dba2810f911d966c91dd7"
+      "sha256": "862bff744ac2f97bbfad309bb72a60349ca46e39388dba2810f911d966c91dd7",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
+      "public_bytes": 38447,
+      "public_sha256": "8a585894f45b0b64ecc3ebb46277b1b7e914ac6000ee8665f67d8a1d6b051f0a"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb": {
       "bytes": 54595,
-      "sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c"
+      "sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb",
+      "public_bytes": 54595,
+      "public_sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb": {
       "bytes": 54595,
-      "sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a"
+      "sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb",
+      "public_bytes": 54595,
+      "public_sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb": {
       "bytes": 26823,
-      "sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0"
+      "sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb",
+      "public_bytes": 26823,
+      "public_sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb": {
       "bytes": 96269,
-      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
+      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb",
+      "public_bytes": 96269,
+      "public_sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
     },
     "원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb": {
       "bytes": 136778,
-      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
+      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f",
+      "public_path": "원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
+      "public_bytes": 136723,
+      "public_sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
     },
     "원본자료/추가 학습모델과 실험/Train.ipynb": {
       "bytes": 315835,
-      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
+      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771",
+      "public_path": "원본자료/추가 학습모델과 실험/Train.ipynb",
+      "public_bytes": 315835,
+      "public_sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.csv": {
       "bytes": 22820,
-      "sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69"
+      "sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.csv",
+      "public_bytes": 22820,
+      "public_sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.json": {
       "bytes": 45067,
-      "sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b"
+      "sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.json",
+      "public_bytes": 45067,
+      "public_sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.xlsx": {
       "bytes": 21554,
-      "sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98"
+      "sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.xlsx",
+      "public_bytes": 21554,
+      "public_sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/best_by_type.csv": {
       "bytes": 728,
-      "sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f"
+      "sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/best_by_type.csv",
+      "public_bytes": 728,
+      "public_sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/selected_images.csv": {
       "bytes": 117495,
-      "sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1"
+      "sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/selected_images.csv",
+      "public_bytes": 117495,
+      "public_sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1"
     },
     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/summary_by_type.csv": {
       "bytes": 407,
-      "sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437"
+      "sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437",
+      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/summary_by_type.csv",
+      "public_bytes": 407,
+      "public_sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

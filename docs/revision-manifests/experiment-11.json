@@ -4,11 +4,18 @@
   "files": {
     "블록+블러 엣지/block_blur_resnet50_edge.ipynb": {
       "bytes": 146001,
-      "sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068"
+      "sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068",
+      "public_path": "블록+블러 엣지/block_blur_resnet50_edge.ipynb",
+      "public_bytes": 146001,
+      "public_sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068"
     },
     "원본자료/블록+블러 엣지/block_blur_resnet50_edge.ipynb": {
       "bytes": 146579,
-      "sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370"
+      "sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370",
+      "public_path": "원본자료/블록+블러 엣지/block_blur_resnet50_edge.ipynb",
+      "public_bytes": 146579,
+      "public_sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

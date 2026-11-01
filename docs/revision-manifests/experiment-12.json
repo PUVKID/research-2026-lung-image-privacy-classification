@@ -4,15 +4,25 @@
   "files": {
     "블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb": {
       "bytes": 136775,
-      "sha256": "069080fa81d3e1f740d9cb0f9433b3a6cb1184a3af6a626956bc4b948cc87caa"
+      "sha256": "069080fa81d3e1f740d9cb0f9433b3a6cb1184a3af6a626956bc4b948cc87caa",
+      "public_path": "블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
+      "public_bytes": 136720,
+      "public_sha256": "b00912435335fcd22b82f723737a1e2d6f8ba64acc96f841585ddea964a94507"
     },
     "원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb": {
       "bytes": 136774,
-      "sha256": "31f78836099ec69365232e8a30071e8b6f4ed0bb70491b29f2b08a6dcfcb51e1"
+      "sha256": "31f78836099ec69365232e8a30071e8b6f4ed0bb70491b29f2b08a6dcfcb51e1",
+      "public_path": "원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
+      "public_bytes": 136719,
+      "public_sha256": "08c13dbad9d2bb2d954549190cd581e03a37e73389b96eb1ebb49cdd648fff94"
     },
     "원본자료/블러 스테이지 1 엣지/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json": {
       "bytes": 7731,
-      "sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802"
+      "sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802",
+      "public_path": "원본자료/블러 스테이지 1 엣지/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json",
+      "public_bytes": 7731,
+      "public_sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

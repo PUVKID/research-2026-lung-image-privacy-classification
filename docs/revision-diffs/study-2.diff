@@ -86,9 +86,9 @@
 -Performance Analysis of Video De-identification Techniques for 
 -Privacy Protection in EfficientNetN2-S Model
 -곽윤석† ‧ O김남기†
--†경기대학교 컴퓨터과학과
+-†경기대학교 
 -Yunsuk Kwak† · ONamgi Kim†
--†Dept. of Computer Science, Kyonggi University
+-† Kyonggi University
 -OCorresponding author
 -요   약
 -폐 CT 영상은 환자의 민감한 의료정보를 포함하고 있어 활용 과정에서 개인정보 보호가 요구된다. 본 연구에서는 폐 CT 
@@ -193,14 +193,14 @@
 +++ 논문/2차_ResNet50_최종.pdf
 @@ -0,0 +1,1402 @@
 +=== 1쪽 ===
-+* 경기대학교 컴퓨터과학과   
++* 경기대학교    
 +- ORCID: https://orcid.org/0009-0004-0207-4000
-+** 경기대학교 컴퓨터과학과 교수(교신저자)
++** 경기대학교  교수(교신저자)
 +- ORCID: http://orcid.org/0000-0002-0077-6576
 +ž Received: 00 17, 2024, Revised: 00 20, 2024, Accepted: 00 15, 
 +2025
 +ž Corresponding Author: Namgi Kim 
-+ Dept. of Computer Science, Kyonggi University, Suwon, Korea 
++  Kyonggi University, Suwon, Korea 
 + Tel.: 
 +Email: ngkim@kyonggi.ac.kr
 +ResNet50 기반 폐암 CT 분류에서 Block Encryption·Gaussian 
@@ -1577,20 +1577,20 @@
 +저자소개
 +곽 윤 석 (Yunsuk Kwak)
 + 2026년 경기대학교 
-+인공지능전공 학사
++ 학사
 + 2026년 3월 ~ 현재 : 
-+경기대학교 컴퓨터과학과 
++경기대학교  
 +석사연구생
 + 관심분야 : 인공지능, 컴퓨터 
 +비전, 딥러닝, 의료영상 분석, 
 +개인정보 보호
 +김 남 기 (Namgi Kim)
 + 1997년 서강대학교 
-+컴퓨터공학과 학사
-+ 2000년 KAIST 전산학과 석사
-+ 2005년 KAIST 전산학과 박사
++ 학사
++ 2000년 KAIST  석사
++ 2005년 KAIST  박사
 + 2007년 ~ 현재 : 경기대학교 
-+AI컴퓨터공학부 교수
++ 교수
 +관심분야 : 컴퓨터 네트워크, 
 +이상 탐지, 추천시스템 
 +최적화, 멀티캐스트 라우팅
@@ -2283,8 +2283,8 @@
 -        "})\n",
 -        "\n",
 -        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
--        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_blur_results.json\"  # confirmed\n",
--        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
+-        "JSON_PATH = r\".\\그림\\all_blur_results.json\"  # confirmed\n",
+-        "OUT       = r\".\\그림\"\n",
 -        "os.makedirs(OUT, exist_ok=True)\n",
 -        "\n",
 -        "# ── 데이터 로드 ────────────────────────────────────────────\n",
@@ -2754,8 +2754,8 @@
 -        "})\n",
 -        "\n",
 -        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
--        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_block_results.json\"\n",
--        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
+-        "JSON_PATH = r\".\\그림\\all_block_results.json\"\n",
+-        "OUT       = r\".\\그림\"\n",
 -        "os.makedirs(OUT, exist_ok=True)\n",
 -        "\n",
 -        "# ── 데이터 로드 ────────────────────────────────────────────\n",
@@ -22902,8 +22902,8 @@
 +   "outputs": [],
 +   "source": [
 +    "# ---------------------------------------------------------\n",
-+    "FONT_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "FONT_BOLD_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_PATH = r\"fonts\\NanumGothic.ttf\"\n",
++    "FONT_BOLD_PATH = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "fm.fontManager.addfont(FONT_PATH)\n",
 +    "fm.fontManager.addfont(FONT_BOLD_PATH)\n",
 +    "plt.rcParams[\"font.family\"] = [fm.FontProperties(fname=FONT_PATH).get_name(), \"DejaVu Sans\"]\n",
@@ -23148,8 +23148,8 @@
 +   "outputs": [],
 +   "source": [
 +    "# ---------------------------------------------------------\n",
-+    "FONT_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "FONT_BOLD_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_PATH = r\"fonts\\NanumGothic.ttf\"\n",
++    "FONT_BOLD_PATH = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "fm.fontManager.addfont(FONT_PATH)\n",
 +    "fm.fontManager.addfont(FONT_BOLD_PATH)\n",
 +    "plt.rcParams[\"font.family\"] = [fm.FontProperties(fname=FONT_PATH).get_name(), \"DejaVu Sans\"]\n",
@@ -23392,9 +23392,9 @@
 +          "output_type": "stream",
 +          "text": [
 +            "한글 폰트 적용: NanumGothic\n",
-+            "일반: C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\n",
-+            "Bold: C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\n",
-+            "출력 폴더: c:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\폐암 2차 논문\\코드\\paper_figures\n"
++            "일반: fonts\\NanumGothic.ttf\n",
++            "Bold: fonts\\NanumGothicBold.ttf\n",
++            "출력 폴더: .\\2026\\폐암 논문\\폐암 2차 논문\\코드\\paper_figures\n"
 +          ]
 +        }
 +      ],
@@ -23406,8 +23406,8 @@
 +        "import matplotlib.font_manager as fm\n",
 +        "\n",
 +        "# ── Windows 로컬 NanumGothic 폰트 ─────────────────────────────\n",
-+        "font_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+        "font_bold_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++        "font_path = r\"fonts\\NanumGothic.ttf\"\n",
++        "font_bold_path = r\"fonts\\NanumGothicBold.ttf\"\n",
 +        "\n",
 +        "if os.path.exists(font_path):\n",
 +        "    fm.fontManager.addfont(font_path)\n",
@@ -24141,9 +24141,9 @@
 +          "name": "stderr",
 +          "output_type": "stream",
 +          "text": [
-+            "C:\\Users\\PUVKID\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:38: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
++            "workspace\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:38: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
 +            "  fig.tight_layout()\n",
-+            "C:\\Users\\PUVKID\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:40: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
++            "workspace\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:40: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
 +            "  fig.savefig(out_path, dpi=300, bbox_inches=\"tight\", facecolor=\"white\")\n"
 +          ]
 +        },
@@ -24299,8 +24299,8 @@
 +    "import matplotlib.font_manager as fm\n",
 +    "\n",
 +    "# ── Windows 로컬 NanumGothic 폰트 ─────────────────────────────\n",
-+    "font_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "font_bold_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "font_path = r\"fonts\\NanumGothic.ttf\"\n",
++    "font_bold_path = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if os.path.exists(font_path):\n",
 +    "    fm.fontManager.addfont(font_path)\n",
@@ -24981,7 +24981,7 @@
 +      "========================================\n",
 +      "완료!\n",
 +      "저장 위치:\n",
-+      "C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\privacy_composite_2x2.png\n",
++      ".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\privacy_composite_2x2.png\n",
 +      "========================================\n"
 +     ]
 +    }
@@ -24995,10 +24995,10 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "image_paths = [\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
 +    "]\n",
 +    "\n",
 +    "labels = [\n",
@@ -25013,7 +25013,7 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "font_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\"\n",
++    "    r\"fonts\"\n",
 +    "    r\"\\NanumGothicBold.ttf\"\n",
 +    ")\n",
 +    "\n",
@@ -25167,7 +25167,7 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "output_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\"\n",
++    "    r\".\\2026\\폐암 논문\"\n",
 +    "    r\"\\블록 + 블러\\실험 완료\"\n",
 +    "    r\"\\privacy_composite_2x2.png\"\n",
 +    ")\n",
@@ -25227,10 +25227,10 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "image_paths = [\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
 +    "]\n",
 +    "\n",
 +    "labels = [\n",
@@ -25245,7 +25245,7 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "font_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\"\n",
++    "    r\"fonts\"\n",
 +    "    r\"\\NanumGothicBold.ttf\"\n",
 +    ")\n",
 +    "\n",
@@ -25399,7 +25399,7 @@
 +    "# =========================================================\n",
 +    "\n",
 +    "output_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\"\n",
++    "    r\".\\2026\\폐암 논문\"\n",
 +    "    r\"\\블록 + 블러\\실험 완료\"\n",
 +    "    r\"\\privacy_composite_2x2.png\"\n",
 +    ")\n",
@@ -25455,13 +25455,13 @@
 +     "output_type": "stream",
 +     "text": [
 +      "[font] NanumGothic Bold loaded\n",
-+      "C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\n",
-+      "[saved] C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\\privacy_score_block.png\n",
-+      "[saved] C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\\privacy_score_blur.png\n",
++      "fonts\\NanumGothicBold.ttf\n",
++      "[saved] .\\privacy_score_figures\\privacy_score_block.png\n",
++      "[saved] .\\privacy_score_figures\\privacy_score_blur.png\n",
 +      "\n",
 +      "========================================\n",
 +      "All figures saved successfully.\n",
-+      "Output folder: C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\n",
++      "Output folder: .\\privacy_score_figures\n",
 +      "========================================\n"
 +     ]
 +    }
@@ -25492,7 +25492,7 @@
 +    "# NanumGothic Bold\n",
 +    "# ===========================================================================\n",
 +    "\n",
-+    "FONT_BOLD = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_BOLD = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if not os.path.exists(FONT_BOLD):\n",
 +    "    raise FileNotFoundError(\n",
@@ -26132,7 +26132,7 @@
 +    "# NanumGothic Bold\n",
 +    "# ===========================================================================\n",
 +    "\n",
-+    "FONT_BOLD = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_BOLD = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if not os.path.exists(FONT_BOLD):\n",
 +    "    raise FileNotFoundError(\n",
@@ -29969,14 +29969,14 @@ Binary files /dev/null and 논문/연구2_원문_최종.hwp differ
 +++ 논문/연구2_원문_최종.pdf
 @@ -0,0 +1,1401 @@
 +=== 1쪽 ===
-+* 경기대학교 컴퓨터과학과   
++* 경기대학교    
 +- ORCID: https://orcid.org/0009-0004-0207-4000
-+** 경기대학교 컴퓨터과학과 교수(교신저자)
++** 경기대학교  교수(교신저자)
 +- ORCID: http://orcid.org/0000-0002-0077-6576
 +ž Received: 00 17, 2024, Revised: 00 20, 2024, Accepted: 00 15, 
 +2025
 +ž Corresponding Author: Namgi Kim 
-+ Dept. of Computer Science, Kyonggi University, Suwon, Korea 
++  Kyonggi University, Suwon, Korea 
 + Tel.: +82-31-249-9662, Email: ngkim@kyonggi.ac.kr
 +ResNet50 기반 폐암 CT 분류에서 Block Encryption·Gaussian 
 +Blur의 프라이버시-정확도 트레이드오프 분석
@@ -31352,20 +31352,20 @@ Binary files /dev/null and 논문/연구2_원문_최종.hwp differ
 +저자소개
 +곽 윤 석 (Yunsuk Kwak)
 + 2026년 경기대학교 
-+인공지능전공 학사
++ 학사
 + 2026년 3월 ~ 현재 : 
-+경기대학교 컴퓨터과학과 
++경기대학교  
 +석사연구생
 + 관심분야 : 인공지능, 컴퓨터 
 +비전, 딥러닝, 의료영상 분석, 
 +개인정보 보호
 +김 남 기 (Namgi Kim)
 + 1997년 서강대학교 
-+컴퓨터공학과 학사
-+ 2000년 KAIST 전산학과 석사
-+ 2005년 KAIST 전산학과 박사
++ 학사
++ 2000년 KAIST  석사
++ 2005년 KAIST  박사
 + 2007년 ~ 현재 : 경기대학교 
-+AI컴퓨터공학부 교수
++ 교수
 +관심분야 : 컴퓨터 네트워크, 
 +이상 탐지, 추천시스템 
 +최적화, 멀티캐스트 라우팅
@@ -31380,7 +31380,7 @@ Binary files 연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp and /dev/n
 -위한영상비식별화기법의성능분석
 -Performance Analysis of Video De-identification Techniques for Privacy Protection in EfficientNetN2-S Model
 -곽윤석·  김남기(교신저자)
--경기대학교컴퓨터과학과
+-경기대학교
 -
 -=== 2쪽 ===
 -I N T R O D U C T I O N
@@ -31675,9 +31675,9 @@ Binary files 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발
 -=== 1쪽 ===
 -EfficientNetV2-S 모델에서개인정보보호를
 -위한영상비식별화기법의성능분석
--2026 하계학술대회· 곽윤석· 김남기(교신저자) · 경기대학교컴퓨터과학과
+-2026 하계학술대회· 곽윤석· 김남기(교신저자) · 경기대학교
 -슬라이드1. 표지
--안녕하십니까. 경기대학교컴퓨터과학과곽윤석입니다.
+-안녕하십니까. 경기대학교곽윤석입니다.
 -오늘발표할주제는
 -'EfficientNetV2-S 모델에서개인정보보호를위한영상비식별화기법의성능분석'
 -입니다.
@@ -38709,8 +38709,8 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +   "outputs": [],
 +   "source": [
 +    "# ---------------------------------------------------------\n",
-+    "FONT_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "FONT_BOLD_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_PATH = r\"fonts\\NanumGothic.ttf\"\n",
++    "FONT_BOLD_PATH = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "fm.fontManager.addfont(FONT_PATH)\n",
 +    "fm.fontManager.addfont(FONT_BOLD_PATH)\n",
 +    "plt.rcParams[\"font.family\"] = [fm.FontProperties(fname=FONT_PATH).get_name(), \"DejaVu Sans\"]\n",
@@ -38949,8 +38949,8 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "import matplotlib.font_manager as fm\n",
 +    "\n",
 +    "# ── Windows 로컬 NanumGothic 폰트 ─────────────────────────────\n",
-+    "font_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "font_bold_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "font_path = r\"fonts\\NanumGothic.ttf\"\n",
++    "font_bold_path = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if os.path.exists(font_path):\n",
 +    "    fm.fontManager.addfont(font_path)\n",
@@ -39630,10 +39630,10 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "image_paths = [\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
 +    "]\n",
 +    "\n",
 +    "labels = [\n",
@@ -39648,7 +39648,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "font_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\"\n",
++    "    r\"fonts\"\n",
 +    "    r\"\\NanumGothicBold.ttf\"\n",
 +    ")\n",
 +    "\n",
@@ -39802,7 +39802,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "output_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\"\n",
++    "    r\".\\2026\\폐암 논문\"\n",
 +    "    r\"\\블록 + 블러\\실험 완료\"\n",
 +    "    r\"\\privacy_composite_2x2.png\"\n",
 +    ")\n",
@@ -39879,7 +39879,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# NanumGothic Bold\n",
 +    "# ===========================================================================\n",
 +    "\n",
-+    "FONT_BOLD = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_BOLD = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if not os.path.exists(FONT_BOLD):\n",
 +    "    raise FileNotFoundError(\n",
@@ -46688,8 +46688,8 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +   "outputs": [],
 +   "source": [
 +    "# ---------------------------------------------------------\n",
-+    "FONT_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+    "FONT_BOLD_PATH = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_PATH = r\"fonts\\NanumGothic.ttf\"\n",
++    "FONT_BOLD_PATH = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "fm.fontManager.addfont(FONT_PATH)\n",
 +    "fm.fontManager.addfont(FONT_BOLD_PATH)\n",
 +    "plt.rcParams[\"font.family\"] = [fm.FontProperties(fname=FONT_PATH).get_name(), \"DejaVu Sans\"]\n",
@@ -46948,9 +46948,9 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +          "output_type": "stream",
 +          "text": [
 +            "한글 폰트 적용: NanumGothic\n",
-+            "일반: C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\n",
-+            "Bold: C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\n",
-+            "출력 폴더: c:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\폐암 2차 논문\\코드\\paper_figures\n"
++            "일반: fonts\\NanumGothic.ttf\n",
++            "Bold: fonts\\NanumGothicBold.ttf\n",
++            "출력 폴더: .\\2026\\폐암 논문\\폐암 2차 논문\\코드\\paper_figures\n"
 +          ]
 +        }
 +      ],
@@ -46962,8 +46962,8 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +        "import matplotlib.font_manager as fm\n",
 +        "\n",
 +        "# ── Windows 로컬 NanumGothic 폰트 ─────────────────────────────\n",
-+        "font_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\"\n",
-+        "font_bold_path = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++        "font_path = r\"fonts\\NanumGothic.ttf\"\n",
++        "font_bold_path = r\"fonts\\NanumGothicBold.ttf\"\n",
 +        "\n",
 +        "if os.path.exists(font_path):\n",
 +        "    fm.fontManager.addfont(font_path)\n",
@@ -47697,9 +47697,9 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +          "name": "stderr",
 +          "output_type": "stream",
 +          "text": [
-+            "C:\\Users\\PUVKID\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:38: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
++            "workspace\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:38: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
 +            "  fig.tight_layout()\n",
-+            "C:\\Users\\PUVKID\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:40: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
++            "workspace\\AppData\\Local\\Temp\\ipykernel_29024\\3857756903.py:40: UserWarning: Glyph 8722 (\\N{MINUS SIGN}) missing from font(s) NanumGothic.\n",
 +            "  fig.savefig(out_path, dpi=300, bbox_inches=\"tight\", facecolor=\"white\")\n"
 +          ]
 +        },
@@ -47822,7 +47822,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +      "========================================\n",
 +      "완료!\n",
 +      "저장 위치:\n",
-+      "C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\privacy_composite_2x2.png\n",
++      ".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\privacy_composite_2x2.png\n",
 +      "========================================\n"
 +     ]
 +    }
@@ -47836,10 +47836,10 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "image_paths = [\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\Train\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\512\\Train_Block512_BlurSigma256\\Bengin cases\\Bengin case (1).jpg\",\n",
++    "    r\".\\2026\\폐암 논문\\블록 + 블러\\실험 완료\\256\\Train_Block256_BlurSigma32\\Bengin cases\\Bengin case (1).jpg\",\n",
 +    "]\n",
 +    "\n",
 +    "labels = [\n",
@@ -47854,7 +47854,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "font_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\"\n",
++    "    r\"fonts\"\n",
 +    "    r\"\\NanumGothicBold.ttf\"\n",
 +    ")\n",
 +    "\n",
@@ -48008,7 +48008,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# =========================================================\n",
 +    "\n",
 +    "output_path = (\n",
-+    "    r\"C:\\Users\\PUVKID\\Desktop\\2026\\폐암 논문\"\n",
++    "    r\".\\2026\\폐암 논문\"\n",
 +    "    r\"\\블록 + 블러\\실험 완료\"\n",
 +    "    r\"\\privacy_composite_2x2.png\"\n",
 +    ")\n",
@@ -48064,13 +48064,13 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +     "output_type": "stream",
 +     "text": [
 +      "[font] NanumGothic Bold loaded\n",
-+      "C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\n",
-+      "[saved] C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\\privacy_score_block.png\n",
-+      "[saved] C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\\privacy_score_blur.png\n",
++      "fonts\\NanumGothicBold.ttf\n",
++      "[saved] .\\privacy_score_figures\\privacy_score_block.png\n",
++      "[saved] .\\privacy_score_figures\\privacy_score_blur.png\n",
 +      "\n",
 +      "========================================\n",
 +      "All figures saved successfully.\n",
-+      "Output folder: C:\\Users\\PUVKID\\Desktop\\privacy_score_figures\n",
++      "Output folder: .\\privacy_score_figures\n",
 +      "========================================\n"
 +     ]
 +    }
@@ -48101,7 +48101,7 @@ Binary files 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초
 +    "# NanumGothic Bold\n",
 +    "# ===========================================================================\n",
 +    "\n",
-+    "FONT_BOLD = r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothicBold.ttf\"\n",
++    "FONT_BOLD = r\"fonts\\NanumGothicBold.ttf\"\n",
 +    "\n",
 +    "if not os.path.exists(FONT_BOLD):\n",
 +    "    raise FileNotFoundError(\n",

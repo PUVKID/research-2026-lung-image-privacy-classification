@@ -13,8 +13,8 @@ import matplotlib.font_manager as fm
 # ---------------------------------------------------------
 # 0. Korean font 등록 (NanumGothic)
 # ---------------------------------------------------------
-FONT_PATH = "/home/claude/fonts/NanumGothic-Regular.ttf"
-FONT_BOLD_PATH = "/home/claude/fonts/NanumGothic-Bold.ttf"
+FONT_PATH = "./fonts/NanumGothic-Regular.ttf"
+FONT_BOLD_PATH = "./fonts/NanumGothic-Bold.ttf"
 fm.fontManager.addfont(FONT_PATH)
 fm.fontManager.addfont(FONT_BOLD_PATH)
 plt.rcParams["font.family"] = [fm.FontProperties(fname=FONT_PATH).get_name(), "DejaVu Sans"]
@@ -109,7 +109,7 @@ draw_heatmap(
     cmap="RdYlGn",
     vmin=45, vmax=100,
     cbar_label="Accuracy (%)",
-    fname="/home/claude/accuracy_heatmap.png",
+    fname="./accuracy_heatmap.png",
     text_threshold_frac=0.35,
 )
 
@@ -121,6 +121,6 @@ draw_heatmap(
     cmap="viridis",
     vmin=0, vmax=50,
     cbar_label="Privacy Score (0-50)",
-    fname="/home/claude/privacy_heatmap.png",
+    fname="./privacy_heatmap.png",
     text_threshold_frac=0.55,
 )

@@ -4,15 +4,25 @@
   "files": {
     "블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 102127,
-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
+      "public_path": "블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 102127,
+      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
     },
     "원본자료/블러/2차 실험/all_blur_results_resnet50_unified_v1.json": {
       "bytes": 5326,
-      "sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db"
+      "sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db",
+      "public_path": "원본자료/블러/2차 실험/all_blur_results_resnet50_unified_v1.json",
+      "public_bytes": 5326,
+      "public_sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db"
     },
     "원본자료/블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 102127,
-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
+      "public_path": "원본자료/블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 102127,
+      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

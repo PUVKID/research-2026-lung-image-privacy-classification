@@ -1,9 +1,9 @@
 import { copyFile, readFile, writeFile } from "node:fs/promises";
 
 const paths = {
-  blur: "C:/Users/PUVKID/Desktop/blur_resnet50_rebuilt2_KO.ipynb",
-  block: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO.ipynb",
-  blockBackup: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
+  blur: "./blur_resnet50_rebuilt2_KO.ipynb",
+  block: "./block_encryption_resnet50_rebuilt_KO.ipynb",
+  blockBackup: "./block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
 };
 
 function getSource(book, index) {

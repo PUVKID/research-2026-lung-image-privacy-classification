@@ -69,3 +69,5 @@ Stay tuned for updates and enhancements to the Lung Cancer Classification system
 🔬🧠👨‍⚕️📊👩‍💻
 
 ---
+
+> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.

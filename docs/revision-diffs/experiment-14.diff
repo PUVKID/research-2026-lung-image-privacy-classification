@@ -40456,8 +40456,8 @@
 +# ---------------------------------------------------------
 +# 0. Korean font 등록 (NanumGothic)
 +# ---------------------------------------------------------
-+FONT_PATH = "/home/claude/fonts/NanumGothic-Regular.ttf"
-+FONT_BOLD_PATH = "/home/claude/fonts/NanumGothic-Bold.ttf"
++FONT_PATH = "./fonts/NanumGothic-Regular.ttf"
++FONT_BOLD_PATH = "./fonts/NanumGothic-Bold.ttf"
 +fm.fontManager.addfont(FONT_PATH)
 +fm.fontManager.addfont(FONT_BOLD_PATH)
 +plt.rcParams["font.family"] = [fm.FontProperties(fname=FONT_PATH).get_name(), "DejaVu Sans"]
@@ -40552,7 +40552,7 @@
 +    cmap="RdYlGn",
 +    vmin=45, vmax=100,
 +    cbar_label="Accuracy (%)",
-+    fname="/home/claude/accuracy_heatmap.png",
++    fname="./accuracy_heatmap.png",
 +    text_threshold_frac=0.35,
 +)
 +
@@ -40564,7 +40564,7 @@
 +    cmap="viridis",
 +    vmin=0, vmax=50,
 +    cbar_label="Privacy Score (0-50)",
-+    fname="/home/claude/privacy_heatmap.png",
++    fname="./privacy_heatmap.png",
 +    text_threshold_frac=0.55,
 +)
 --- /dev/null
@@ -40585,8 +40585,8 @@
 +# ---------------------------------------------------------
 +# 0. Korean font 등록 (NanumGothic)
 +# ---------------------------------------------------------
-+FONT_PATH = "/home/claude/fonts/NanumGothic-Regular.ttf"
-+FONT_BOLD_PATH = "/home/claude/fonts/NanumGothic-Bold.ttf"
++FONT_PATH = "./fonts/NanumGothic-Regular.ttf"
++FONT_BOLD_PATH = "./fonts/NanumGothic-Bold.ttf"
 +fm.fontManager.addfont(FONT_PATH)
 +fm.fontManager.addfont(FONT_BOLD_PATH)
 +plt.rcParams["font.family"] = [fm.FontProperties(fname=FONT_PATH).get_name(), "DejaVu Sans"]
@@ -40681,7 +40681,7 @@
 +    cmap="RdYlGn",
 +    vmin=45, vmax=100,
 +    cbar_label="Accuracy (%)",
-+    fname="/home/claude/accuracy_heatmap.png",
++    fname="./accuracy_heatmap.png",
 +    text_threshold_frac=0.35,
 +)
 +
@@ -40693,7 +40693,7 @@
 +    cmap="viridis",
 +    vmin=0, vmax=50,
 +    cbar_label="Privacy Score (0-50)",
-+    fname="/home/claude/privacy_heatmap.png",
++    fname="./privacy_heatmap.png",
 +    text_threshold_frac=0.55,
 +)
 --- /dev/null
@@ -42237,7 +42237,7 @@
 +    "    candidates.extend([\n",
 +    "        Path(\"/workspace\"),\n",
 +    "        Path.cwd(),\n",
-+    "        Path(r\"C:\\Users\\PUVKID\\Desktop\\Train\"),\n",
++    "        Path(r\".\\Train\"),\n",
 +    "    ])\n",
 +    "\n",
 +    "    unique = []\n",
@@ -43187,7 +43187,7 @@
 +    "    candidates.extend([\n",
 +    "        Path(\"/workspace\"),\n",
 +    "        Path.cwd(),\n",
-+    "        Path(r\"C:\\Users\\PUVKID\\Desktop\\Train\"),\n",
++    "        Path(r\".\\Train\"),\n",
 +    "    ])\n",
 +    "\n",
 +    "    unique = []\n",
@@ -55227,7 +55227,7 @@
 +    "import glob as _glob\n",
 +    "\n",
 +    "_WIN_CANDIDATES = [\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\",\n",
++    "    r\"fonts\\NanumGothic.ttf\",\n",
 +    "]\n",
 +    "_LINUX_CANDIDATES = [\n",
 +    "    \"/usr/share/fonts/truetype/nanum/NanumGothic.ttf\",\n",
@@ -57596,7 +57596,7 @@
 +    "import glob as _glob\n",
 +    "\n",
 +    "_WIN_CANDIDATES = [\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\",\n",
++    "    r\"fonts\\NanumGothic.ttf\",\n",
 +    "]\n",
 +    "_LINUX_CANDIDATES = [\n",
 +    "    \"/usr/share/fonts/truetype/nanum/NanumGothic.ttf\",\n",
@@ -72349,8 +72349,8 @@
 +# ---------------------------------------------------------
 +# 0. Korean font 등록 (NanumGothic)
 +# ---------------------------------------------------------
-+FONT_PATH = "/home/claude/fonts/NanumGothic-Regular.ttf"
-+FONT_BOLD_PATH = "/home/claude/fonts/NanumGothic-Bold.ttf"
++FONT_PATH = "./fonts/NanumGothic-Regular.ttf"
++FONT_BOLD_PATH = "./fonts/NanumGothic-Bold.ttf"
 +fm.fontManager.addfont(FONT_PATH)
 +fm.fontManager.addfont(FONT_BOLD_PATH)
 +plt.rcParams["font.family"] = [fm.FontProperties(fname=FONT_PATH).get_name(), "DejaVu Sans"]
@@ -72445,7 +72445,7 @@
 +    cmap="RdYlGn",
 +    vmin=45, vmax=100,
 +    cbar_label="Accuracy (%)",
-+    fname="/home/claude/accuracy_heatmap.png",
++    fname="./accuracy_heatmap.png",
 +    text_threshold_frac=0.35,
 +)
 +
@@ -72457,7 +72457,7 @@
 +    cmap="viridis",
 +    vmin=0, vmax=50,
 +    cbar_label="Privacy Score (0-50)",
-+    fname="/home/claude/privacy_heatmap.png",
++    fname="./privacy_heatmap.png",
 +    text_threshold_frac=0.55,
 +)
 --- /dev/null
@@ -73324,7 +73324,7 @@
 +    "    candidates.extend([\n",
 +    "        Path(\"/workspace\"),\n",
 +    "        Path.cwd(),\n",
-+    "        Path(r\"C:\\Users\\PUVKID\\Desktop\\Train\"),\n",
++    "        Path(r\".\\Train\"),\n",
 +    "    ])\n",
 +    "\n",
 +    "    unique = []\n",
@@ -77443,7 +77443,7 @@
 +    "import glob as _glob\n",
 +    "\n",
 +    "_WIN_CANDIDATES = [\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\",\n",
++    "    r\"fonts\\NanumGothic.ttf\",\n",
 +    "]\n",
 +    "_LINUX_CANDIDATES = [\n",
 +    "    \"/usr/share/fonts/truetype/nanum/NanumGothic.ttf\",\n",
@@ -99377,8 +99377,8 @@
 +# ---------------------------------------------------------
 +# 0. Korean font 등록 (NanumGothic)
 +# ---------------------------------------------------------
-+FONT_PATH = "/home/claude/fonts/NanumGothic-Regular.ttf"
-+FONT_BOLD_PATH = "/home/claude/fonts/NanumGothic-Bold.ttf"
++FONT_PATH = "./fonts/NanumGothic-Regular.ttf"
++FONT_BOLD_PATH = "./fonts/NanumGothic-Bold.ttf"
 +fm.fontManager.addfont(FONT_PATH)
 +fm.fontManager.addfont(FONT_BOLD_PATH)
 +plt.rcParams["font.family"] = [fm.FontProperties(fname=FONT_PATH).get_name(), "DejaVu Sans"]
@@ -99473,7 +99473,7 @@
 +    cmap="RdYlGn",
 +    vmin=45, vmax=100,
 +    cbar_label="Accuracy (%)",
-+    fname="/home/claude/accuracy_heatmap.png",
++    fname="./accuracy_heatmap.png",
 +    text_threshold_frac=0.35,
 +)
 +
@@ -99485,7 +99485,7 @@
 +    cmap="viridis",
 +    vmin=0, vmax=50,
 +    cbar_label="Privacy Score (0-50)",
-+    fname="/home/claude/privacy_heatmap.png",
++    fname="./privacy_heatmap.png",
 +    text_threshold_frac=0.55,
 +)
 --- /dev/null
@@ -100351,7 +100351,7 @@
 +    "    candidates.extend([\n",
 +    "        Path(\"/workspace\"),\n",
 +    "        Path.cwd(),\n",
-+    "        Path(r\"C:\\Users\\PUVKID\\Desktop\\Train\"),\n",
++    "        Path(r\".\\Train\"),\n",
 +    "    ])\n",
 +    "\n",
 +    "    unique = []\n",
@@ -106140,7 +106140,7 @@
 +    "import glob as _glob\n",
 +    "\n",
 +    "_WIN_CANDIDATES = [\n",
-+    "    r\"C:\\Users\\PUVKID\\AppData\\Local\\Microsoft\\Windows\\Fonts\\NanumGothic.ttf\",\n",
++    "    r\"fonts\\NanumGothic.ttf\",\n",
 +    "]\n",
 +    "_LINUX_CANDIDATES = [\n",
 +    "    \"/usr/share/fonts/truetype/nanum/NanumGothic.ttf\",\n",

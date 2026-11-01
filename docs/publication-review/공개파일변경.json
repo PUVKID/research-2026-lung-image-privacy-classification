@@ -1,0 +1,1121 @@
+{
+  "scope": "이번 공개 자료 정리의 실제 파일 변경. 개인정보 원문 값은 재기록하지 않습니다. 이 색인 자체의 재귀 해시는 포함하지 않습니다.",
+  "changes": [
+    {
+      "path": "README.md",
+      "change": "modified",
+      "before": {
+        "bytes": 30053,
+        "sha256": "99c405dc81497b0911b2732df4e9169779ba4eddb47f74328d0a33c5579ef064"
+      },
+      "after": {
+        "bytes": 32597,
+        "sha256": "81ae6e6d1ef64fe47a9a6540072acced8e41c8a8aef4b5971992e62e7b1e5770"
+      }
+    },
+    {
+      "path": "docs/PAPERS.md",
+      "change": "modified",
+      "before": {
+        "bytes": 1394,
+        "sha256": "f98aa5ba57b18c7616e46558cd306c87b400a9405cad99dcc8ea90fb627567e6"
+      },
+      "after": {
+        "bytes": 1680,
+        "sha256": "69a51ea922d7fd7aa201b9458adf701a30f998c215dff0d33aa5c84236627f22"
+      }
+    },
+    {
+      "path": "docs/PRIVACY_CHANGELOG_2026-10-30.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 740,
+        "sha256": "59e797c9554ad5216b53f8a63ff06bfca2b4ff26c213fdc7bfe1ef514dd82092"
+      }
+    },
+    {
+      "path": "docs/PUBLIC_CHANGELOG_2026-10-30.md",
+      "change": "modified",
+      "before": {
+        "bytes": 12969,
+        "sha256": "25e695e3e910708eabe9f11bda3d982403fb0ef109356e2207766d33431da93c"
+      },
+      "after": {
+        "bytes": 13193,
+        "sha256": "8ac75aba2cfa0d261e814128b61a7fa1fa5fd98536c9ac2c7853e0f9a3df4f50"
+      }
+    },
+    {
+      "path": "docs/REVISION_INDEX.md",
+      "change": "modified",
+      "before": {
+        "bytes": 8456,
+        "sha256": "56aee8ff59d37458cd09c16bd4f7a832ba9f2eddde36095a5951efa841ab2314"
+      },
+      "after": {
+        "bytes": 8786,
+        "sha256": "b002bdb5e091fe229608cbeb1d365063443de90180ac62446a7c71b6af63fe70"
+      }
+    },
+    {
+      "path": "docs/changes/2026-10-30-공개자료정리.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 403,
+        "sha256": "b3ccd8be5bc51d4630f76cb85a8467be72d649568033b9700b21e3deb6fcb9de"
+      }
+    },
+    {
+      "path": "docs/changes/2026-10-30-자료와차수정리.md",
+      "change": "modified",
+      "before": {
+        "bytes": 30265,
+        "sha256": "f1903c4ff07a57598ae8afe91808c53fc7b926954d928a17b338c3d4e6c49ddc"
+      },
+      "after": {
+        "bytes": 30286,
+        "sha256": "41e46caddfccac3fa3b316741afefa4b660ed429c05c94cb3d809ba7ba7a28eb"
+      }
+    },
+    {
+      "path": "docs/privacy-changes.diff",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 118031,
+        "sha256": "f8efe0ca4ad09e6d7b87bca1ae5fdb197e50d3301973c1bb09c27c10fb93bacd"
+      }
+    },
+    {
+      "path": "docs/publication-review/item-1.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 671,
+        "sha256": "31721d9d0ef29683261eba536b892ac9d7450a00b8ea47cee862fdcaddaebe14"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/experiment-12.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 566339,
+        "sha256": "da1066f183a846a867a4a57aa87ffa002205328f0528af334cfa0c6e9627b857"
+      },
+      "after": {
+        "bytes": 566119,
+        "sha256": "b4ce6d657d9237bf5c62ecf505cd9effa9a0565cd23738b1f9061ff56216c550"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/experiment-14.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 6238241,
+        "sha256": "d5720b89a3f74da4bb61ba20b64ecc1dc67ad5e3e4d9de28c82fced9730dd50d"
+      },
+      "after": {
+        "bytes": 6237745,
+        "sha256": "87b4090dba6bcf7ea8e019e47f4e8a1a4084d3d62d6bb24e23ff64c4f8bb2d18"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/folder-1.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 577525,
+        "sha256": "5e52220c3db99b199f2cace2dc83aa9ed42536968870cb9b95cffb25206027f9"
+      },
+      "after": {
+        "bytes": 577023,
+        "sha256": "d5fee8eb94a49508e1a38785907af60e192dc81abe894f132338210b5f9b5ace"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/folder-2.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 623320,
+        "sha256": "c8d8b84ff743162aba3e2fd44e6eb753669db4a2da216febd2d0d7165abb6048"
+      },
+      "after": {
+        "bytes": 622620,
+        "sha256": "980f23a83e81de17d9439d3c0371076371f6c40b71433d0139a39452f3ec852f"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/folder-3.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 202167,
+        "sha256": "77465b78d4199a91720ec630c2944db2bde7b0c485573ce09910eb98b10bcb8c"
+      },
+      "after": {
+        "bytes": 201182,
+        "sha256": "de9c5bef5fdbe8acf59db63274b81f1418cca021441b4bceedbce450600508fc"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/folder-4.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 895937,
+        "sha256": "36d5b60ad30b4778f3aaac43825a7541ce00993e3b403acb27da4dde0dd6118a"
+      },
+      "after": {
+        "bytes": 894229,
+        "sha256": "a34e5a585f23a9da919602d51df1781220ddbfaf6a4edbac6e5afa8975eb79ed"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/study-1.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 178167,
+        "sha256": "37f61c3bc0c851dc2829782abad44ed6cf08b24f2120c089930d9aa8bb596f6e"
+      },
+      "after": {
+        "bytes": 177517,
+        "sha256": "bef0f30436cc6c047d67f58075e12b1c3755511f6ea154189f466d16d6efb299"
+      }
+    },
+    {
+      "path": "docs/revision-diffs/study-2.diff",
+      "change": "modified",
+      "before": {
+        "bytes": 3012378,
+        "sha256": "eb60ab420e321692c666d4f49e0ee5aba633113ef55cb347570a3b560220b62a"
+      },
+      "after": {
+        "bytes": 3009252,
+        "sha256": "e087b37cacefa3e55cb3b908eb7c7a56b98a390c5971af15863b2d6eeaea1497"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-10.json",
+      "change": "modified",
+      "before": {
+        "bytes": 647,
+        "sha256": "733b7f9cffae0d06d83cfd6dd8b40014b87bec792c9c3387f67bdb1bd51c3f7f"
+      },
+      "after": {
+        "bytes": 1447,
+        "sha256": "7889cb13e4ad87eff05b648ed0acab2401e7da6e9d6ddf5112060bb95cbb5f57"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-11.json",
+      "change": "modified",
+      "before": {
+        "bytes": 446,
+        "sha256": "dddf3ca6e59e96dbae02f195afef6b062976c92932bdb92bd99fd4e5d991a5a1"
+      },
+      "after": {
+        "bytes": 1015,
+        "sha256": "5dc23878452d67f71ff56473810b9f95e078542b2e0a67d9ae2c05365d9880b9"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-12.json",
+      "change": "modified",
+      "before": {
+        "bytes": 773,
+        "sha256": "939838899e07cf4bedd311835df9785e417ee1a829889feea74a34523397f4e6"
+      },
+      "after": {
+        "bytes": 1684,
+        "sha256": "a0f7f87ff3145a58ebcdff0bc293dbd22a2880d249c52f9158a61f1e1425422a"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-13.json",
+      "change": "modified",
+      "before": {
+        "bytes": 2206,
+        "sha256": "6df66b0d0dfe4819bd0b50efbec1167ef65b8b174a8ab057003536af57bff83c"
+      },
+      "after": {
+        "bytes": 4772,
+        "sha256": "dc209c772d689c2ad27eb8c091d9ec23fcb32a4d6ae830c6a8ab2f9b5f52a12d"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-14.json",
+      "change": "modified",
+      "before": {
+        "bytes": 7880,
+        "sha256": "302aa655dc39b1be5ebcb4bbd0acf43b63bcf964cfe4f1824b84d877aada4c88"
+      },
+      "after": {
+        "bytes": 16748,
+        "sha256": "6d6a5c4ac54830284a318d926bdbfd8e09df8fdf7b1a791072205b5e1e735db7"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-6.json",
+      "change": "modified",
+      "before": {
+        "bytes": 629,
+        "sha256": "e5adb3526637f25500248daf144696fd22a3a46e76c36df905acc1f7aba8f37e"
+      },
+      "after": {
+        "bytes": 1413,
+        "sha256": "c926143026a0ce0f3b004ca9fff2d80cae59e8acab34a9d30dce5185cb93fd94"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-7.json",
+      "change": "modified",
+      "before": {
+        "bytes": 650,
+        "sha256": "1aa7005686631c7871eca008ab363c62ee3b84e1a0e2ab61c62b308f7af38598"
+      },
+      "after": {
+        "bytes": 1455,
+        "sha256": "9bd66ed14ca0b56c458cc6d3973f7de5444ed2df942424975d6a21175b4aea68"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-8.json",
+      "change": "modified",
+      "before": {
+        "bytes": 657,
+        "sha256": "d210d394e45c53390822db4b060e0946658cc5484294b61600aab39c721137a0"
+      },
+      "after": {
+        "bytes": 1467,
+        "sha256": "b658391d052a43b63ea4ef0e141bde2d4e2d624827b4ca89200d5db69767ae88"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-9.json",
+      "change": "modified",
+      "before": {
+        "bytes": 622,
+        "sha256": "42a201de57188ac6c27fb813e71fc64f4884d94d3acb4152648f2085ddcaabed"
+      },
+      "after": {
+        "bytes": 1397,
+        "sha256": "90ad5eb3f07eeca2d2010c299bceaa7064d1c383c94042a22ae2f782515216df"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-original-block.json",
+      "change": "modified",
+      "before": {
+        "bytes": 274,
+        "sha256": "49a013b8218bb6913b6da14c75f887b144276cda0df4caa2dd46584c2ee0861a"
+      },
+      "after": {
+        "bytes": 657,
+        "sha256": "aac04be97af8b7b9d55a6e5d2ce4789ed1167295d1f595ec2c8954f5bffe7407"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/experiment-original-blur.json",
+      "change": "modified",
+      "before": {
+        "bytes": 276,
+        "sha256": "4009f512e1b00a01bc588237672aa28da6f18c6cf5815fa0e5895dfa7e888d96"
+      },
+      "after": {
+        "bytes": 661,
+        "sha256": "261dd914df83a4b36a226cd65ba083d51b00263e8b8b1e629b022fee3553d588"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/folder-1.json",
+      "change": "modified",
+      "before": {
+        "bytes": 1994,
+        "sha256": "f74ece69f2c1506e80edb6e2a0f7ce2edce0f6ec690b4d0697893922ffcbe3c0"
+      },
+      "after": {
+        "bytes": 4337,
+        "sha256": "b61b744342d71436dfa37a7daab14431e78fde49b20a8cdf62f2a9d2ecd945e6"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/folder-2.json",
+      "change": "modified",
+      "before": {
+        "bytes": 582,
+        "sha256": "f31cd3bfa0c9cce85e969dd99e30cca6428e802c469d8523a1bfcf59947a7325"
+      },
+      "after": {
+        "bytes": 1320,
+        "sha256": "76a4d75680fa583a6bfbea2462fdc7e2c5fe4a07bf28748964c2eb7050dd8ddf"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/folder-3.json",
+      "change": "modified",
+      "before": {
+        "bytes": 3253,
+        "sha256": "cffc86c70c4822597401beb9f0bfcb68a1d8c1597b3a047e5f7c2267c92aaacc"
+      },
+      "after": {
+        "bytes": 7007,
+        "sha256": "cc7b46b3ef38dfff3aa13f96e5b813fd0238b667c6a2b4a699052286b3187d50"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/folder-4.json",
+      "change": "modified",
+      "before": {
+        "bytes": 1998,
+        "sha256": "f0907ec5ec3256fd94a077d1aa2d6af5bc1f1c8107bd2cd06067974064846243"
+      },
+      "after": {
+        "bytes": 4336,
+        "sha256": "9ac53357dad00a3b0ad480f4f37c14bfcf5385973d7fc4401b82eb5300df7ad5"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/study-1.json",
+      "change": "modified",
+      "before": {
+        "bytes": 2689,
+        "sha256": "ac2a32e887004c04e4df4448fd0d90f7692a5fc4b3fc47df9e529e787540d87b"
+      },
+      "after": {
+        "bytes": 5752,
+        "sha256": "8a41d6bfde16847a8f32b626db2712f37ac72aeab566dd5c6a19ba267daa119f"
+      }
+    },
+    {
+      "path": "docs/revision-manifests/study-2.json",
+      "change": "modified",
+      "before": {
+        "bytes": 4104,
+        "sha256": "b9a465dae4eebf18a4f807727d1d1c04a05198b47e1a44544f173c730cf52164"
+      },
+      "after": {
+        "bytes": 8755,
+        "sha256": "e1d52e60e0b54c5e840bbdd6b174b2a4e0c09e45b88a97719967fabac76903ca"
+      }
+    },
+    {
+      "path": "docs/revisions/folder-4.md",
+      "change": "modified",
+      "before": {
+        "bytes": 3808,
+        "sha256": "642734ecebf6cd7e7e1078e9a1f29384c42e2eb7dc73c049a91a2158e5717fd4"
+      },
+      "after": {
+        "bytes": 3840,
+        "sha256": "9914407659ee939c45a6e14fccf77b7c8df430dbd0a10fe84864e0ae0ad45944"
+      }
+    },
+    {
+      "path": "docs/revisions/study-1.md",
+      "change": "modified",
+      "before": {
+        "bytes": 5746,
+        "sha256": "c3339c44cc921eb4655279289d1925b145b201c5e9b95f9b3132a03c72efa12e"
+      },
+      "after": {
+        "bytes": 5789,
+        "sha256": "9f7f54c6aba61ad5455363c6d2ba94e63d448eafe7805c4149482129e39c1dfd"
+      }
+    },
+    {
+      "path": "docs/revisions/study-2.md",
+      "change": "modified",
+      "before": {
+        "bytes": 7288,
+        "sha256": "eedb4bb6d3010650212ac23ededc61708e690b69578cbae06d6211a5fe7c7732"
+      },
+      "after": {
+        "bytes": 7334,
+        "sha256": "902381ab26d2733ae98d181ade2c4a8c185860efd66bb470cef124cdd65b81e2"
+      }
+    },
+    {
+      "path": "논문/1차_EfficientNetV2-S_하계_최종.pdf",
+      "change": "modified",
+      "before": {
+        "bytes": 410164,
+        "sha256": "dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63"
+      },
+      "after": {
+        "bytes": 402261,
+        "sha256": "936fbbbaf93dd3210f5e8ada7b73acca0120faf594769f64ea4c5c3eca925bc6"
+      }
+    },
+    {
+      "path": "논문/2차_ResNet50_최종.pdf",
+      "change": "modified",
+      "before": {
+        "bytes": 2827829,
+        "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7"
+      },
+      "after": {
+        "bytes": 2821093,
+        "sha256": "3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f"
+      }
+    },
+    {
+      "path": "논문/연구2_원문_최종.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 4908032,
+        "sha256": "14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50"
+      },
+      "after": null
+    },
+    {
+      "path": "논문/연구2_원문_최종.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 456,
+        "sha256": "8a34765a3e673e929cdc21b6c06347eb05d8e57a3eb717d9f7b9f095b08f7145"
+      }
+    },
+    {
+      "path": "논문/연구2_원문_최종.pdf",
+      "change": "modified",
+      "before": {
+        "bytes": 2865864,
+        "sha256": "58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe"
+      },
+      "after": {
+        "bytes": 2834768,
+        "sha256": "f0a7d61fd9b7d45d0690f6d1eff2f172c9b8d38e03f4d9184109a692b4dc7de8"
+      }
+    },
+    {
+      "path": "블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 136775,
+        "sha256": "069080fa81d3e1f740d9cb0f9433b3a6cb1184a3af6a626956bc4b948cc87caa"
+      },
+      "after": {
+        "bytes": 136720,
+        "sha256": "b00912435335fcd22b82f723737a1e2d6f8ba64acc96f841585ddea964a94507"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 527360,
+        "sha256": "f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc"
+      },
+      "after": null
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 436,
+        "sha256": "4b34e0860d2c0ac79b7d51731ef143b012815fc3c805dbda4c0da663441bb12d"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/논문/원문_최종.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 402261,
+        "sha256": "8dbc5c7652a37783c5f22102da23242f4cb5a5febf8859936606937d9ef3e229"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf",
+      "change": "modified",
+      "before": {
+        "bytes": 2156389,
+        "sha256": "22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3"
+      },
+      "after": {
+        "bytes": 2230081,
+        "sha256": "a7e15a322aa89ccf28e81acd126fe6807693c43d7ef9d73b5e927d42a651322b"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx",
+      "change": "modified",
+      "before": {
+        "bytes": 2325109,
+        "sha256": "a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193"
+      },
+      "after": {
+        "bytes": 2322158,
+        "sha256": "fe074b7367e4f6f816ad1ac579742683fcdff9ed15157a5ca0752270e01355b4"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx",
+      "change": "modified",
+      "before": {
+        "bytes": 12063,
+        "sha256": "fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246"
+      },
+      "after": {
+        "bytes": 12048,
+        "sha256": "5a155b5377c44b575b9de4852febb2d5cd31684767b89b9b84322cead045af34"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx",
+      "change": "modified",
+      "before": {
+        "bytes": 14644,
+        "sha256": "3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8"
+      },
+      "after": {
+        "bytes": 14584,
+        "sha256": "6e813724a4ba06b2a6d471c2d755a6efd7870fa18a6fe81ed407fee5e451a059"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf",
+      "change": "modified",
+      "before": {
+        "bytes": 314134,
+        "sha256": "f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a"
+      },
+      "after": {
+        "bytes": 313962,
+        "sha256": "075fbc9b6a10e4f47f8ac32d8eebfe863d1fd187ce740342d98bd2de2304e8c6"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 34700,
+        "sha256": "21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec"
+      },
+      "after": {
+        "bytes": 34424,
+        "sha256": "90fd32f132c7f75fdbd268d571154ed4ecefda36ab7168ed00b538b57ddba151"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 534016,
+        "sha256": "a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915"
+      },
+      "after": null
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 500,
+        "sha256": "ae2b1186b51ee532f81bc9b91f7e2a41289c5795266529ccaf8448c42bbb366f"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 385450,
+        "sha256": "2aaee2319588c674548adfcf96dd7f8de814d8c7bfbc8a0cdc0c6f73c8e680be"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 50688,
+        "sha256": "218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b"
+      },
+      "after": null
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 500,
+        "sha256": "5b11cdea35374ffab3530b44649bdcd77a22db3d429385616756a8b6ee99636d"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 73870,
+        "sha256": "9fb1513af89180f3dfa08c5ef18a73ac13566929b9bfb079e6e66cb9bf696102"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 55296,
+        "sha256": "d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44"
+      },
+      "after": null
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 500,
+        "sha256": "3a0fa74b093021d39129d96abc4d637a016a371ba4f3beb485b151b4f0c23e3d"
+      }
+    },
+    {
+      "path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 71362,
+        "sha256": "4d1029fb9c16e417881442cc82cb9bbd22d3662d4d0a4c3db6db33693879998d"
+      }
+    },
+    {
+      "path": "원본자료/3차/privacy_score_outputs/tables/selected_images.csv",
+      "change": "modified",
+      "before": {
+        "bytes": 406,
+        "sha256": "13a874a2d948b964c171ab3a6927e78882c262a245940933a5285454de846a71"
+      },
+      "after": {
+        "bytes": 337,
+        "sha256": "20e35ba4500ac0f255714ce39480ed07c509598e557efb75bc3d3aac4b7aba51"
+      }
+    },
+    {
+      "path": "원본자료/4차/work/source/게재논문(한글논문)양식.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 414720,
+        "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
+      },
+      "after": null
+    },
+    {
+      "path": "원본자료/4차/work/source/게재논문(한글논문)양식.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 495,
+        "sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
+      }
+    },
+    {
+      "path": "원본자료/4차/work/source/게재논문(한글논문)양식.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 427870,
+        "sha256": "1c476db22d0063839658e7fe05cddb4bf1e256388d1d97a8581e69ce0ae7cc6f"
+      }
+    },
+    {
+      "path": "원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 136774,
+        "sha256": "31f78836099ec69365232e8a30071e8b6f4ed0bb70491b29f2b08a6dcfcb51e1"
+      },
+      "after": {
+        "bytes": 136719,
+        "sha256": "08c13dbad9d2bb2d954549190cd581e03a37e73389b96eb1ebb49cdd648fff94"
+      }
+    },
+    {
+      "path": "원본자료/원본 실험/LungCancerClassification-main/README.md",
+      "change": "modified",
+      "before": {
+        "bytes": 4498,
+        "sha256": "f47ba9b58041760d2651f9fe0f7fff32261ea1fb5e0ef075616f07579a284391"
+      },
+      "after": {
+        "bytes": 4821,
+        "sha256": "205b377cc5e64908db6305b9320819f08ed691405ef3ccb87022024022fb5012"
+      }
+    },
+    {
+      "path": "원본자료/추가 학습모델과 실험/heatmaps.py",
+      "change": "modified",
+      "before": {
+        "bytes": 5522,
+        "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
+      },
+      "after": {
+        "bytes": 5478,
+        "sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
+      }
+    },
+    {
+      "path": "원본자료/추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 38472,
+        "sha256": "862bff744ac2f97bbfad309bb72a60349ca46e39388dba2810f911d966c91dd7"
+      },
+      "after": {
+        "bytes": 38447,
+        "sha256": "8a585894f45b0b64ecc3ebb46277b1b7e914ac6000ee8665f67d8a1d6b051f0a"
+      }
+    },
+    {
+      "path": "원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 136778,
+        "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
+      },
+      "after": {
+        "bytes": 136723,
+        "sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp",
+      "change": "deleted",
+      "before": {
+        "bytes": 414720,
+        "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
+      },
+      "after": null
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp.md",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 495,
+        "sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/게재논문(한글논문)양식.pdf",
+      "change": "added",
+      "before": null,
+      "after": {
+        "bytes": 427870,
+        "sha256": "03153abbf0598d9d9943db34f028a87b76486b9d83464142a1c8bc1e8bc21ea6"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 8646,
+        "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
+      },
+      "after": {
+        "bytes": 8536,
+        "sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 38070,
+        "sha256": "162e3a670d2aa4dcb74771e651a1fd8c79fdf1e6e0ba33bb4fe81bc1177cc43d"
+      },
+      "after": {
+        "bytes": 37809,
+        "sha256": "ce09af49e964f7a2157d5a61bc87d6dbfa19b315fffcedc571e7d74ef0c30582"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/코드/picture2x2.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 7054,
+        "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
+      },
+      "after": {
+        "bytes": 6849,
+        "sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
+      }
+    },
+    {
+      "path": "원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 18984,
+        "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
+      },
+      "after": {
+        "bytes": 18799,
+        "sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
+      }
+    },
+    {
+      "path": "자료차수/1차/create_metric_matched_notebooks.js",
+      "change": "modified",
+      "before": {
+        "bytes": 18124,
+        "sha256": "f40132eda3c769d267c036941a23db74c2b4fab28e9fbb3cc3c57354b3f68973"
+      },
+      "after": {
+        "bytes": 18050,
+        "sha256": "8d6b5aea4fdeebe6315c949cd4413972131444da5e4f5fc32bb6587f4d0ba77a"
+      }
+    },
+    {
+      "path": "자료차수/1차/fix_pseudo_callbacks.py",
+      "change": "modified",
+      "before": {
+        "bytes": 1725,
+        "sha256": "b12fd56841636cc008ee9baecc3d8b237731c2cc4af12802b2487cb3c94a968d"
+      },
+      "after": {
+        "bytes": 1651,
+        "sha256": "6bbf37066d208a4a036b1f8c93f64bc5f4fe6a4527ef1781dd3480fffd10183d"
+      }
+    },
+    {
+      "path": "자료차수/1차/fix_training_repeat_overfit.py",
+      "change": "modified",
+      "before": {
+        "bytes": 6714,
+        "sha256": "a8e3cfd2fc9e97297f213c60e5d006dd731edda15f05785ab46c607f90353510"
+      },
+      "after": {
+        "bytes": 6596,
+        "sha256": "c75cb581e1808eb4a9c8059516ac7d820c7e3f10d803809ad96bcb0f7b5f27a6"
+      }
+    },
+    {
+      "path": "자료차수/1차/patch_blur_block_notebooks.js",
+      "change": "modified",
+      "before": {
+        "bytes": 36556,
+        "sha256": "700d96b1a98589cc1e8254660463a77755cf54ab521dff6f7aa7e280a98fad48"
+      },
+      "after": {
+        "bytes": 36438,
+        "sha256": "0fb8ee3c5aa20288a1d821161068570535a81b21f124426c4bdd0a115511272b"
+      }
+    },
+    {
+      "path": "자료차수/1차/rebuild_blur_ko_notebook.py",
+      "change": "modified",
+      "before": {
+        "bytes": 45698,
+        "sha256": "47761fbbefedbb8524b8e97d2527d55f82c51fc9e47f88a7a26275822f0bef6a"
+      },
+      "after": {
+        "bytes": 45580,
+        "sha256": "e9b21a5f1bc550f6c4fa78bdb1b38839de4ffb9fbfe67c7e9f214c7bdac0b72c"
+      }
+    },
+    {
+      "path": "자료차수/2차/align_experiment_methods.mjs",
+      "change": "modified",
+      "before": {
+        "bytes": 11300,
+        "sha256": "137dbb097d5821e11f17326afa3b37a3cb2f570ca010e0c2b3f81f5c517b5b22"
+      },
+      "after": {
+        "bytes": 11212,
+        "sha256": "3e5b6ef089dd755c45cd2c5a2f360941c58fbbc1dd708c200a0f244a4b864d3d"
+      }
+    },
+    {
+      "path": "자료차수/2차/build_block_blur_notebook.mjs",
+      "change": "modified",
+      "before": {
+        "bytes": 29388,
+        "sha256": "bd77b870fe40d0a6318b49f210ae38b533401eb0b874c253277c6f673b86d70a"
+      },
+      "after": {
+        "bytes": 29344,
+        "sha256": "614d6778ecef60cf30ce65aa037ca5a09c0bf1f1493e8d9543f92722f869bd77"
+      }
+    },
+    {
+      "path": "자료차수/2차/rollback_original_notebooks.mjs",
+      "change": "modified",
+      "before": {
+        "bytes": 3358,
+        "sha256": "c311e74df31a801231b391e4a692cc870e31f3ec950b9eb1fedd7169bbeb5c29"
+      },
+      "after": {
+        "bytes": 3292,
+        "sha256": "955a0d7beb0e8989b86c1047ae4b2c303668bc970e7d66ab8f60d32b487c622a"
+      }
+    },
+    {
+      "path": "자료차수/3차/_smoke_privacy_score.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 89274,
+        "sha256": "a03f40d6eab19fb5bdd3d4d60c3f308f03c43e80387f8f71dd70624f6311a8e6"
+      },
+      "after": {
+        "bytes": 88619,
+        "sha256": "cfc2eb52aec5abaccc37d6e6d77e4d3b58f60aa07228729af95a1cab6fce25a7"
+      }
+    },
+    {
+      "path": "자료차수/3차/create_privacy_notebook.py",
+      "change": "modified",
+      "before": {
+        "bytes": 28399,
+        "sha256": "3809df9b5f3091f79172f0257c8eb7f2ef828bbf99da99eb41b486bb66108280"
+      },
+      "after": {
+        "bytes": 28355,
+        "sha256": "d5aeaf1417ccb28dbc1a3a5aa68d8ed851bb04fc14e1ae7f649d49e352ef73d3"
+      }
+    },
+    {
+      "path": "자료차수/3차/modify_privacy_notebook_ssim_only.py",
+      "change": "modified",
+      "before": {
+        "bytes": 27299,
+        "sha256": "759fd7599e40b5cb25a8e7bc5f248bbb9eff2fd3328932c3c45236521345fc91"
+      },
+      "after": {
+        "bytes": 27277,
+        "sha256": "015b80dd8c10342e897bd7bdac0d371e586ae01e29237789532e609cdd339d19"
+      }
+    },
+    {
+      "path": "자료차수/4차/코드/heatmaps_windows.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 8646,
+        "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
+      },
+      "after": {
+        "bytes": 8536,
+        "sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
+      }
+    },
+    {
+      "path": "자료차수/4차/코드/paper_figures_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 37162,
+        "sha256": "f317a502c0658e3dbcb90cb7af67db526d6594f733b0a0bccb6ec536a3df53c0"
+      },
+      "after": {
+        "bytes": 36901,
+        "sha256": "d36471d4fe1498c1bf80ad827c1995f0fa28766219f89d1642c6c6f987b8fd6c"
+      }
+    },
+    {
+      "path": "자료차수/4차/코드/picture2x2.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 7054,
+        "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
+      },
+      "after": {
+        "bytes": 6849,
+        "sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
+      }
+    },
+    {
+      "path": "자료차수/4차/코드/plot_privacy_metrics_split.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 18984,
+        "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
+      },
+      "after": {
+        "bytes": 18799,
+        "sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
+      }
+    },
+    {
+      "path": "추가 학습모델과 실험/heatmaps.py",
+      "change": "modified",
+      "before": {
+        "bytes": 5522,
+        "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
+      },
+      "after": {
+        "bytes": 5478,
+        "sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
+      }
+    },
+    {
+      "path": "추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 37525,
+        "sha256": "9d9c636cfb43dd76cf562e4cf378581748aaf8cd88fbcc2eac516be8ed3858a7"
+      },
+      "after": {
+        "bytes": 37500,
+        "sha256": "c40bc7f42abb30b15681993ac194b7877ffe8ef9697c2b23a41c48db3820d600"
+      }
+    },
+    {
+      "path": "추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 136778,
+        "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
+      },
+      "after": {
+        "bytes": 136723,
+        "sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
+      }
+    },
+    {
+      "path": "폐암 2차 논문/코드/heatmaps_windows.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 8407,
+        "sha256": "e64d162310d50c96a5ba1e39c44fce4702fad38abbf7c08c7a8eaf7b79582590"
+      },
+      "after": {
+        "bytes": 8297,
+        "sha256": "df8f78fecb19fd9207696f7aee9804e959144e30ce401fa90667225ffa6ed4bc"
+      }
+    },
+    {
+      "path": "폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 27771,
+        "sha256": "4e52342e6d8a025549a37bf1e16fbd94f2d2a76d95cc0e039e703d6d1fc911ce"
+      },
+      "after": {
+        "bytes": 27661,
+        "sha256": "6a361cf3764b8cb07ad2c37a66b14f67ac716bf26875af131c8446c2407fd182"
+      }
+    },
+    {
+      "path": "폐암 2차 논문/코드/picture2x2.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 6594,
+        "sha256": "d6ddecbbd7dfd747b83fefe3be920bef1a0597ae3413de936eb7cb27fe4cceb5"
+      },
+      "after": {
+        "bytes": 6414,
+        "sha256": "d90dce83fec10504b096d7e78b9e2692d247a1b6f6d6e958dc4367675d4464a8"
+      }
+    },
+    {
+      "path": "폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
+      "change": "modified",
+      "before": {
+        "bytes": 18339,
+        "sha256": "6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a"
+      },
+      "after": {
+        "bytes": 18284,
+        "sha256": "c80779481b07eee6c656f4202e5a4291f7d0105b15ab70df0c0fcd77352d6587"
+      }
+    }
+  ]
+}

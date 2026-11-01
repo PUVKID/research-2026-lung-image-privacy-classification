@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 
-const sourcePath = "C:/Users/PUVKID/Desktop/blur_resnet50_rebuilt2_KO.ipynb";
-const outputPath = "C:/Users/PUVKID/Desktop/block_blur_resnet50_all_combinations_KO.ipynb";
+const sourcePath = "./blur_resnet50_rebuilt2_KO.ipynb";
+const outputPath = "./block_blur_resnet50_all_combinations_KO.ipynb";
 
 const notebook = JSON.parse(await readFile(sourcePath, "utf8"));
 

@@ -6531,7 +6531,7 @@
 +const fs = require("fs");
 +const path = require("path");
 +
-+const workspace = "C:/Users/PUVKID/Documents/Codex/2026-05-18/files-mentioned-by-the-user-blur";
++const workspace = ".";
 +const inputs = {
 +  blur: path.join(workspace, "blur_resnet50_same_settings_seq.ipynb"),
 +  block: path.join(workspace, "block_encryption_resnet50_same_settings_seq.ipynb"),
@@ -7007,7 +7007,7 @@
 +from pathlib import Path
 +
 +
-+WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
++WORKDIR = Path(r".")
 +FILES = [
 +    WORKDIR / "blur_resnet50_rebuilt_KO.ipynb",
 +    WORKDIR / "block_encryption_resnet50_rebuilt_KO.ipynb",
@@ -7054,10 +7054,10 @@
 +from pathlib import Path
 +
 +
-+WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
++WORKDIR = Path(r".")
 +FILES = [
-+    Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_rebuilt_KO.ipynb"),
-+    Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb"),
++    Path(r".\blur_resnet50_rebuilt_KO.ipynb"),
++    Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb"),
 +]
 +
 +
@@ -7192,14 +7192,14 @@
 +const fs = require("fs");
 +const path = require("path");
 +
-+const workspace = "C:/Users/PUVKID/Documents/Codex/2026-05-18/files-mentioned-by-the-user-blur";
++const workspace = ".";
 +const notebooks = {
 +  blur: {
-+    inPath: "C:/Users/PUVKID/Desktop/blur_resnet50_clean.ipynb",
++    inPath: "./blur_resnet50_clean.ipynb",
 +    outPath: path.join(workspace, "blur_resnet50_same_settings_seq.ipynb"),
 +  },
 +  block: {
-+    inPath: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_clean.ipynb",
++    inPath: "./block_encryption_resnet50_clean.ipynb",
 +    outPath: path.join(workspace, "block_encryption_resnet50_same_settings_seq.ipynb"),
 +  },
 +};
@@ -8020,9 +8020,9 @@
 +from pathlib import Path
 +
 +
-+WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
-+REF_PATH = Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb")
-+BLUR_PATH = Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_metric_matched_seq.ipynb")
++WORKDIR = Path(r".")
++REF_PATH = Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb")
++BLUR_PATH = Path(r".\blur_resnet50_metric_matched_seq.ipynb")
 +OUT_PATH = WORKDIR / "blur_resnet50_rebuilt_KO.ipynb"
 +
 +

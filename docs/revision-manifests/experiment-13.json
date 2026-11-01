@@ -4,51 +4,88 @@
   "files": {
     "원본 실험/Lung Cancer/main.ipynb": {
       "bytes": 3163,
-      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
+      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90",
+      "public_path": "원본 실험/Lung Cancer/main.ipynb",
+      "public_bytes": 3163,
+      "public_sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
     },
     "원본 실험/Lung Cancer/main.py": {
       "bytes": 1651,
-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
+      "public_path": "원본 실험/Lung Cancer/main.py",
+      "public_bytes": 1651,
+      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
     },
     "원본 실험/Lung Cancer/Train.ipynb": {
       "bytes": 3491,
-      "sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9"
+      "sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9",
+      "public_path": "원본 실험/Lung Cancer/Train.ipynb",
+      "public_bytes": 3491,
+      "public_sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9"
     },
     "원본자료/원본 실험/Lung Cancer/main.ipynb": {
       "bytes": 3163,
-      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
+      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90",
+      "public_path": "원본자료/원본 실험/Lung Cancer/main.ipynb",
+      "public_bytes": 3163,
+      "public_sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
     },
     "원본자료/원본 실험/Lung Cancer/main.py": {
       "bytes": 1651,
-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
+      "public_path": "원본자료/원본 실험/Lung Cancer/main.py",
+      "public_bytes": 1651,
+      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
     },
     "원본자료/원본 실험/Lung Cancer/Train.ipynb": {
       "bytes": 4028,
-      "sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139"
+      "sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139",
+      "public_path": "원본자료/원본 실험/Lung Cancer/Train.ipynb",
+      "public_bytes": 4028,
+      "public_sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139"
     },
     "원본자료/원본 실험/LungCancerClassification-main/main.py": {
       "bytes": 1651,
-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/main.py",
+      "public_bytes": 1651,
+      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
     },
     "원본자료/원본 실험/LungCancerClassification-main/trainer.ipynb": {
       "bytes": 30177,
-      "sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820"
+      "sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/trainer.ipynb",
+      "public_bytes": 30177,
+      "public_sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820"
     },
     "원본자료/원본 실험/LungCancerClassification-main/LICENSE": {
       "bytes": 1068,
-      "sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129"
+      "sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/LICENSE",
+      "public_bytes": 1068,
+      "public_sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129"
     },
     "원본자료/원본 실험/LungCancerClassification-main/README.md": {
       "bytes": 4498,
-      "sha256": "f47ba9b58041760d2651f9fe0f7fff32261ea1fb5e0ef075616f07579a284391"
+      "sha256": "f47ba9b58041760d2651f9fe0f7fff32261ea1fb5e0ef075616f07579a284391",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/README.md",
+      "public_bytes": 4821,
+      "public_sha256": "205b377cc5e64908db6305b9320819f08ed691405ef3ccb87022024022fb5012"
     },
     "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix.png": {
       "bytes": 90242,
-      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
+      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix.png",
+      "public_bytes": 90242,
+      "public_sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
     },
     "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix (2).png": {
       "bytes": 90242,
-      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
+      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde",
+      "public_path": "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix (2).png",
+      "public_bytes": 90242,
+      "public_sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

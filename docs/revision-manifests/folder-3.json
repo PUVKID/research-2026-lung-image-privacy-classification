@@ -4,75 +4,130 @@
   "files": {
     "자료차수/3차/tables/privacy_scores_best_conditions.csv": {
       "bytes": 858,
-      "sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529"
+      "sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529",
+      "public_path": "자료차수/3차/tables/privacy_scores_best_conditions.csv",
+      "public_bytes": 858,
+      "public_sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529"
     },
     "자료차수/3차/tables/privacy_scores_combo_pivot.csv": {
       "bytes": 92,
-      "sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034"
+      "sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034",
+      "public_path": "자료차수/3차/tables/privacy_scores_combo_pivot.csv",
+      "public_bytes": 92,
+      "public_sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034"
     },
     "자료차수/3차/tables/privacy_scores_long.csv": {
       "bytes": 1507,
-      "sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22"
+      "sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22",
+      "public_path": "자료차수/3차/tables/privacy_scores_long.csv",
+      "public_bytes": 1507,
+      "public_sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22"
     },
     "자료차수/3차/tables/privacy_scores_summary_by_method.csv": {
       "bytes": 362,
-      "sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060"
+      "sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060",
+      "public_path": "자료차수/3차/tables/privacy_scores_summary_by_method.csv",
+      "public_bytes": 362,
+      "public_sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060"
     },
     "자료차수/3차/graphs/01_block_privacy_score.png": {
       "bytes": 70066,
-      "sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287"
+      "sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287",
+      "public_path": "자료차수/3차/graphs/01_block_privacy_score.png",
+      "public_bytes": 70066,
+      "public_sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287"
     },
     "자료차수/3차/graphs/02_blur_privacy_score.png": {
       "bytes": 63552,
-      "sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19"
+      "sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19",
+      "public_path": "자료차수/3차/graphs/02_blur_privacy_score.png",
+      "public_bytes": 63552,
+      "public_sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19"
     },
     "자료차수/3차/graphs/03_combo_privacy_score_heatmap.png": {
       "bytes": 42052,
-      "sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa"
+      "sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa",
+      "public_path": "자료차수/3차/graphs/03_combo_privacy_score_heatmap.png",
+      "public_bytes": 42052,
+      "public_sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa"
     },
     "자료차수/3차/graphs/04_block_ssim_psnr_reference.png": {
       "bytes": 64195,
-      "sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e"
+      "sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e",
+      "public_path": "자료차수/3차/graphs/04_block_ssim_psnr_reference.png",
+      "public_bytes": 64195,
+      "public_sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e"
     },
     "자료차수/3차/graphs/05_blur_ssim_psnr_reference.png": {
       "bytes": 77351,
-      "sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72"
+      "sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72",
+      "public_path": "자료차수/3차/graphs/05_blur_ssim_psnr_reference.png",
+      "public_bytes": 77351,
+      "public_sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72"
     },
     "자료차수/3차/graphs/06_top_conditions_privacy_score.png": {
       "bytes": 60606,
-      "sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c"
+      "sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c",
+      "public_path": "자료차수/3차/graphs/06_top_conditions_privacy_score.png",
+      "public_bytes": 60606,
+      "public_sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c"
     },
     "자료차수/3차/graphs/07_method_distribution_boxplot.png": {
       "bytes": 38584,
-      "sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee"
+      "sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee",
+      "public_path": "자료차수/3차/graphs/07_method_distribution_boxplot.png",
+      "public_bytes": 38584,
+      "public_sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee"
     },
     "자료차수/3차/graphs/08_top_conditions_table.png": {
       "bytes": 80715,
-      "sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8"
+      "sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8",
+      "public_path": "자료차수/3차/graphs/08_top_conditions_table.png",
+      "public_bytes": 80715,
+      "public_sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8"
     },
     "자료차수/3차/graphs/09_best_by_method_table.png": {
       "bytes": 45058,
-      "sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1"
+      "sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1",
+      "public_path": "자료차수/3차/graphs/09_best_by_method_table.png",
+      "public_bytes": 45058,
+      "public_sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1"
     },
     "자료차수/3차/create_privacy_notebook.py": {
       "bytes": 28399,
-      "sha256": "3809df9b5f3091f79172f0257c8eb7f2ef828bbf99da99eb41b486bb66108280"
+      "sha256": "3809df9b5f3091f79172f0257c8eb7f2ef828bbf99da99eb41b486bb66108280",
+      "public_path": "자료차수/3차/create_privacy_notebook.py",
+      "public_bytes": 28355,
+      "public_sha256": "d5aeaf1417ccb28dbc1a3a5aa68d8ed851bb04fc14e1ae7f649d49e352ef73d3"
     },
     "자료차수/3차/modify_privacy_notebook_ssim_only.py": {
       "bytes": 27299,
-      "sha256": "759fd7599e40b5cb25a8e7bc5f248bbb9eff2fd3328932c3c45236521345fc91"
+      "sha256": "759fd7599e40b5cb25a8e7bc5f248bbb9eff2fd3328932c3c45236521345fc91",
+      "public_path": "자료차수/3차/modify_privacy_notebook_ssim_only.py",
+      "public_bytes": 27277,
+      "public_sha256": "015b80dd8c10342e897bd7bdac0d371e586ae01e29237789532e609cdd339d19"
     },
     "자료차수/3차/_smoke_privacy_score.ipynb": {
       "bytes": 89274,
-      "sha256": "a03f40d6eab19fb5bdd3d4d60c3f308f03c43e80387f8f71dd70624f6311a8e6"
+      "sha256": "a03f40d6eab19fb5bdd3d4d60c3f308f03c43e80387f8f71dd70624f6311a8e6",
+      "public_path": "자료차수/3차/_smoke_privacy_score.ipynb",
+      "public_bytes": 88619,
+      "public_sha256": "cfc2eb52aec5abaccc37d6e6d77e4d3b58f60aa07228729af95a1cab6fce25a7"
     },
     "원본자료/3차/privacy_score_outputs/privacy_score_results.xlsx": {
       "bytes": 8330,
-      "sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1"
+      "sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1",
+      "public_path": "원본자료/3차/privacy_score_outputs/privacy_score_results.xlsx",
+      "public_bytes": 8330,
+      "public_sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1"
     },
     "원본자료/3차/privacy_score_outputs/tables/selected_images.csv": {
       "bytes": 406,
-      "sha256": "13a874a2d948b964c171ab3a6927e78882c262a245940933a5285454de846a71"
+      "sha256": "13a874a2d948b964c171ab3a6927e78882c262a245940933a5285454de846a71",
+      "public_path": "원본자료/3차/privacy_score_outputs/tables/selected_images.csv",
+      "public_bytes": 337,
+      "public_sha256": "20e35ba4500ac0f255714ce39480ed07c509598e557efb75bc3d3aac4b7aba51"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

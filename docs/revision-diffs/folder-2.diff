@@ -21,10 +21,10 @@
 +import { existsSync } from "node:fs";
 +
 +const paths = {
-+  blur: "C:/Users/PUVKID/Desktop/blur_resnet50_rebuilt2_KO.ipynb",
-+  block: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO.ipynb",
-+  combo: "C:/Users/PUVKID/Desktop/block_blur_resnet50_all_combinations_KO.ipynb",
-+  blockBackup: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
++  blur: "./blur_resnet50_rebuilt2_KO.ipynb",
++  block: "./block_encryption_resnet50_rebuilt_KO.ipynb",
++  combo: "./block_blur_resnet50_all_combinations_KO.ipynb",
++  blockBackup: "./block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
 +};
 +
 +const books = {};
@@ -6828,8 +6828,8 @@
 @@ -0,0 +1,734 @@
 +import { readFile, writeFile } from "node:fs/promises";
 +
-+const sourcePath = "C:/Users/PUVKID/Desktop/blur_resnet50_rebuilt2_KO.ipynb";
-+const outputPath = "C:/Users/PUVKID/Desktop/block_blur_resnet50_all_combinations_KO.ipynb";
++const sourcePath = "./blur_resnet50_rebuilt2_KO.ipynb";
++const outputPath = "./block_blur_resnet50_all_combinations_KO.ipynb";
 +
 +const notebook = JSON.parse(await readFile(sourcePath, "utf8"));
 +
@@ -7566,7 +7566,7 @@
 -const fs = require("fs");
 -const path = require("path");
 -
--const workspace = "C:/Users/PUVKID/Documents/Codex/2026-05-18/files-mentioned-by-the-user-blur";
+-const workspace = ".";
 -const inputs = {
 -  blur: path.join(workspace, "blur_resnet50_same_settings_seq.ipynb"),
 -  block: path.join(workspace, "block_encryption_resnet50_same_settings_seq.ipynb"),
@@ -8042,7 +8042,7 @@
 -from pathlib import Path
 -
 -
--WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
+-WORKDIR = Path(r".")
 -FILES = [
 -    WORKDIR / "blur_resnet50_rebuilt_KO.ipynb",
 -    WORKDIR / "block_encryption_resnet50_rebuilt_KO.ipynb",
@@ -8089,10 +8089,10 @@
 -from pathlib import Path
 -
 -
--WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
+-WORKDIR = Path(r".")
 -FILES = [
--    Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_rebuilt_KO.ipynb"),
--    Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb"),
+-    Path(r".\blur_resnet50_rebuilt_KO.ipynb"),
+-    Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb"),
 -]
 -
 -
@@ -8227,14 +8227,14 @@
 -const fs = require("fs");
 -const path = require("path");
 -
--const workspace = "C:/Users/PUVKID/Documents/Codex/2026-05-18/files-mentioned-by-the-user-blur";
+-const workspace = ".";
 -const notebooks = {
 -  blur: {
--    inPath: "C:/Users/PUVKID/Desktop/blur_resnet50_clean.ipynb",
+-    inPath: "./blur_resnet50_clean.ipynb",
 -    outPath: path.join(workspace, "blur_resnet50_same_settings_seq.ipynb"),
 -  },
 -  block: {
--    inPath: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_clean.ipynb",
+-    inPath: "./block_encryption_resnet50_clean.ipynb",
 -    outPath: path.join(workspace, "block_encryption_resnet50_same_settings_seq.ipynb"),
 -  },
 -};
@@ -9055,9 +9055,9 @@
 -from pathlib import Path
 -
 -
--WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
--REF_PATH = Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb")
--BLUR_PATH = Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_metric_matched_seq.ipynb")
+-WORKDIR = Path(r".")
+-REF_PATH = Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb")
+-BLUR_PATH = Path(r".\blur_resnet50_metric_matched_seq.ipynb")
 -OUT_PATH = WORKDIR / "blur_resnet50_rebuilt_KO.ipynb"
 -
 -
@@ -9996,9 +9996,9 @@
 +import { copyFile, readFile, writeFile } from "node:fs/promises";
 +
 +const paths = {
-+  blur: "C:/Users/PUVKID/Desktop/blur_resnet50_rebuilt2_KO.ipynb",
-+  block: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO.ipynb",
-+  blockBackup: "C:/Users/PUVKID/Desktop/block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
++  blur: "./blur_resnet50_rebuilt2_KO.ipynb",
++  block: "./block_encryption_resnet50_rebuilt_KO.ipynb",
++  blockBackup: "./block_encryption_resnet50_rebuilt_KO_before_alignment.ipynb",
 +};
 +
 +function getSource(book, index) {

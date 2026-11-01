@@ -1,4 +1,4 @@
-﻿path,relative_path,label,suffix
-C:\Users\PUVKID\Desktop\Train\Bengin cases\Bengin case (30).jpg,Bengin cases\Bengin case (30).jpg,Bengin cases,.jpg
-C:\Users\PUVKID\Desktop\Train\Malignant cases\Malignant case (561).jpg,Malignant cases\Malignant case (561).jpg,Malignant cases,.jpg
-C:\Users\PUVKID\Desktop\Train\Normal cases\Normal case (236).jpg,Normal cases\Normal case (236).jpg,Normal cases,.jpg
+path,relative_path,label,suffix
+.\Train\Bengin cases\Bengin case (30).jpg,Bengin cases\Bengin case (30).jpg,Bengin cases,.jpg
+.\Train\Malignant cases\Malignant case (561).jpg,Malignant cases\Malignant case (561).jpg,Malignant cases,.jpg
+.\Train\Normal cases\Normal case (236).jpg,Normal cases\Normal case (236).jpg,Normal cases,.jpg

@@ -1,0 +1,1682 @@
+# 개인정보 값은 공개 비교에서 제외했습니다. 원본의 실제 전체 차이는 별도 비공개로 보존합니다.
+--- before/README.md
++++ after/README.md
+@@ -21,8 +21,8 @@
+ 
+ [현재 원문 PDF·공식 링크 교체 위치](docs/PAPERS.md) · [모든 실제 차수·최종본·전체 비교](docs/REVISION_INDEX.md)
+ 
+-- **연구1 · 하계 EfficientNetV2-S**: [PDF 원문](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp)
+-- **연구2 · ResNet50 후속**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp)
++- **연구1 · 하계 EfficientNetV2-S**: [PDF 원문](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md)
++- **연구2 · ResNet50 후속**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md)
+ 
+ 공식 공개 URL은 아직 등록하지 않았습니다. 추후 [논문 전용 표](docs/PAPERS.md)의 교체 칸과 이 항목을 함께 갱신합니다.
+ 
+@@ -291,3 +291,36 @@
+ 영상의 구조 변화와 분류 성능을 함께 살피는 연구 기록입니다.
+ 
+ </div>
++
++
++> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
++
++
++<details>
++<summary>📚 차수별 논문 공개본 전체 보기</summary>
++
++| 원고·공개 경로 | 논문 |
++| :--- | :--- |
++| 논문/1차_EfficientNetV2-S_하계_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) |
++| 논문/2차_ResNet50_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/2%EC%B0%A8_ResNet50_%EC%B5%9C%EC%A2%85.pdf) |
++| 논문/연구2_원문_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) |
++| 연구1_하계_EfficientNetV2-S/논문/원문_최종.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) |
++| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf) |
++| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf) |
++| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) |
++| 원본자료/4차/work/source/게재논문(한글논문)양식.pdf | [📄 PDF 열기](%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf) |
++| 원본자료/폐암 2차 논문/게재논문(한글논문)양식.pdf | [📄 PDF 열기](%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf) |
++
++</details>
++
++
++<details>
++<summary>🧹 공개 자료 정리 기록</summary>
++
++| 검수 대상 | 연결 자료 | 상세·이번 비교 |
++| :--- | :--- | :--- |
++| **1차** | [📁 검수 자료](1%EC%B0%A8) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
++
++[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
++
++</details>
+--- before/docs/PAPERS.md
++++ after/docs/PAPERS.md
+@@ -1,10 +1,13 @@
+ # 📄 내 논문 PDF와 공식 링크 교체 위치
+ 
+-현재 링크는 보존 중인 원문 PDF입니다. 나중에 공개된 공식 논문 URL을 확인하면 아래 `공식 공개 URL` 열과 첫 화면의 `내 논문 PDF` 항목을 함께 교체합니다. 공식 링크가 공개되면 현재 PDF 링크와 함께 갱신합니다.
++현재 링크에서 논문 공개본을 읽을 수 있습니다. 나중에 공개된 공식 논문 URL을 확인하면 아래 `공식 공개 URL` 열과 첫 화면의 `내 논문 PDF` 항목을 함께 교체합니다. 공식 링크가 공개되면 현재 PDF 링크와 함께 갱신합니다.
+ 
+ | 원고 단계 | 지금 바로 읽는 PDF | 편집 원본 | 공식 공개 URL(교체 위치) |
+ |---|---|---|---|
+-| 연구1 · 하계 EfficientNetV2-S | [PDF 원문](../%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) | [원본](../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
+-| 연구2 · ResNet50 후속 | [PDF 원문](../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) | [원본](../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
++| 연구1 · 하계 EfficientNetV2-S | [PDF 원문](../%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) | [원본](../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
++| 연구2 · ResNet50 후속 | [PDF 원문](../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) | [원본](../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) | 미등록 — 공식 URL 확인 후 이 칸 교체 |
+ 
+-저자 성명·소속·이메일·전화·저자소개·사진을 포함한 원문을 보관합니다. 과거 공개 정제 사본은 기존 경로에 남고 현재 원문과 구분합니다. 인증정보·식별 가능한 환자 의료 원본·별도로 보관하는 외부 비공개 자료는 포함하지 않습니다.
++저자 성명·학교·이메일·전화·저자소개·사진을 보존하고 학과 정보를 제외한 PDF를 제공합니다. 과거 공개 정제 사본은 기존 경로에 남고 현재 원문과 구분합니다. 인증정보·식별 가능한 환자 의료 원본·별도로 보관하는 외부 비공개 자료는 포함하지 않습니다.
++
++
++> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
+--- before/docs/PUBLIC_CHANGELOG_2026-10-30.md
++++ after/docs/PUBLIC_CHANGELOG_2026-10-30.md
+@@ -186,7 +186,7 @@
+ - [전체 단계·직전 단계 차이](REVISION_INDEX.md)에 파일별 근거와 원고 설명을 연결했습니다. 공백·주석·코드셀·Markdown·텍스트·수치·실험 설정을 전체 비교하며 ipynb의 바이너리 이미지 출력만 바이트 길이·SHA-256·원문 링크로 표시합니다. 원문 ipynb 자체는 보존합니다.
+ - UTF-8, 비밀 패턴, 실제 로컬 링크, 노트북 JSON, source/public SHA 및 코드 셀 보존, PDF 열기를 검사했습니다. 원본0바이트 노트북은 그대로 남기며 JSON·실행·성능 근거에서 제외합니다.
+ - 의료 원본 후보가 포함된 노트북 이미지 출력만 제외한 사본은 비공개 대응표에 source/public 해시와 변환 이유를 구별해 기록했습니다.
+-- 원문에 실린 본인·공동저자의 성명·소속·이메일·전화·ORCID·이력·사진은 최신 공개 지시에 따라 보존합니다. 기존 원격 정제 사본은 이력으로 유지합니다.
++- 본인·공동저자의 성명·학교·이메일·전화·ORCID·이력·사진을 보존하고, 학과 정보와 지정된 개인정보를 제외한 공개본을 제공합니다. 기존 원격 정제 사본은 이력으로 유지합니다.
+ - 인증키·비밀번호, 대용량 모델·원데이터, 연구와 무관한 결제 자료·도구 설치 캐시와 본인 비저자·공개권한 근거 불명확 외부 원고는 별도 제외·보류 근거로 관리합니다. 원본은 수정·삭제하지 않았습니다.
+ - 새 학습·임상·제조 장비·추천 성능 실험은 수행하지 않았습니다. 저장 표와 원고 보고값을 새 실측으로 소개하지 않습니다.
+ - 이 변경 기록 시점에는 원격 쓰기·커밋·푸시를 수행하지 않았고 부모 통합 독립 검토와 반영을 기다립니다.
+--- before/docs/changes/2026-10-30-자료와차수정리.md
++++ after/docs/changes/2026-10-30-자료와차수정리.md
+@@ -77,9 +77,9 @@
+ | [docs/revisions/folder-4.md](../../docs/revisions/folder-4.md) |
+ | [docs/revisions/study-1.md](../../docs/revisions/study-1.md) |
+ | [docs/revisions/study-2.md](../../docs/revisions/study-2.md) |
+-| [논문/연구2_원문_최종.hwp](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) |
++| [논문/연구2_원문_최종.hwp](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) |
+ | [논문/연구2_원문_최종.pdf](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) |
+-| [연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) |
++| [연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20PPT.pdf) |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20PPT.pptx) |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8%20%EC%A0%95%EB%A6%AC.docx) |
+@@ -87,12 +87,12 @@
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8.docx) |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8.pdf) |
+ | [연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%EA%B7%B8%EB%A6%BC/Blur_Block_1%EC%B0%A8_%EA%B7%B8%EB%9E%98%ED%94%84_white.ipynb) |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp) |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp) |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp) |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp.md) |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp.md) |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp.md) |
+ | [원본자료/3차/privacy_score_outputs/privacy_score_results.xlsx](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/3%EC%B0%A8/privacy_score_outputs/privacy_score_results.xlsx) |
+ | [원본자료/3차/privacy_score_outputs/tables/selected_images.csv](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/3%EC%B0%A8/privacy_score_outputs/tables/selected_images.csv) |
+-| [원본자료/4차/work/source/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp) |
++| [원본자료/4차/work/source/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp.md) |
+ | [원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EB%B8%94%EB%9F%AC%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%201%20%EC%97%A3%EC%A7%80/stage1_edge_feature_blur_resnet50.ipynb) |
+ | [원본자료/블러 스테이지 1 엣지/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EB%B8%94%EB%9F%AC%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%201%20%EC%97%A3%EC%A7%80/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json) |
+ | [원본자료/블러 엣지/all_blur_results_resnet50_same_settings_gpu4090_v2.json](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EB%B8%94%EB%9F%AC%20%EC%97%A3%EC%A7%80/all_blur_results_resnet50_same_settings_gpu4090_v2.json) |
+@@ -141,7 +141,7 @@
+ | [원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EC%B6%94%EA%B0%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%8B%A4%ED%97%98/privacy_score_ssim_psnr.ipynb) |
+ | [원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EC%B6%94%EA%B0%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%8B%A4%ED%97%98/privacy_score_ssim_psnr_updated.ipynb) |
+ | [원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EC%B6%94%EA%B0%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%8B%A4%ED%97%98/stage1_edge_feature_blur_resnet50.ipynb) |
+-| [원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp) |
++| [원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp.md) |
+ | [원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/block_blur_resnet50_v4_KO.ipynb) |
+ | [원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/block_encryption_resnet50_rebuilt_KO.ipynb) |
+ | [원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/blur_resnet50_rebuilt2_KO.ipynb) |
+--- before/docs/revision-manifests/experiment-10.json
++++ after/docs/revision-manifests/experiment-10.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블록 엣지/block_encryption_resnet50_edge_v2.ipynb": {
+       "bytes": 117559,
+-      "sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da"
++      "sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da",
++      "public_path": "블록 엣지/block_encryption_resnet50_edge_v2.ipynb",
++      "public_bytes": 117559,
++      "public_sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da"
+     },
+     "원본자료/블록 엣지/all_block_results_resnet50_same_settings_gpu4090_v2.json": {
+       "bytes": 5065,
+-      "sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811"
++      "sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811",
++      "public_path": "원본자료/블록 엣지/all_block_results_resnet50_same_settings_gpu4090_v2.json",
++      "public_bytes": 5065,
++      "public_sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811"
+     },
+     "원본자료/블록 엣지/block_encryption_resnet50_edge_v2.ipynb": {
+       "bytes": 658506,
+-      "sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb"
++      "sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb",
++      "public_path": "원본자료/블록 엣지/block_encryption_resnet50_edge_v2.ipynb",
++      "public_bytes": 658506,
++      "public_sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-11.json
++++ after/docs/revision-manifests/experiment-11.json
+@@ -4,11 +4,18 @@
+   "files": {
+     "블록+블러 엣지/block_blur_resnet50_edge.ipynb": {
+       "bytes": 146001,
+-      "sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068"
++      "sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068",
++      "public_path": "블록+블러 엣지/block_blur_resnet50_edge.ipynb",
++      "public_bytes": 146001,
++      "public_sha256": "18e20095343029c59e5790c4f1a6dd0b52e678447688e5b2f16a55c28b853068"
+     },
+     "원본자료/블록+블러 엣지/block_blur_resnet50_edge.ipynb": {
+       "bytes": 146579,
+-      "sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370"
++      "sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370",
++      "public_path": "원본자료/블록+블러 엣지/block_blur_resnet50_edge.ipynb",
++      "public_bytes": 146579,
++      "public_sha256": "a0014cc25d144a8e478967a77faec43035f547cbe1f2a13ff3b91d59d2a51370"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-12.json
++++ after/docs/revision-manifests/experiment-12.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb": {
+       "bytes": 136775,
+-      "sha256": "069080fa81d3e1f740d9cb0f9433b3a6cb1184a3af6a626956bc4b948cc87caa"
++      "sha256": "069080fa81d3e1f740d9cb0f9433b3a6cb1184a3af6a626956bc4b948cc87caa",
++      "public_path": "블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
++      "public_bytes": 136720,
++      "public_sha256": "b00912435335fcd22b82f723737a1e2d6f8ba64acc96f841585ddea964a94507"
+     },
+     "원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb": {
+       "bytes": 136774,
+-      "sha256": "31f78836099ec69365232e8a30071e8b6f4ed0bb70491b29f2b08a6dcfcb51e1"
++      "sha256": "31f78836099ec69365232e8a30071e8b6f4ed0bb70491b29f2b08a6dcfcb51e1",
++      "public_path": "원본자료/블러 스테이지 1 엣지/stage1_edge_feature_blur_resnet50.ipynb",
++      "public_bytes": 136719,
++      "public_sha256": "08c13dbad9d2bb2d954549190cd581e03a37e73389b96eb1ebb49cdd648fff94"
+     },
+     "원본자료/블러 스테이지 1 엣지/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json": {
+       "bytes": 7731,
+-      "sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802"
++      "sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802",
++      "public_path": "원본자료/블러 스테이지 1 엣지/stage1_feature_blur_resnet50_outputs/results/all_stage1_feature_blur_results_resnet50_stage1_feature_blur_resnet50_v1.json",
++      "public_bytes": 7731,
++      "public_sha256": "74122d318190860fb214e01725ce4bc8d81e1abe533c67be64beb5224dd7f802"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-13.json
++++ after/docs/revision-manifests/experiment-13.json
+@@ -4,51 +4,88 @@
+   "files": {
+     "원본 실험/Lung Cancer/main.ipynb": {
+       "bytes": 3163,
+-      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
++      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90",
++      "public_path": "원본 실험/Lung Cancer/main.ipynb",
++      "public_bytes": 3163,
++      "public_sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
+     },
+     "원본 실험/Lung Cancer/main.py": {
+       "bytes": 1651,
+-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
++      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
++      "public_path": "원본 실험/Lung Cancer/main.py",
++      "public_bytes": 1651,
++      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+     },
+     "원본 실험/Lung Cancer/Train.ipynb": {
+       "bytes": 3491,
+-      "sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9"
++      "sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9",
++      "public_path": "원본 실험/Lung Cancer/Train.ipynb",
++      "public_bytes": 3491,
++      "public_sha256": "ffa9c77e4f9004dcb8e0c0eec3f1911f9d71518d1038bd8bc07a5031fd62a5d9"
+     },
+     "원본자료/원본 실험/Lung Cancer/main.ipynb": {
+       "bytes": 3163,
+-      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
++      "sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90",
++      "public_path": "원본자료/원본 실험/Lung Cancer/main.ipynb",
++      "public_bytes": 3163,
++      "public_sha256": "645bbc4f163ee9a8fb2120e4ef7f6cc6ec447c080a315b076967e3808d2c6f90"
+     },
+     "원본자료/원본 실험/Lung Cancer/main.py": {
+       "bytes": 1651,
+-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
++      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
++      "public_path": "원본자료/원본 실험/Lung Cancer/main.py",
++      "public_bytes": 1651,
++      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+     },
+     "원본자료/원본 실험/Lung Cancer/Train.ipynb": {
+       "bytes": 4028,
+-      "sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139"
++      "sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139",
++      "public_path": "원본자료/원본 실험/Lung Cancer/Train.ipynb",
++      "public_bytes": 4028,
++      "public_sha256": "efc1cc1f4d2c17e399e6aead9645527852a6445703db00683327400f06b6c139"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/main.py": {
+       "bytes": 1651,
+-      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
++      "sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/main.py",
++      "public_bytes": 1651,
++      "public_sha256": "e9d1cab540e21c3730a0f4dd47a94964a5722c069c9489e5f0ba800e2a7a68e8"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/trainer.ipynb": {
+       "bytes": 30177,
+-      "sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820"
++      "sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/trainer.ipynb",
++      "public_bytes": 30177,
++      "public_sha256": "d806b5df96a6c148fa4fc3905d1888e1a20c9493208bbe15b0239b2816735820"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/LICENSE": {
+       "bytes": 1068,
+-      "sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129"
++      "sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/LICENSE",
++      "public_bytes": 1068,
++      "public_sha256": "7af98bcd79c5f6c6ddaf6399f3782e6e2c1336c87800b3a4affee46546bd9129"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/README.md": {
+       "bytes": 4498,
+-      "sha256": "f47ba9b58041760d2651f9fe0f7fff32261ea1fb5e0ef075616f07579a284391"
++      "sha256": "f47ba9b58041760d2651f9fe0f7fff32261ea1fb5e0ef075616f07579a284391",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/README.md",
++      "public_bytes": 4821,
++      "public_sha256": "205b377cc5e64908db6305b9320819f08ed691405ef3ccb87022024022fb5012"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix.png": {
+       "bytes": 90242,
+-      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
++      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix.png",
++      "public_bytes": 90242,
++      "public_sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
+     },
+     "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix (2).png": {
+       "bytes": 90242,
+-      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
++      "sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde",
++      "public_path": "원본자료/원본 실험/LungCancerClassification-main/confusion_matrix (2).png",
++      "public_bytes": 90242,
++      "public_sha256": "1deeddc5d7501f2de854781c480081ff2eebfd07bd5ff7ddfa77981cbe2a3bde"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-14.json
++++ after/docs/revision-manifests/experiment-14.json
+@@ -4,163 +4,284 @@
+   "files": {
+     "추가 학습모델과 실험/block_blur_resnet50_edge.ipynb": {
+       "bytes": 147769,
+-      "sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb"
++      "sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb",
++      "public_path": "추가 학습모델과 실험/block_blur_resnet50_edge.ipynb",
++      "public_bytes": 147769,
++      "public_sha256": "00f076b8f3f842398c3abfbfd3984fca4cb984c619d05a04f4a7affc5c101cbb"
+     },
+     "추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 136449,
+-      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
++      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc",
++      "public_path": "추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 136449,
++      "public_sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
+     },
+     "추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb": {
+       "bytes": 120967,
+-      "sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4"
++      "sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4",
++      "public_path": "추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb",
++      "public_bytes": 120967,
++      "public_sha256": "487f9f127c9e7c83d6bfa47b9f165858cc7d7f1630fc83cbd1b0be99070cb6e4"
+     },
+     "추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 108653,
+-      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
++      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af",
++      "public_path": "추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 108653,
++      "public_sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
+     },
+     "추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb": {
+       "bytes": 52637,
+-      "sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa"
++      "sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa",
++      "public_path": "추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb",
++      "public_bytes": 52637,
++      "public_sha256": "6d0db255fee2dc5aa25aee28f86b5c96fbe9a3dcf0dc12aa6747fbe01d9615aa"
+     },
+     "추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb": {
+       "bytes": 119871,
+-      "sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f"
++      "sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f",
++      "public_path": "추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb",
++      "public_bytes": 119871,
++      "public_sha256": "20fe0e593c391887e2d2e346f1fe4c15b3e5cf3f0908783bb895e90ea571f51f"
+     },
+     "추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 102127,
+-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
++      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
++      "public_path": "추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 102127,
++      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+     },
+     "추가 학습모델과 실험/heatmaps.py": {
+       "bytes": 5522,
+-      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
++      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420",
++      "public_path": "추가 학습모델과 실험/heatmaps.py",
++      "public_bytes": 5478,
++      "public_sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
+     },
+     "추가 학습모델과 실험/paper_figures_resnet50.ipynb": {
+       "bytes": 24466,
+-      "sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d"
++      "sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d",
++      "public_path": "추가 학습모델과 실험/paper_figures_resnet50.ipynb",
++      "public_bytes": 24466,
++      "public_sha256": "3f3cf3e396737690701969ced7982cff12f001fc7f05e6201d065a807f89aa0d"
+     },
+     "추가 학습모델과 실험/plot_privacy_metrics_split.py": {
+       "bytes": 5450,
+-      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
++      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9",
++      "public_path": "추가 학습모델과 실험/plot_privacy_metrics_split.py",
++      "public_bytes": 5450,
++      "public_sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
+     },
+     "추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb": {
+       "bytes": 37525,
+-      "sha256": "9d9c636cfb43dd76cf562e4cf378581748aaf8cd88fbcc2eac516be8ed3858a7"
++      "sha256": "9d9c636cfb43dd76cf562e4cf378581748aaf8cd88fbcc2eac516be8ed3858a7",
++      "public_path": "추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
++      "public_bytes": 37500,
++      "public_sha256": "c40bc7f42abb30b15681993ac194b7877ffe8ef9697c2b23a41c48db3820d600"
+     },
+     "추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb": {
+       "bytes": 29338,
+-      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
++      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434",
++      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb",
++      "public_bytes": 29338,
++      "public_sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
+     },
+     "추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb": {
+       "bytes": 29338,
+-      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
++      "sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434",
++      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb",
++      "public_bytes": 29338,
++      "public_sha256": "276cfc4297f975d48eb3e6bcf0a5acac98b6d207ba5d30c2c4f849c5cd3e0434"
+     },
+     "추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb": {
+       "bytes": 26824,
+-      "sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5"
++      "sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5",
++      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb",
++      "public_bytes": 26824,
++      "public_sha256": "05f77ac6b7d7b91eb0d0e8ada4aa746ca7654cc5a8554739aea163ea2eab63b5"
+     },
+     "추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb": {
+       "bytes": 52527,
+-      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
++      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef",
++      "public_path": "추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb",
++      "public_bytes": 52527,
++      "public_sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
+     },
+     "추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb": {
+       "bytes": 136778,
+-      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
++      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f",
++      "public_path": "추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
++      "public_bytes": 136723,
++      "public_sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
+     },
+     "추가 학습모델과 실험/Train.ipynb": {
+       "bytes": 315835,
+-      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
++      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771",
++      "public_path": "추가 학습모델과 실험/Train.ipynb",
++      "public_bytes": 315835,
++      "public_sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
+     },
+     "원본자료/추가 학습모델과 실험/all_block_results.json": {
+       "bytes": 5040,
+-      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
++      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801",
++      "public_path": "원본자료/추가 학습모델과 실험/all_block_results.json",
++      "public_bytes": 5040,
++      "public_sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
+     },
+     "원본자료/추가 학습모델과 실험/block_blur_resnet50_edge.ipynb": {
+       "bytes": 148347,
+-      "sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9"
++      "sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9",
++      "public_path": "원본자료/추가 학습모델과 실험/block_blur_resnet50_edge.ipynb",
++      "public_bytes": 148347,
++      "public_sha256": "ae3e302e19d2db72ce572ec48cf3d0301b4b4011866a43a5e206a8e1097033a9"
+     },
+     "원본자료/추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb": {
+       "bytes": 168661,
+-      "sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a"
++      "sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a",
++      "public_path": "원본자료/추가 학습모델과 실험/block_encryption_resnet50_edge_v2.ipynb",
++      "public_bytes": 168661,
++      "public_sha256": "90b3a37cc1f8fa3152f45c77e803c38db5b14f46d0aaa268d4bdb05b9acbc23a"
+     },
+     "원본자료/추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 138317,
+-      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
++      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f",
++      "public_path": "원본자료/추가 학습모델과 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 138317,
++      "public_sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
+     },
+     "원본자료/추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb": {
+       "bytes": 59418,
+-      "sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50"
++      "sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50",
++      "public_path": "원본자료/추가 학습모델과 실험/Blur_Block_1차_그래프_white.ipynb",
++      "public_bytes": 59418,
++      "public_sha256": "6ed385e04f1e500f3f1c57c7eb272a5bdd1ce9a4013d203b87fa6891ba830a50"
+     },
+     "원본자료/추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb": {
+       "bytes": 169241,
+-      "sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda"
++      "sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda",
++      "public_path": "원본자료/추가 학습모델과 실험/blur_resnet50_edge_v6.ipynb",
++      "public_bytes": 169241,
++      "public_sha256": "539e5539a73d019912257aafde527c501e7735cd6fbbfa48b26f1d2ab5c27eda"
+     },
+     "원본자료/추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 132788,
+-      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
++      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f",
++      "public_path": "원본자료/추가 학습모델과 실험/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 132788,
++      "public_sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
+     },
+     "원본자료/추가 학습모델과 실험/heatmaps.py": {
+       "bytes": 5522,
+-      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420"
++      "sha256": "640b4514d3f218a84c2030b8d3868611ce48a37ef9cf46f93a1be5f0dba73420",
++      "public_path": "원본자료/추가 학습모델과 실험/heatmaps.py",
++      "public_bytes": 5478,
++      "public_sha256": "094b7197e3b9dc5b54989768b050be11291e011d0c6a4dee7345acda5941d445"
+     },
+     "원본자료/추가 학습모델과 실험/paper_figures_resnet50.ipynb": {
+       "bytes": 24465,
+-      "sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c"
++      "sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c",
++      "public_path": "원본자료/추가 학습모델과 실험/paper_figures_resnet50.ipynb",
++      "public_bytes": 24465,
++      "public_sha256": "f19095c9cfe4ee0e8441768135de6563eadc26451a760c5b13981703013b733c"
+     },
+     "원본자료/추가 학습모델과 실험/plot_privacy_metrics_split.py": {
+       "bytes": 5450,
+-      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
++      "sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9",
++      "public_path": "원본자료/추가 학습모델과 실험/plot_privacy_metrics_split.py",
++      "public_bytes": 5450,
++      "public_sha256": "3a25a124e4a88e663a675d8791660ecdc61468a3b260bc4e8588e78c994cbcb9"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb": {
+       "bytes": 38472,
+-      "sha256": "862bff744ac2f97bbfad309bb72a60349ca46e39388dba2810f911d966c91dd7"
++      "sha256": "862bff744ac2f97bbfad309bb72a60349ca46e39388dba2810f911d966c91dd7",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_quantitative_docker_vscode.ipynb",
++      "public_bytes": 38447,
++      "public_sha256": "8a585894f45b0b64ecc3ebb46277b1b7e914ac6000ee8665f67d8a1d6b051f0a"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb": {
+       "bytes": 54595,
+-      "sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c"
++      "sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1).ipynb",
++      "public_bytes": 54595,
++      "public_sha256": "3474c6ad8fdbda957d99f2d921a68af01248ca6336395d499ee4a92e1ef9572c"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb": {
+       "bytes": 54595,
+-      "sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a"
++      "sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr (1)_backup_before_ssim_only_20260825_005153.ipynb",
++      "public_bytes": 54595,
++      "public_sha256": "fac8097fe5bdf91303bba90801e379b479150bd06ecc2a4ae67d80d8e1d7810a"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb": {
+       "bytes": 26823,
+-      "sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0"
++      "sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr.ipynb",
++      "public_bytes": 26823,
++      "public_sha256": "0657ef57f42a0f08539a4809517cb7668a0014f00a87e4d176ff6364a61f22f0"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb": {
+       "bytes": 96269,
+-      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
++      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_ssim_psnr_updated.ipynb",
++      "public_bytes": 96269,
++      "public_sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
+     },
+     "원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb": {
+       "bytes": 136778,
+-      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f"
++      "sha256": "a32e79c0ef1e8386c1148e4761c3c61554316b7be55117377939a932f5f5be8f",
++      "public_path": "원본자료/추가 학습모델과 실험/stage1_edge_feature_blur_resnet50.ipynb",
++      "public_bytes": 136723,
++      "public_sha256": "11cf86192bf6fa98763c0fd0ad3d9f649daa9b425611d6e06d0aca5f3dda6d65"
+     },
+     "원본자료/추가 학습모델과 실험/Train.ipynb": {
+       "bytes": 315835,
+-      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
++      "sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771",
++      "public_path": "원본자료/추가 학습모델과 실험/Train.ipynb",
++      "public_bytes": 315835,
++      "public_sha256": "df318f23b1a07b5307ab4043d89bce8206eccf6fd27053efe8c06268ce24f771"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.csv": {
+       "bytes": 22820,
+-      "sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69"
++      "sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.csv",
++      "public_bytes": 22820,
++      "public_sha256": "02561595bba02a4a53890867a54f6f22111af4d986aef58ede7aff8cbeba9e69"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.json": {
+       "bytes": 45067,
+-      "sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b"
++      "sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.json",
++      "public_bytes": 45067,
++      "public_sha256": "bcf31f719a941652bfb77d3f952e8c7f52687cb03115f04c44e16c72361bc36b"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.xlsx": {
+       "bytes": 21554,
+-      "sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98"
++      "sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/privacy_scores.xlsx",
++      "public_bytes": 21554,
++      "public_sha256": "1045b2c09cebc7092dbb20563ec6bd0c76238695e42ce0d414a5969c5106cd98"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/best_by_type.csv": {
+       "bytes": 728,
+-      "sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f"
++      "sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/best_by_type.csv",
++      "public_bytes": 728,
++      "public_sha256": "823dc8104c8aa1cebae6b4eeb2ee745997ab2c77ab155a15830e0cd54fc00f6f"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/selected_images.csv": {
+       "bytes": 117495,
+-      "sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1"
++      "sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/selected_images.csv",
++      "public_bytes": 117495,
++      "public_sha256": "6153b9d964ed487924ecfa96cd75fa3898ad05be54bcb28942f0925a9feee9c1"
+     },
+     "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/summary_by_type.csv": {
+       "bytes": 407,
+-      "sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437"
++      "sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437",
++      "public_path": "원본자료/추가 학습모델과 실험/privacy_score_outputs/tables/summary_by_type.csv",
++      "public_bytes": 407,
++      "public_sha256": "aca5a2d0b0ddcb21e0f1aa39d0f60cf9919eaada24dcd00d86cd0ffe653c2437"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-6.json
++++ after/docs/revision-manifests/experiment-6.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 102127,
+-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
++      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
++      "public_path": "블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 102127,
++      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+     },
+     "원본자료/블러/2차 실험/all_blur_results_resnet50_unified_v1.json": {
+       "bytes": 5326,
+-      "sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db"
++      "sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db",
++      "public_path": "원본자료/블러/2차 실험/all_blur_results_resnet50_unified_v1.json",
++      "public_bytes": 5326,
++      "public_sha256": "a1139a82300e74f5a4c66f4c4e08cce921a2245c5bd295f402a0b4e88940e8db"
+     },
+     "원본자료/블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 102127,
+-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
++      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
++      "public_path": "원본자료/블러/2차 실험/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 102127,
++      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-7.json
++++ after/docs/revision-manifests/experiment-7.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 93336,
+-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
++      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
++      "public_path": "블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 93336,
++      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+     },
+     "원본자료/블록/2차 실험/all_block_results_resnet50_unified_v1.json": {
+       "bytes": 5378,
+-      "sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb"
++      "sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb",
++      "public_path": "원본자료/블록/2차 실험/all_block_results_resnet50_unified_v1.json",
++      "public_bytes": 5378,
++      "public_sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb"
+     },
+     "원본자료/블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 93336,
+-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
++      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
++      "public_path": "원본자료/블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 93336,
++      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-8.json
++++ after/docs/revision-manifests/experiment-8.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블록+블러/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 123969,
+-      "sha256": "42d6c2bcdf41bcff53ab1d99f6687a3fb75f0bd1bf8071565ac66952111b634a"
++      "sha256": "42d6c2bcdf41bcff53ab1d99f6687a3fb75f0bd1bf8071565ac66952111b634a",
++      "public_path": "블록+블러/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 123969,
++      "public_sha256": "42d6c2bcdf41bcff53ab1d99f6687a3fb75f0bd1bf8071565ac66952111b634a"
+     },
+     "원본자료/블록+블러/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 124546,
+-      "sha256": "5eede93c16dcfb25d0fb60e1e3900ba0c883d3c4bb503ebb398343ec9709964d"
++      "sha256": "5eede93c16dcfb25d0fb60e1e3900ba0c883d3c4bb503ebb398343ec9709964d",
++      "public_path": "원본자료/블록+블러/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 124546,
++      "public_sha256": "5eede93c16dcfb25d0fb60e1e3900ba0c883d3c4bb503ebb398343ec9709964d"
+     },
+     "원본자료/블록+블러/실험 완료/all_block_blur_results_resnet50_block_blur_all_combinations_v1.json": {
+       "bytes": 57221,
+-      "sha256": "7f3cb8aa58b2aba0ac843629ea14fbe52f35ab365ee5975e27d2127165f544b2"
++      "sha256": "7f3cb8aa58b2aba0ac843629ea14fbe52f35ab365ee5975e27d2127165f544b2",
++      "public_path": "원본자료/블록+블러/실험 완료/all_block_blur_results_resnet50_block_blur_all_combinations_v1.json",
++      "public_bytes": 57221,
++      "public_sha256": "7f3cb8aa58b2aba0ac843629ea14fbe52f35ab365ee5975e27d2127165f544b2"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-9.json
++++ after/docs/revision-manifests/experiment-9.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "블러 엣지/blur_resnet50_edge_v6.ipynb": {
+       "bytes": 107890,
+-      "sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c"
++      "sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c",
++      "public_path": "블러 엣지/blur_resnet50_edge_v6.ipynb",
++      "public_bytes": 107890,
++      "public_sha256": "288f61b77fd0de8e2f58db351109f9431148c7618fed92fdf13847ed9bab104c"
+     },
+     "원본자료/블러 엣지/all_blur_results_resnet50_same_settings_gpu4090_v2.json": {
+       "bytes": 5000,
+-      "sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54"
++      "sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54",
++      "public_path": "원본자료/블러 엣지/all_blur_results_resnet50_same_settings_gpu4090_v2.json",
++      "public_bytes": 5000,
++      "public_sha256": "d60283d59f7b3c72f4226b204b25fb30b87213ad65ddd50289d5f15b5e66de54"
+     },
+     "원본자료/블러 엣지/blur_resnet50_edge_v6.ipynb": {
+       "bytes": 648837,
+-      "sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392"
++      "sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392",
++      "public_path": "원본자료/블러 엣지/blur_resnet50_edge_v6.ipynb",
++      "public_bytes": 648837,
++      "public_sha256": "b4d702c5b26a383db7406e0e7438316f8f1698dc370a92cea38c7eb843186392"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-original-block.json
++++ after/docs/revision-manifests/experiment-original-block.json
+@@ -4,7 +4,11 @@
+   "files": {
+     "원본자료/블록/1차 실험/블록 1/불록 결과/all_block_results.json": {
+       "bytes": 5040,
+-      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
++      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801",
++      "public_path": "원본자료/블록/1차 실험/블록 1/불록 결과/all_block_results.json",
++      "public_bytes": 5040,
++      "public_sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/experiment-original-blur.json
++++ after/docs/revision-manifests/experiment-original-blur.json
+@@ -4,7 +4,11 @@
+   "files": {
+     "원본자료/블러/1차 실험/블러 1/블러링 결과/all_blur_results.json": {
+       "bytes": 4767,
+-      "sha256": "9135c38758027958d317e07479da60070f025dba0957b447d142f6bc68615a5b"
++      "sha256": "9135c38758027958d317e07479da60070f025dba0957b447d142f6bc68615a5b",
++      "public_path": "원본자료/블러/1차 실험/블러 1/블러링 결과/all_blur_results.json",
++      "public_bytes": 4767,
++      "public_sha256": "9135c38758027958d317e07479da60070f025dba0957b447d142f6bc68615a5b"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/folder-1.json
++++ after/docs/revision-manifests/folder-1.json
+@@ -4,47 +4,81 @@
+   "files": {
+     "자료차수/1차/block_encryption_resnet50_metric_matched_seq.ipynb": {
+       "bytes": 60093,
+-      "sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1"
++      "sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1",
++      "public_path": "자료차수/1차/block_encryption_resnet50_metric_matched_seq.ipynb",
++      "public_bytes": 60093,
++      "public_sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1"
+     },
+     "자료차수/1차/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 93336,
+-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
++      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
++      "public_path": "자료차수/1차/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 93336,
++      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+     },
+     "자료차수/1차/block_encryption_resnet50_same_settings_seq.ipynb": {
+       "bytes": 60070,
+-      "sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6"
++      "sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6",
++      "public_path": "자료차수/1차/block_encryption_resnet50_same_settings_seq.ipynb",
++      "public_bytes": 60070,
++      "public_sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6"
+     },
+     "자료차수/1차/blur_resnet50_metric_matched_seq.ipynb": {
+       "bytes": 72937,
+-      "sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc"
++      "sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc",
++      "public_path": "자료차수/1차/blur_resnet50_metric_matched_seq.ipynb",
++      "public_bytes": 72937,
++      "public_sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc"
+     },
+     "자료차수/1차/blur_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 106507,
+-      "sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819"
++      "sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819",
++      "public_path": "자료차수/1차/blur_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 106507,
++      "public_sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819"
+     },
+     "자료차수/1차/blur_resnet50_same_settings_seq.ipynb": {
+       "bytes": 63986,
+-      "sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6"
++      "sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6",
++      "public_path": "자료차수/1차/blur_resnet50_same_settings_seq.ipynb",
++      "public_bytes": 63986,
++      "public_sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6"
+     },
+     "자료차수/1차/create_metric_matched_notebooks.js": {
+       "bytes": 18124,
+-      "sha256": "f40132eda3c769d267c036941a23db74c2b4fab28e9fbb3cc3c57354b3f68973"
++      "sha256": "f40132eda3c769d267c036941a23db74c2b4fab28e9fbb3cc3c57354b3f68973",
++      "public_path": "자료차수/1차/create_metric_matched_notebooks.js",
++      "public_bytes": 18050,
++      "public_sha256": "8d6b5aea4fdeebe6315c949cd4413972131444da5e4f5fc32bb6587f4d0ba77a"
+     },
+     "자료차수/1차/fix_pseudo_callbacks.py": {
+       "bytes": 1725,
+-      "sha256": "b12fd56841636cc008ee9baecc3d8b237731c2cc4af12802b2487cb3c94a968d"
++      "sha256": "b12fd56841636cc008ee9baecc3d8b237731c2cc4af12802b2487cb3c94a968d",
++      "public_path": "자료차수/1차/fix_pseudo_callbacks.py",
++      "public_bytes": 1651,
++      "public_sha256": "6bbf37066d208a4a036b1f8c93f64bc5f4fe6a4527ef1781dd3480fffd10183d"
+     },
+     "자료차수/1차/fix_training_repeat_overfit.py": {
+       "bytes": 6714,
+-      "sha256": "a8e3cfd2fc9e97297f213c60e5d006dd731edda15f05785ab46c607f90353510"
++      "sha256": "a8e3cfd2fc9e97297f213c60e5d006dd731edda15f05785ab46c607f90353510",
++      "public_path": "자료차수/1차/fix_training_repeat_overfit.py",
++      "public_bytes": 6596,
++      "public_sha256": "c75cb581e1808eb4a9c8059516ac7d820c7e3f10d803809ad96bcb0f7b5f27a6"
+     },
+     "자료차수/1차/patch_blur_block_notebooks.js": {
+       "bytes": 36556,
+-      "sha256": "700d96b1a98589cc1e8254660463a77755cf54ab521dff6f7aa7e280a98fad48"
++      "sha256": "700d96b1a98589cc1e8254660463a77755cf54ab521dff6f7aa7e280a98fad48",
++      "public_path": "자료차수/1차/patch_blur_block_notebooks.js",
++      "public_bytes": 36438,
++      "public_sha256": "0fb8ee3c5aa20288a1d821161068570535a81b21f124426c4bdd0a115511272b"
+     },
+     "자료차수/1차/rebuild_blur_ko_notebook.py": {
+       "bytes": 45698,
+-      "sha256": "47761fbbefedbb8524b8e97d2527d55f82c51fc9e47f88a7a26275822f0bef6a"
++      "sha256": "47761fbbefedbb8524b8e97d2527d55f82c51fc9e47f88a7a26275822f0bef6a",
++      "public_path": "자료차수/1차/rebuild_blur_ko_notebook.py",
++      "public_bytes": 45580,
++      "public_sha256": "e9b21a5f1bc550f6c4fa78bdb1b38839de4ffb9fbfe67c7e9f214c7bdac0b72c"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/folder-2.json
++++ after/docs/revision-manifests/folder-2.json
+@@ -4,15 +4,25 @@
+   "files": {
+     "자료차수/2차/align_experiment_methods.mjs": {
+       "bytes": 11300,
+-      "sha256": "137dbb097d5821e11f17326afa3b37a3cb2f570ca010e0c2b3f81f5c517b5b22"
++      "sha256": "137dbb097d5821e11f17326afa3b37a3cb2f570ca010e0c2b3f81f5c517b5b22",
++      "public_path": "자료차수/2차/align_experiment_methods.mjs",
++      "public_bytes": 11212,
++      "public_sha256": "3e5b6ef089dd755c45cd2c5a2f360941c58fbbc1dd708c200a0f244a4b864d3d"
+     },
+     "자료차수/2차/build_block_blur_notebook.mjs": {
+       "bytes": 29388,
+-      "sha256": "bd77b870fe40d0a6318b49f210ae38b533401eb0b874c253277c6f673b86d70a"
++      "sha256": "bd77b870fe40d0a6318b49f210ae38b533401eb0b874c253277c6f673b86d70a",
++      "public_path": "자료차수/2차/build_block_blur_notebook.mjs",
++      "public_bytes": 29344,
++      "public_sha256": "614d6778ecef60cf30ce65aa037ca5a09c0bf1f1493e8d9543f92722f869bd77"
+     },
+     "자료차수/2차/rollback_original_notebooks.mjs": {
+       "bytes": 3358,
+-      "sha256": "c311e74df31a801231b391e4a692cc870e31f3ec950b9eb1fedd7169bbeb5c29"
++      "sha256": "c311e74df31a801231b391e4a692cc870e31f3ec950b9eb1fedd7169bbeb5c29",
++      "public_path": "자료차수/2차/rollback_original_notebooks.mjs",
++      "public_bytes": 3292,
++      "public_sha256": "955a0d7beb0e8989b86c1047ae4b2c303668bc970e7d66ab8f60d32b487c622a"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/folder-3.json
++++ after/docs/revision-manifests/folder-3.json
+@@ -4,75 +4,130 @@
+   "files": {
+     "자료차수/3차/tables/privacy_scores_best_conditions.csv": {
+       "bytes": 858,
+-      "sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529"
++      "sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529",
++      "public_path": "자료차수/3차/tables/privacy_scores_best_conditions.csv",
++      "public_bytes": 858,
++      "public_sha256": "f8e160d380f0c0f41f33a8913e7739c7fe9a9f2e42081e77c16c302f5de9a529"
+     },
+     "자료차수/3차/tables/privacy_scores_combo_pivot.csv": {
+       "bytes": 92,
+-      "sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034"
++      "sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034",
++      "public_path": "자료차수/3차/tables/privacy_scores_combo_pivot.csv",
++      "public_bytes": 92,
++      "public_sha256": "7a31a1ae5238c3369ad5461b7806948a61eda358dae86dc87b177181df11b034"
+     },
+     "자료차수/3차/tables/privacy_scores_long.csv": {
+       "bytes": 1507,
+-      "sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22"
++      "sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22",
++      "public_path": "자료차수/3차/tables/privacy_scores_long.csv",
++      "public_bytes": 1507,
++      "public_sha256": "edcecf8fe6c892b0640ffe9d7d7341c9ee094ab4624cfb5d65a3d52974caff22"
+     },
+     "자료차수/3차/tables/privacy_scores_summary_by_method.csv": {
+       "bytes": 362,
+-      "sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060"
++      "sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060",
++      "public_path": "자료차수/3차/tables/privacy_scores_summary_by_method.csv",
++      "public_bytes": 362,
++      "public_sha256": "403ff42da2b5a21428304bb456346178734658976dfff5a0c6abb8092782d060"
+     },
+     "자료차수/3차/graphs/01_block_privacy_score.png": {
+       "bytes": 70066,
+-      "sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287"
++      "sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287",
++      "public_path": "자료차수/3차/graphs/01_block_privacy_score.png",
++      "public_bytes": 70066,
++      "public_sha256": "2d3be7ac20d49f2e91cf4f3039fbbc8a4fd979e65025d456eb14802955783287"
+     },
+     "자료차수/3차/graphs/02_blur_privacy_score.png": {
+       "bytes": 63552,
+-      "sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19"
++      "sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19",
++      "public_path": "자료차수/3차/graphs/02_blur_privacy_score.png",
++      "public_bytes": 63552,
++      "public_sha256": "056c40e03053b9d7694877333ceb1a2019fb5080e3714355b5a0ef03c114be19"
+     },
+     "자료차수/3차/graphs/03_combo_privacy_score_heatmap.png": {
+       "bytes": 42052,
+-      "sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa"
++      "sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa",
++      "public_path": "자료차수/3차/graphs/03_combo_privacy_score_heatmap.png",
++      "public_bytes": 42052,
++      "public_sha256": "6d3cc49c6d9acf6a977922e59ac140c1d3f7c181b23595f4514ad3404fae59fa"
+     },
+     "자료차수/3차/graphs/04_block_ssim_psnr_reference.png": {
+       "bytes": 64195,
+-      "sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e"
++      "sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e",
++      "public_path": "자료차수/3차/graphs/04_block_ssim_psnr_reference.png",
++      "public_bytes": 64195,
++      "public_sha256": "f2359a64da2d2a5129dd225fc3cebde956bd414e4d767ebfac9804ea0baa386e"
+     },
+     "자료차수/3차/graphs/05_blur_ssim_psnr_reference.png": {
+       "bytes": 77351,
+-      "sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72"
++      "sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72",
++      "public_path": "자료차수/3차/graphs/05_blur_ssim_psnr_reference.png",
++      "public_bytes": 77351,
++      "public_sha256": "2aad1e739efc2b01a5e5b6b0acd24cba7b61e9d301fba2bfd7c19ea566435d72"
+     },
+     "자료차수/3차/graphs/06_top_conditions_privacy_score.png": {
+       "bytes": 60606,
+-      "sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c"
++      "sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c",
++      "public_path": "자료차수/3차/graphs/06_top_conditions_privacy_score.png",
++      "public_bytes": 60606,
++      "public_sha256": "df22b8d68e003e26e65c2c236bd427538882ff750a2e473918284a90d4bef99c"
+     },
+     "자료차수/3차/graphs/07_method_distribution_boxplot.png": {
+       "bytes": 38584,
+-      "sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee"
++      "sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee",
++      "public_path": "자료차수/3차/graphs/07_method_distribution_boxplot.png",
++      "public_bytes": 38584,
++      "public_sha256": "ceb03b03ff92470e91a9e62b2f1151f1512f7b11bf583dec03dc07d8d2915fee"
+     },
+     "자료차수/3차/graphs/08_top_conditions_table.png": {
+       "bytes": 80715,
+-      "sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8"
++      "sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8",
++      "public_path": "자료차수/3차/graphs/08_top_conditions_table.png",
++      "public_bytes": 80715,
++      "public_sha256": "d0e4e134df95fda8aa4fbeb0a0c17c9769aac16dc6ebf8c86c0a7765a1450ca8"
+     },
+     "자료차수/3차/graphs/09_best_by_method_table.png": {
+       "bytes": 45058,
+-      "sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1"
++      "sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1",
++      "public_path": "자료차수/3차/graphs/09_best_by_method_table.png",
++      "public_bytes": 45058,
++      "public_sha256": "9da6f678a12bdf33915130898cc4c2d50d2ab7af13a52f9b7433590c3a0d48f1"
+     },
+     "자료차수/3차/create_privacy_notebook.py": {
+       "bytes": 28399,
+-      "sha256": "3809df9b5f3091f79172f0257c8eb7f2ef828bbf99da99eb41b486bb66108280"
++      "sha256": "3809df9b5f3091f79172f0257c8eb7f2ef828bbf99da99eb41b486bb66108280",
++      "public_path": "자료차수/3차/create_privacy_notebook.py",
++      "public_bytes": 28355,
++      "public_sha256": "d5aeaf1417ccb28dbc1a3a5aa68d8ed851bb04fc14e1ae7f649d49e352ef73d3"
+     },
+     "자료차수/3차/modify_privacy_notebook_ssim_only.py": {
+       "bytes": 27299,
+-      "sha256": "759fd7599e40b5cb25a8e7bc5f248bbb9eff2fd3328932c3c45236521345fc91"
++      "sha256": "759fd7599e40b5cb25a8e7bc5f248bbb9eff2fd3328932c3c45236521345fc91",
++      "public_path": "자료차수/3차/modify_privacy_notebook_ssim_only.py",
++      "public_bytes": 27277,
++      "public_sha256": "015b80dd8c10342e897bd7bdac0d371e586ae01e29237789532e609cdd339d19"
+     },
+     "자료차수/3차/_smoke_privacy_score.ipynb": {
+       "bytes": 89274,
+-      "sha256": "a03f40d6eab19fb5bdd3d4d60c3f308f03c43e80387f8f71dd70624f6311a8e6"
++      "sha256": "a03f40d6eab19fb5bdd3d4d60c3f308f03c43e80387f8f71dd70624f6311a8e6",
++      "public_path": "자료차수/3차/_smoke_privacy_score.ipynb",
++      "public_bytes": 88619,
++      "public_sha256": "cfc2eb52aec5abaccc37d6e6d77e4d3b58f60aa07228729af95a1cab6fce25a7"
+     },
+     "원본자료/3차/privacy_score_outputs/privacy_score_results.xlsx": {
+       "bytes": 8330,
+-      "sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1"
++      "sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1",
++      "public_path": "원본자료/3차/privacy_score_outputs/privacy_score_results.xlsx",
++      "public_bytes": 8330,
++      "public_sha256": "a90c2676448a700ef65836cd2f3427030c95e4864870268f1bd3d7eda144b4f1"
+     },
+     "원본자료/3차/privacy_score_outputs/tables/selected_images.csv": {
+       "bytes": 406,
+-      "sha256": "13a874a2d948b964c171ab3a6927e78882c262a245940933a5285454de846a71"
++      "sha256": "13a874a2d948b964c171ab3a6927e78882c262a245940933a5285454de846a71",
++      "public_path": "원본자료/3차/privacy_score_outputs/tables/selected_images.csv",
++      "public_bytes": 337,
++      "public_sha256": "20e35ba4500ac0f255714ce39480ed07c509598e557efb75bc3d3aac4b7aba51"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/folder-4.json
++++ after/docs/revision-manifests/folder-4.json
+@@ -4,47 +4,81 @@
+   "files": {
+     "논문/2차_ResNet50_최종.pdf": {
+       "bytes": 2827829,
+-      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7"
++      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7",
++      "public_path": "논문/2차_ResNet50_최종.pdf",
++      "public_bytes": 2821093,
++      "public_sha256": "3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f"
+     },
+     "자료차수/4차/코드/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 219524,
+-      "sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03"
++      "sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03",
++      "public_path": "자료차수/4차/코드/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 219524,
++      "public_sha256": "da4b889ce6dc4f4c908cc98986724abd25cd0dbd6aa1425b5e014b1f7a7fee03"
+     },
+     "자료차수/4차/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 135877,
+-      "sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986"
++      "sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986",
++      "public_path": "자료차수/4차/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 135877,
++      "public_sha256": "cc8eb1485adac09ffdcb2a5c0e502e016f5a5bb1c60898746be7ef9ce87a1986"
+     },
+     "자료차수/4차/코드/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 130270,
+-      "sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa"
++      "sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa",
++      "public_path": "자료차수/4차/코드/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 130270,
++      "public_sha256": "2a3da41eff6a705b2e30668e63d4fe42d4029dc307de2cb197ff8a6434f31faa"
+     },
+     "자료차수/4차/코드/heatmaps_windows.ipynb": {
+       "bytes": 8646,
+-      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
++      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a",
++      "public_path": "자료차수/4차/코드/heatmaps_windows.ipynb",
++      "public_bytes": 8536,
++      "public_sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
+     },
+     "자료차수/4차/코드/paper_figures_resnet50.ipynb": {
+       "bytes": 37162,
+-      "sha256": "f317a502c0658e3dbcb90cb7af67db526d6594f733b0a0bccb6ec536a3df53c0"
++      "sha256": "f317a502c0658e3dbcb90cb7af67db526d6594f733b0a0bccb6ec536a3df53c0",
++      "public_path": "자료차수/4차/코드/paper_figures_resnet50.ipynb",
++      "public_bytes": 36901,
++      "public_sha256": "d36471d4fe1498c1bf80ad827c1995f0fa28766219f89d1642c6c6f987b8fd6c"
+     },
+     "자료차수/4차/코드/pareto_scatter.ipynb": {
+       "bytes": 0,
+-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
++      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
++      "public_path": "자료차수/4차/코드/pareto_scatter.ipynb",
++      "public_bytes": 0,
++      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+     },
+     "자료차수/4차/코드/picture2x2.ipynb": {
+       "bytes": 7054,
+-      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
++      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046",
++      "public_path": "자료차수/4차/코드/picture2x2.ipynb",
++      "public_bytes": 6849,
++      "public_sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
+     },
+     "자료차수/4차/코드/plot_privacy_metrics_split.ipynb": {
+       "bytes": 18984,
+-      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
++      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be",
++      "public_path": "자료차수/4차/코드/plot_privacy_metrics_split.ipynb",
++      "public_bytes": 18799,
++      "public_sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
+     },
+     "자료차수/4차/코드/privacy_score_ssim_psnr_updated.ipynb": {
+       "bytes": 94241,
+-      "sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5"
++      "sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5",
++      "public_path": "자료차수/4차/코드/privacy_score_ssim_psnr_updated.ipynb",
++      "public_bytes": 94241,
++      "public_sha256": "1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5"
+     },
+     "원본자료/4차/work/source/게재논문(한글논문)양식.hwp": {
+       "bytes": 414720,
+-      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
++      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196",
++      "public_path": "원본자료/4차/work/source/게재논문(한글논문)양식.hwp.md",
++      "public_bytes": 495,
++      "public_sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/study-1.json
++++ after/docs/revision-manifests/study-1.json
+@@ -4,55 +4,95 @@
+   "files": {
+     "논문/1차_EfficientNetV2-S_하계_최종.pdf": {
+       "bytes": 410164,
+-      "sha256": "dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63"
++      "sha256": "dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63",
++      "public_path": "논문/1차_EfficientNetV2-S_하계_최종.pdf",
++      "public_bytes": 402261,
++      "public_sha256": "936fbbbaf93dd3210f5e8ada7b73acca0120faf594769f64ea4c5c3eca925bc6"
+     },
+     "연구1_하계_EfficientNetV2-S/그래프/Blur_Block_1차_그래프_white.ipynb": {
+       "bytes": 31695,
+-      "sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823"
++      "sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823",
++      "public_path": "연구1_하계_EfficientNetV2-S/그래프/Blur_Block_1차_그래프_white.ipynb",
++      "public_bytes": 31695,
++      "public_sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf": {
+       "bytes": 2156389,
+-      "sha256": "22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3"
++      "sha256": "22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf",
++      "public_bytes": 2230081,
++      "public_sha256": "a7e15a322aa89ccf28e81acd126fe6807693c43d7ef9d73b5e927d42a651322b"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx": {
+       "bytes": 2325109,
+-      "sha256": "a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193"
++      "sha256": "a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx",
++      "public_bytes": 2322158,
++      "public_sha256": "fe074b7367e4f6f816ad1ac579742683fcdff9ed15157a5ca0752270e01355b4"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx": {
+       "bytes": 12063,
+-      "sha256": "fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246"
++      "sha256": "fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx",
++      "public_bytes": 12048,
++      "public_sha256": "5a155b5377c44b575b9de4852febb2d5cd31684767b89b9b84322cead045af34"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.pdf": {
+       "bytes": 280123,
+-      "sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598"
++      "sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.pdf",
++      "public_bytes": 280123,
++      "public_sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx": {
+       "bytes": 14644,
+-      "sha256": "3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8"
++      "sha256": "3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx",
++      "public_bytes": 14584,
++      "public_sha256": "6e813724a4ba06b2a6d471c2d755a6efd7870fa18a6fe81ed407fee5e451a059"
+     },
+     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf": {
+       "bytes": 314134,
+-      "sha256": "f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a"
++      "sha256": "f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a",
++      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf",
++      "public_bytes": 313962,
++      "public_sha256": "075fbc9b6a10e4f47f8ac32d8eebfe863d1fd187ce740342d98bd2de2304e8c6"
+     },
+     "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp": {
+       "bytes": 527360,
+-      "sha256": "f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc"
++      "sha256": "f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc",
++      "public_path": "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp.md",
++      "public_bytes": 436,
++      "public_sha256": "4b34e0860d2c0ac79b7d51731ef143b012815fc3c805dbda4c0da663441bb12d"
+     },
+     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp": {
+       "bytes": 534016,
+-      "sha256": "a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915"
++      "sha256": "a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915",
++      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp.md",
++      "public_bytes": 500,
++      "public_sha256": "ae2b1186b51ee532f81bc9b91f7e2a41289c5795266529ccaf8448c42bbb366f"
+     },
+     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp": {
+       "bytes": 50688,
+-      "sha256": "218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b"
++      "sha256": "218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b",
++      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp.md",
++      "public_bytes": 500,
++      "public_sha256": "5b11cdea35374ffab3530b44649bdcd77a22db3d429385616756a8b6ee99636d"
+     },
+     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp": {
+       "bytes": 55296,
+-      "sha256": "d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44"
++      "sha256": "d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44",
++      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp.md",
++      "public_bytes": 500,
++      "public_sha256": "3a0fa74b093021d39129d96abc4d637a016a371ba4f3beb485b151b4f0c23e3d"
+     },
+     "연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb": {
+       "bytes": 34700,
+-      "sha256": "21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec"
++      "sha256": "21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec",
++      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb",
++      "public_bytes": 34424,
++      "public_sha256": "90fd32f132c7f75fdbd268d571154ed4ecefda36ab7168ed00b538b57ddba151"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revision-manifests/study-2.json
++++ after/docs/revision-manifests/study-2.json
+@@ -4,91 +4,158 @@
+   "files": {
+     "논문/2차_ResNet50_최종.pdf": {
+       "bytes": 2827829,
+-      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7"
++      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7",
++      "public_path": "논문/2차_ResNet50_최종.pdf",
++      "public_bytes": 2821093,
++      "public_sha256": "3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f"
+     },
+     "폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 136449,
+-      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
++      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc",
++      "public_path": "폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 136449,
++      "public_sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
+     },
+     "폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 108653,
+-      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
++      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af",
++      "public_path": "폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 108653,
++      "public_sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
+     },
+     "폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 102127,
+-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
++      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
++      "public_path": "폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 102127,
++      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+     },
+     "폐암 2차 논문/코드/heatmaps_windows.ipynb": {
+       "bytes": 8407,
+-      "sha256": "e64d162310d50c96a5ba1e39c44fce4702fad38abbf7c08c7a8eaf7b79582590"
++      "sha256": "e64d162310d50c96a5ba1e39c44fce4702fad38abbf7c08c7a8eaf7b79582590",
++      "public_path": "폐암 2차 논문/코드/heatmaps_windows.ipynb",
++      "public_bytes": 8297,
++      "public_sha256": "df8f78fecb19fd9207696f7aee9804e959144e30ce401fa90667225ffa6ed4bc"
+     },
+     "폐암 2차 논문/코드/paper_figures_resnet50.ipynb": {
+       "bytes": 27771,
+-      "sha256": "4e52342e6d8a025549a37bf1e16fbd94f2d2a76d95cc0e039e703d6d1fc911ce"
++      "sha256": "4e52342e6d8a025549a37bf1e16fbd94f2d2a76d95cc0e039e703d6d1fc911ce",
++      "public_path": "폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
++      "public_bytes": 27661,
++      "public_sha256": "6a361cf3764b8cb07ad2c37a66b14f67ac716bf26875af131c8446c2407fd182"
+     },
+     "폐암 2차 논문/코드/picture2x2.ipynb": {
+       "bytes": 6594,
+-      "sha256": "d6ddecbbd7dfd747b83fefe3be920bef1a0597ae3413de936eb7cb27fe4cceb5"
++      "sha256": "d6ddecbbd7dfd747b83fefe3be920bef1a0597ae3413de936eb7cb27fe4cceb5",
++      "public_path": "폐암 2차 논문/코드/picture2x2.ipynb",
++      "public_bytes": 6414,
++      "public_sha256": "d90dce83fec10504b096d7e78b9e2692d247a1b6f6d6e958dc4367675d4464a8"
+     },
+     "폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb": {
+       "bytes": 18339,
+-      "sha256": "6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a"
++      "sha256": "6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a",
++      "public_path": "폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
++      "public_bytes": 18284,
++      "public_sha256": "c80779481b07eee6c656f4202e5a4291f7d0105b15ab70df0c0fcd77352d6587"
+     },
+     "폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb": {
+       "bytes": 52527,
+-      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
++      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef",
++      "public_path": "폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb",
++      "public_bytes": 52527,
++      "public_sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
+     },
+     "논문/연구2_원문_최종.pdf": {
+       "bytes": 2865864,
+-      "sha256": "58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe"
++      "sha256": "58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe",
++      "public_path": "논문/연구2_원문_최종.pdf",
++      "public_bytes": 2834768,
++      "public_sha256": "f0a7d61fd9b7d45d0690f6d1eff2f172c9b8d38e03f4d9184109a692b4dc7de8"
+     },
+     "논문/연구2_원문_최종.hwp": {
+       "bytes": 4908032,
+-      "sha256": "14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50"
++      "sha256": "14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50",
++      "public_path": "논문/연구2_원문_최종.hwp.md",
++      "public_bytes": 456,
++      "public_sha256": "8a34765a3e673e929cdc21b6c06347eb05d8e57a3eb717d9f7b9f095b08f7145"
+     },
+     "원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
+       "bytes": 138317,
+-      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
++      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f",
++      "public_path": "원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
++      "public_bytes": 138317,
++      "public_sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
+     },
+     "원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb": {
+       "bytes": 132788,
+-      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
++      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f",
++      "public_path": "원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb",
++      "public_bytes": 132788,
++      "public_sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
+     },
+     "원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb": {
+       "bytes": 8646,
+-      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
++      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a",
++      "public_path": "원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb",
++      "public_bytes": 8536,
++      "public_sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
+     },
+     "원본자료/폐암 2차 논문/코드/paper_figures_resnet50.ipynb": {
+       "bytes": 38070,
+-      "sha256": "162e3a670d2aa4dcb74771e651a1fd8c79fdf1e6e0ba33bb4fe81bc1177cc43d"
++      "sha256": "162e3a670d2aa4dcb74771e651a1fd8c79fdf1e6e0ba33bb4fe81bc1177cc43d",
++      "public_path": "원본자료/폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
++      "public_bytes": 37809,
++      "public_sha256": "ce09af49e964f7a2157d5a61bc87d6dbfa19b315fffcedc571e7d74ef0c30582"
+     },
+     "원본자료/폐암 2차 논문/코드/pareto_scatter.ipynb": {
+       "bytes": 0,
+-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
++      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
++      "public_path": "원본자료/폐암 2차 논문/코드/pareto_scatter.ipynb",
++      "public_bytes": 0,
++      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+     },
+     "원본자료/폐암 2차 논문/코드/picture2x2.ipynb": {
+       "bytes": 7054,
+-      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
++      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046",
++      "public_path": "원본자료/폐암 2차 논문/코드/picture2x2.ipynb",
++      "public_bytes": 6849,
++      "public_sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
+     },
+     "원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb": {
+       "bytes": 18984,
+-      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
++      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be",
++      "public_path": "원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
++      "public_bytes": 18799,
++      "public_sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
+     },
+     "원본자료/폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb": {
+       "bytes": 96269,
+-      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
++      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a",
++      "public_path": "원본자료/폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb",
++      "public_bytes": 96269,
++      "public_sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
+     },
+     "원본자료/추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 223652,
+-      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
++      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140",
++      "public_path": "원본자료/추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 223652,
++      "public_sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
+     },
+     "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp": {
+       "bytes": 414720,
+-      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
++      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196",
++      "public_path": "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp.md",
++      "public_bytes": 495,
++      "public_sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
+     },
+     "원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb": {
+       "bytes": 223652,
+-      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
++      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140",
++      "public_path": "원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb",
++      "public_bytes": 223652,
++      "public_sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
+     }
+-  }
++  },
++  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
+ }
+--- before/docs/revisions/folder-4.md
++++ after/docs/revisions/folder-4.md
+@@ -22,7 +22,7 @@
+ | [자료차수/4차/코드/picture2x2.ipynb](../../%EC%9E%90%EB%A3%8C%EC%B0%A8%EC%88%98/4%EC%B0%A8/%EC%BD%94%EB%93%9C/picture2x2.ipynb) | .ipynb | 7054 | `d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046` |
+ | [자료차수/4차/코드/plot_privacy_metrics_split.ipynb](../../%EC%9E%90%EB%A3%8C%EC%B0%A8%EC%88%98/4%EC%B0%A8/%EC%BD%94%EB%93%9C/plot_privacy_metrics_split.ipynb) | .ipynb | 18984 | `77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be` |
+ | [자료차수/4차/코드/privacy_score_ssim_psnr_updated.ipynb](../../%EC%9E%90%EB%A3%8C%EC%B0%A8%EC%88%98/4%EC%B0%A8/%EC%BD%94%EB%93%9C/privacy_score_ssim_psnr_updated.ipynb) | .ipynb | 94241 | `1b25934ba5fbee1a8fa025596bfa852c6cfe2667f9edb56a5fe57852d35ea6b5` |
+-| [원본자료/4차/work/source/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp) | .hwp | 414720 | `7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196` |
++| [원본자료/4차/work/source/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp.md) | .hwp | 414720 | `7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196` |
+ 
+ ## 🔎 해석·검증 범위
+ 
+--- before/docs/revisions/study-1.md
++++ after/docs/revisions/study-1.md
+@@ -20,10 +20,10 @@
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.pdf](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8%20%EC%A0%95%EB%A6%AC.pdf) | .pdf | 280123 | `0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598` |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8.docx) | .docx | 14644 | `3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8` |
+ | [연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%8C%80%EB%B3%B8.pdf) | .pdf | 314134 | `f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a` |
+-| [연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) | .hwp | 527360 | `f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc` |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp) | .hwp | 534016 | `a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915` |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp) | .hwp | 50688 | `218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b` |
+-| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp) | .hwp | 55296 | `d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44` |
++| [연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) | .hwp | 527360 | `f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc` |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp.md) | .hwp | 534016 | `a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915` |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.hwp.md) | .hwp | 50688 | `218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b` |
++| [연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.hwp.md) | .hwp | 55296 | `d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44` |
+ | [연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb](../../%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%EA%B7%B8%EB%A6%BC/Blur_Block_1%EC%B0%A8_%EA%B7%B8%EB%9E%98%ED%94%84_white.ipynb) | .ipynb | 34700 | `21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec` |
+ 
+ ## 🔎 해석·검증 범위
+--- before/docs/revisions/study-2.md
++++ after/docs/revisions/study-2.md
+@@ -22,7 +22,7 @@
+ | [폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb](../../%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/plot_privacy_metrics_split.ipynb) | .ipynb | 18339 | `6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a` |
+ | [폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb](../../%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/privacy_score_ssim_psnr_updated.ipynb) | .ipynb | 52527 | `e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef` |
+ | [논문/연구2_원문_최종.pdf](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) | .pdf | 2865864 | `58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe` |
+-| [논문/연구2_원문_최종.hwp](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp) | .hwp | 4908032 | `14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50` |
++| [논문/연구2_원문_최종.hwp](../../%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md) | .hwp | 4908032 | `14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50` |
+ | [원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/block_encryption_resnet50_rebuilt_KO.ipynb) | .ipynb | 138317 | `4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f` |
+ | [원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/blur_resnet50_rebuilt2_KO.ipynb) | .ipynb | 132788 | `90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f` |
+ | [원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/heatmaps_windows.ipynb) | .ipynb | 8646 | `75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a` |
+@@ -32,7 +32,7 @@
+ | [원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/plot_privacy_metrics_split.ipynb) | .ipynb | 18984 | `77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be` |
+ | [원본자료/폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/privacy_score_ssim_psnr_updated.ipynb) | .ipynb | 96269 | `74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a` |
+ | [원본자료/추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EC%B6%94%EA%B0%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%8B%A4%ED%97%98/block_blur_resnet50_v4_KO.ipynb) | .ipynb | 223652 | `988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140` |
+-| [원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp) | .hwp | 414720 | `7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196` |
++| [원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.hwp.md) | .hwp | 414720 | `7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196` |
+ | [원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb](../../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EC%BD%94%EB%93%9C/block_blur_resnet50_v4_KO.ipynb) | .ipynb | 223652 | `988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140` |
+ 
+ ## 🔎 해석·검증 범위
+
+Binary: 논문/1차_EfficientNetV2-S_하계_최종.pdf
+Before bytes=410164 sha256=dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63
+After bytes=402261 sha256=936fbbbaf93dd3210f5e8ada7b73acca0120faf594769f64ea4c5c3eca925bc6
+
+Binary: 논문/2차_ResNet50_최종.pdf
+Before bytes=2827829 sha256=b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7
+After bytes=2821093 sha256=3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f
+
+Binary: 논문/연구2_원문_최종.hwp
+Before bytes=4908032 sha256=14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50
+After bytes=None sha256=None
+--- before/논문/연구2_원문_최종.hwp.md
++++ after/논문/연구2_원문_최종.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 논문/연구2_원문_최종.pdf
+Before bytes=2865864 sha256=58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe
+After bytes=2834768 sha256=f0a7d61fd9b7d45d0690f6d1eff2f172c9b8d38e03f4d9184109a692b4dc7de8
+
+Binary: 연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp
+Before bytes=527360 sha256=f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc
+After bytes=None sha256=None
+--- before/연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp.md
++++ after/연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 연구1_하계_EfficientNetV2-S/논문/원문_최종.pdf
+Before bytes=None sha256=None
+After bytes=402261 sha256=8dbc5c7652a37783c5f22102da23242f4cb5a5febf8859936606937d9ef3e229
+
+Binary: 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf
+Before bytes=2156389 sha256=22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3
+After bytes=2230081 sha256=a7e15a322aa89ccf28e81acd126fe6807693c43d7ef9d73b5e927d42a651322b
+
+Binary: 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx
+Before bytes=2325109 sha256=a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193
+After bytes=2322158 sha256=fe074b7367e4f6f816ad1ac579742683fcdff9ed15157a5ca0752270e01355b4
+
+Binary: 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx
+Before bytes=12063 sha256=fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246
+After bytes=12048 sha256=5a155b5377c44b575b9de4852febb2d5cd31684767b89b9b84322cead045af34
+
+Binary: 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx
+Before bytes=14644 sha256=3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8
+After bytes=14584 sha256=6e813724a4ba06b2a6d471c2d755a6efd7870fa18a6fe81ed407fee5e451a059
+
+Binary: 연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf
+Before bytes=314134 sha256=f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a
+After bytes=313962 sha256=075fbc9b6a10e4f47f8ac32d8eebfe863d1fd187ce740342d98bd2de2304e8c6
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp
+Before bytes=534016 sha256=a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915
+After bytes=None sha256=None
+--- before/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp.md
++++ after/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.pdf
+Before bytes=None sha256=None
+After bytes=385450 sha256=2aaee2319588c674548adfcf96dd7f8de814d8c7bfbc8a0cdc0c6f73c8e680be
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp
+Before bytes=50688 sha256=218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b
+After bytes=None sha256=None
+--- before/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp.md
++++ after/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.pdf
+Before bytes=None sha256=None
+After bytes=73870 sha256=9fb1513af89180f3dfa08c5ef18a73ac13566929b9bfb079e6e66cb9bf696102
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp
+Before bytes=55296 sha256=d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44
+After bytes=None sha256=None
+--- before/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp.md
++++ after/연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.pdf
+Before bytes=None sha256=None
+After bytes=71362 sha256=4d1029fb9c16e417881442cc82cb9bbd22d3662d4d0a4c3db6db33693879998d
+
+Binary: 원본자료/4차/work/source/게재논문(한글논문)양식.hwp
+Before bytes=414720 sha256=7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196
+After bytes=None sha256=None
+--- before/원본자료/4차/work/source/게재논문(한글논문)양식.hwp.md
++++ after/원본자료/4차/work/source/게재논문(한글논문)양식.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원본자료/4차/work/source/게재논문(한글논문)양식.pdf
+Before bytes=None sha256=None
+After bytes=427870 sha256=1c476db22d0063839658e7fe05cddb4bf1e256388d1d97a8581e69ce0ae7cc6f
+--- before/원본자료/원본 실험/LungCancerClassification-main/README.md
++++ after/원본자료/원본 실험/LungCancerClassification-main/README.md
+@@ -68,4 +68,6 @@
+ 
+ 🔬🧠👨‍⚕️📊👩‍💻
+ 
+----+---
++
++> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
+
+Binary: 원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp
+Before bytes=414720 sha256=7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196
+After bytes=None sha256=None
+--- before/원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp.md
++++ after/원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp.md
+@@ -0,0 +1,5 @@
++# 📄 편집 원문 공개 안내
++
++개인정보를 제외한 [연구 PDF](%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf)를 제공합니다. 저자·공동저자 정보와 연구 내용은 PDF에서 확인할 수 있습니다.
++
++편집 원문의 본문·문서 정보·내장 미리보기에 제거 대상 정보가 남는 것을 막기 위해 원문 파일은 공개하지 않습니다. 이전 원본은 별도로 보존했습니다.
+
+Binary: 원본자료/폐암 2차 논문/게재논문(한글논문)양식.pdf
+Before bytes=None sha256=None
+After bytes=427870 sha256=03153abbf0598d9d9943db34f028a87b76486b9d83464142a1c8bc1e8bc21ea6
+
+--- before/docs/PRIVACY_CHANGELOG_2026-10-30.md
++++ after/docs/PRIVACY_CHANGELOG_2026-10-30.md
+@@ -0,0 +1,7 @@
++# 📝 개인정보 정리와 논문 공개본
++
++저자·공동저자의 성명, 학교, 이메일, ORCID와 사진을 유지하고 학과·학부 세부 표기를 제외했습니다. 편집 원문은 로컬에 보존하며 검수한 PDF를 제공합니다. 연구 알고리즘과 보고 수치는 바꾸지 않았습니다.
++
++[📚 논문 안내](PAPERS.md) · [🔎 공개 가능한 전체 비교](privacy-changes.diff) · [📋 이번 실제 파일별 변경·크기·해시](publication-review/공개파일변경.json)
++
++제외한 개인정보 값을 공개 패치에 다시 기록하지 않습니다. 원본의 실제 전체 차이는 로컬에 보존하고, 공개 바이너리는 이전·현재 크기와 SHA-256으로 구분합니다.

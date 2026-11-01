@@ -4,47 +4,81 @@
   "files": {
     "자료차수/1차/block_encryption_resnet50_metric_matched_seq.ipynb": {
       "bytes": 60093,
-      "sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1"
+      "sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1",
+      "public_path": "자료차수/1차/block_encryption_resnet50_metric_matched_seq.ipynb",
+      "public_bytes": 60093,
+      "public_sha256": "066b6f71ee4c438ea16e481f2182166ef777cf77b0759439945aeb7cdc12d5c1"
     },
     "자료차수/1차/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 93336,
-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
+      "public_path": "자료차수/1차/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 93336,
+      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
     },
     "자료차수/1차/block_encryption_resnet50_same_settings_seq.ipynb": {
       "bytes": 60070,
-      "sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6"
+      "sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6",
+      "public_path": "자료차수/1차/block_encryption_resnet50_same_settings_seq.ipynb",
+      "public_bytes": 60070,
+      "public_sha256": "e7ee462efd677bce07208fb329a0b16add22b58598dc2e7dff71698c4b5887d6"
     },
     "자료차수/1차/blur_resnet50_metric_matched_seq.ipynb": {
       "bytes": 72937,
-      "sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc"
+      "sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc",
+      "public_path": "자료차수/1차/blur_resnet50_metric_matched_seq.ipynb",
+      "public_bytes": 72937,
+      "public_sha256": "ca47cc04346b01931e768101723d2e5c7f9a8d6fc878c53bfba0178331d2dfdc"
     },
     "자료차수/1차/blur_resnet50_rebuilt_KO.ipynb": {
       "bytes": 106507,
-      "sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819"
+      "sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819",
+      "public_path": "자료차수/1차/blur_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 106507,
+      "public_sha256": "2667478acda4fd06ecd4dfb1126540af313490a24dd5b57bc05d670c4cd19819"
     },
     "자료차수/1차/blur_resnet50_same_settings_seq.ipynb": {
       "bytes": 63986,
-      "sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6"
+      "sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6",
+      "public_path": "자료차수/1차/blur_resnet50_same_settings_seq.ipynb",
+      "public_bytes": 63986,
+      "public_sha256": "847de605b3686cbaf559cd7c95402b2cded9a2be7b8b536339ddb8ca93acfaa6"
     },
     "자료차수/1차/create_metric_matched_notebooks.js": {
       "bytes": 18124,
-      "sha256": "f40132eda3c769d267c036941a23db74c2b4fab28e9fbb3cc3c57354b3f68973"
+      "sha256": "f40132eda3c769d267c036941a23db74c2b4fab28e9fbb3cc3c57354b3f68973",
+      "public_path": "자료차수/1차/create_metric_matched_notebooks.js",
+      "public_bytes": 18050,
+      "public_sha256": "8d6b5aea4fdeebe6315c949cd4413972131444da5e4f5fc32bb6587f4d0ba77a"
     },
     "자료차수/1차/fix_pseudo_callbacks.py": {
       "bytes": 1725,
-      "sha256": "b12fd56841636cc008ee9baecc3d8b237731c2cc4af12802b2487cb3c94a968d"
+      "sha256": "b12fd56841636cc008ee9baecc3d8b237731c2cc4af12802b2487cb3c94a968d",
+      "public_path": "자료차수/1차/fix_pseudo_callbacks.py",
+      "public_bytes": 1651,
+      "public_sha256": "6bbf37066d208a4a036b1f8c93f64bc5f4fe6a4527ef1781dd3480fffd10183d"
     },
     "자료차수/1차/fix_training_repeat_overfit.py": {
       "bytes": 6714,
-      "sha256": "a8e3cfd2fc9e97297f213c60e5d006dd731edda15f05785ab46c607f90353510"
+      "sha256": "a8e3cfd2fc9e97297f213c60e5d006dd731edda15f05785ab46c607f90353510",
+      "public_path": "자료차수/1차/fix_training_repeat_overfit.py",
+      "public_bytes": 6596,
+      "public_sha256": "c75cb581e1808eb4a9c8059516ac7d820c7e3f10d803809ad96bcb0f7b5f27a6"
     },
     "자료차수/1차/patch_blur_block_notebooks.js": {
       "bytes": 36556,
-      "sha256": "700d96b1a98589cc1e8254660463a77755cf54ab521dff6f7aa7e280a98fad48"
+      "sha256": "700d96b1a98589cc1e8254660463a77755cf54ab521dff6f7aa7e280a98fad48",
+      "public_path": "자료차수/1차/patch_blur_block_notebooks.js",
+      "public_bytes": 36438,
+      "public_sha256": "0fb8ee3c5aa20288a1d821161068570535a81b21f124426c4bdd0a115511272b"
     },
     "자료차수/1차/rebuild_blur_ko_notebook.py": {
       "bytes": 45698,
-      "sha256": "47761fbbefedbb8524b8e97d2527d55f82c51fc9e47f88a7a26275822f0bef6a"
+      "sha256": "47761fbbefedbb8524b8e97d2527d55f82c51fc9e47f88a7a26275822f0bef6a",
+      "public_path": "자료차수/1차/rebuild_blur_ko_notebook.py",
+      "public_bytes": 45580,
+      "public_sha256": "e9b21a5f1bc550f6c4fa78bdb1b38839de4ffb9fbfe67c7e9f214c7bdac0b72c"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

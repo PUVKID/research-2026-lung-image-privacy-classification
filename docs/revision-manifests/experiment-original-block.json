@@ -4,7 +4,11 @@
   "files": {
     "원본자료/블록/1차 실험/블록 1/불록 결과/all_block_results.json": {
       "bytes": 5040,
-      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
+      "sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801",
+      "public_path": "원본자료/블록/1차 실험/블록 1/불록 결과/all_block_results.json",
+      "public_bytes": 5040,
+      "public_sha256": "a85dd325d928a5e3ae116c6d8d5ca0d06b90e632313b28ca694d81fa80cb9801"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 
 
-WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
-REF_PATH = Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb")
-BLUR_PATH = Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_metric_matched_seq.ipynb")
+WORKDIR = Path(r".")
+REF_PATH = Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb")
+BLUR_PATH = Path(r".\blur_resnet50_metric_matched_seq.ipynb")
 OUT_PATH = WORKDIR / "blur_resnet50_rebuilt_KO.ipynb"
 
 

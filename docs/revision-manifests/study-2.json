@@ -4,91 +4,158 @@
   "files": {
     "논문/2차_ResNet50_최종.pdf": {
       "bytes": 2827829,
-      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7"
+      "sha256": "b64645277f78ac2b2c87a1dcc15216ec9ad6c41a5a20f795465748ac0d2f76c7",
+      "public_path": "논문/2차_ResNet50_최종.pdf",
+      "public_bytes": 2821093,
+      "public_sha256": "3d38a9fd2fea0edde386f0a7ad7c82fc8f32c77d7ee0d368de465102cd59071f"
     },
     "폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb": {
       "bytes": 136449,
-      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
+      "sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc",
+      "public_path": "폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb",
+      "public_bytes": 136449,
+      "public_sha256": "efdb4bc4e54aef87ca99b2acca4bd36c4f49093351d613ca254c6ddf90de46fc"
     },
     "폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 108653,
-      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
+      "sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af",
+      "public_path": "폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 108653,
+      "public_sha256": "3daed3071f6399ccc1edff47b8925bf31d39ee9a74fc9478f3ec6bee773393af"
     },
     "폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 102127,
-      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
+      "sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870",
+      "public_path": "폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 102127,
+      "public_sha256": "745bb2b539259819784a219ebde96df31797fad820af09cd183177e529986870"
     },
     "폐암 2차 논문/코드/heatmaps_windows.ipynb": {
       "bytes": 8407,
-      "sha256": "e64d162310d50c96a5ba1e39c44fce4702fad38abbf7c08c7a8eaf7b79582590"
+      "sha256": "e64d162310d50c96a5ba1e39c44fce4702fad38abbf7c08c7a8eaf7b79582590",
+      "public_path": "폐암 2차 논문/코드/heatmaps_windows.ipynb",
+      "public_bytes": 8297,
+      "public_sha256": "df8f78fecb19fd9207696f7aee9804e959144e30ce401fa90667225ffa6ed4bc"
     },
     "폐암 2차 논문/코드/paper_figures_resnet50.ipynb": {
       "bytes": 27771,
-      "sha256": "4e52342e6d8a025549a37bf1e16fbd94f2d2a76d95cc0e039e703d6d1fc911ce"
+      "sha256": "4e52342e6d8a025549a37bf1e16fbd94f2d2a76d95cc0e039e703d6d1fc911ce",
+      "public_path": "폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
+      "public_bytes": 27661,
+      "public_sha256": "6a361cf3764b8cb07ad2c37a66b14f67ac716bf26875af131c8446c2407fd182"
     },
     "폐암 2차 논문/코드/picture2x2.ipynb": {
       "bytes": 6594,
-      "sha256": "d6ddecbbd7dfd747b83fefe3be920bef1a0597ae3413de936eb7cb27fe4cceb5"
+      "sha256": "d6ddecbbd7dfd747b83fefe3be920bef1a0597ae3413de936eb7cb27fe4cceb5",
+      "public_path": "폐암 2차 논문/코드/picture2x2.ipynb",
+      "public_bytes": 6414,
+      "public_sha256": "d90dce83fec10504b096d7e78b9e2692d247a1b6f6d6e958dc4367675d4464a8"
     },
     "폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb": {
       "bytes": 18339,
-      "sha256": "6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a"
+      "sha256": "6341212d374e771b81529b92f66f672ad66eac891240932b8b49a1c79ef98b0a",
+      "public_path": "폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
+      "public_bytes": 18284,
+      "public_sha256": "c80779481b07eee6c656f4202e5a4291f7d0105b15ab70df0c0fcd77352d6587"
     },
     "폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb": {
       "bytes": 52527,
-      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
+      "sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef",
+      "public_path": "폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb",
+      "public_bytes": 52527,
+      "public_sha256": "e0ce3aa6dd0a1fa307eea53cb1a2253266431a2ab0d86b984d72010aafc2c6ef"
     },
     "논문/연구2_원문_최종.pdf": {
       "bytes": 2865864,
-      "sha256": "58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe"
+      "sha256": "58249752c657a4aad13b94d7860bb2d977e897e779e72a9f9e8d6306a60652fe",
+      "public_path": "논문/연구2_원문_최종.pdf",
+      "public_bytes": 2834768,
+      "public_sha256": "f0a7d61fd9b7d45d0690f6d1eff2f172c9b8d38e03f4d9184109a692b4dc7de8"
     },
     "논문/연구2_원문_최종.hwp": {
       "bytes": 4908032,
-      "sha256": "14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50"
+      "sha256": "14d42c098f5ea8c057873e96136bf597b8f9bcec2c59b563bb763bca96fa1a50",
+      "public_path": "논문/연구2_원문_최종.hwp.md",
+      "public_bytes": 456,
+      "public_sha256": "8a34765a3e673e929cdc21b6c06347eb05d8e57a3eb717d9f7b9f095b08f7145"
     },
     "원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 138317,
-      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
+      "sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f",
+      "public_path": "원본자료/폐암 2차 논문/코드/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 138317,
+      "public_sha256": "4233928cb2aba1e9e1306e02ffc8a7cf5f17e62b72b83ccc2e8ec228c592c80f"
     },
     "원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb": {
       "bytes": 132788,
-      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
+      "sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f",
+      "public_path": "원본자료/폐암 2차 논문/코드/blur_resnet50_rebuilt2_KO.ipynb",
+      "public_bytes": 132788,
+      "public_sha256": "90c8e0f7a25c4533dc2b6759fa295bc7d758dd256330367d7c395dff2bee0d4f"
     },
     "원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb": {
       "bytes": 8646,
-      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a"
+      "sha256": "75c45970b92c8957ea61de8c236e045c3a0d77ed0de942815d3b16ae6e24ef4a",
+      "public_path": "원본자료/폐암 2차 논문/코드/heatmaps_windows.ipynb",
+      "public_bytes": 8536,
+      "public_sha256": "c7b0a1e71e68cce44fa6aa7a103339d78117567ad651b92e19fbf150ab273545"
     },
     "원본자료/폐암 2차 논문/코드/paper_figures_resnet50.ipynb": {
       "bytes": 38070,
-      "sha256": "162e3a670d2aa4dcb74771e651a1fd8c79fdf1e6e0ba33bb4fe81bc1177cc43d"
+      "sha256": "162e3a670d2aa4dcb74771e651a1fd8c79fdf1e6e0ba33bb4fe81bc1177cc43d",
+      "public_path": "원본자료/폐암 2차 논문/코드/paper_figures_resnet50.ipynb",
+      "public_bytes": 37809,
+      "public_sha256": "ce09af49e964f7a2157d5a61bc87d6dbfa19b315fffcedc571e7d74ef0c30582"
     },
     "원본자료/폐암 2차 논문/코드/pareto_scatter.ipynb": {
       "bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_path": "원본자료/폐암 2차 논문/코드/pareto_scatter.ipynb",
+      "public_bytes": 0,
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "원본자료/폐암 2차 논문/코드/picture2x2.ipynb": {
       "bytes": 7054,
-      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046"
+      "sha256": "d56ae7885ab9219f62bb695fe1e5de081c7e667ebbf8c5916b87909bff4b2046",
+      "public_path": "원본자료/폐암 2차 논문/코드/picture2x2.ipynb",
+      "public_bytes": 6849,
+      "public_sha256": "55c8ce391430053436047f6349611ab4544d1eb80a8d070549b288375fb96a3a"
     },
     "원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb": {
       "bytes": 18984,
-      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be"
+      "sha256": "77cc7650ee472043999937da35fd6ac817330ce45a796c584330571ccf1e05be",
+      "public_path": "원본자료/폐암 2차 논문/코드/plot_privacy_metrics_split.ipynb",
+      "public_bytes": 18799,
+      "public_sha256": "48d6f08e85bd4d0c9b98b76b3a028262a80e7b7d2fb57adaca6cc8dd6c82d491"
     },
     "원본자료/폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb": {
       "bytes": 96269,
-      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
+      "sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a",
+      "public_path": "원본자료/폐암 2차 논문/코드/privacy_score_ssim_psnr_updated.ipynb",
+      "public_bytes": 96269,
+      "public_sha256": "74cb8eb330d2a60c357ff4806f3d4a5c3aeefb3f5f3cc2c0b188d792decb863a"
     },
     "원본자료/추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb": {
       "bytes": 223652,
-      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
+      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140",
+      "public_path": "원본자료/추가 학습모델과 실험/block_blur_resnet50_v4_KO.ipynb",
+      "public_bytes": 223652,
+      "public_sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
     },
     "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp": {
       "bytes": 414720,
-      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196"
+      "sha256": "7f3d880b8df41d7549973470476f6011ce80ca835f36f7ac62e22acdb978f196",
+      "public_path": "원본자료/폐암 2차 논문/게재논문(한글논문)양식.hwp.md",
+      "public_bytes": 495,
+      "public_sha256": "cdc64381d4527a5ccc459c0bb32e850284d9d43bfc5a32fb3c7ae773622d963a"
     },
     "원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb": {
       "bytes": 223652,
-      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
+      "sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140",
+      "public_path": "원본자료/폐암 2차 논문/코드/block_blur_resnet50_v4_KO.ipynb",
+      "public_bytes": 223652,
+      "public_sha256": "988bdd6a86fac7245cdd255f19cdc5bf046579c6bdbe52e95ba8ed96a4f04140"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

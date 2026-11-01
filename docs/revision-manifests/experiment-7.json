@@ -4,15 +4,25 @@
   "files": {
     "블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 93336,
-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
+      "public_path": "블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 93336,
+      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
     },
     "원본자료/블록/2차 실험/all_block_results_resnet50_unified_v1.json": {
       "bytes": 5378,
-      "sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb"
+      "sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb",
+      "public_path": "원본자료/블록/2차 실험/all_block_results_resnet50_unified_v1.json",
+      "public_bytes": 5378,
+      "public_sha256": "84e93b7074555e4a421d51a9735431eda423bf83599460a9a68a318da5fe37bb"
     },
     "원본자료/블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb": {
       "bytes": 93336,
-      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
+      "sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89",
+      "public_path": "원본자료/블록/2차 실험/block_encryption_resnet50_rebuilt_KO.ipynb",
+      "public_bytes": 93336,
+      "public_sha256": "e4526e11284c362e99634a7f3a7cd2ee3e96c79b25a8e1970d57eba31669de89"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

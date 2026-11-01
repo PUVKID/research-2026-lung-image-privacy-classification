@@ -4,15 +4,25 @@
   "files": {
     "자료차수/2차/align_experiment_methods.mjs": {
       "bytes": 11300,
-      "sha256": "137dbb097d5821e11f17326afa3b37a3cb2f570ca010e0c2b3f81f5c517b5b22"
+      "sha256": "137dbb097d5821e11f17326afa3b37a3cb2f570ca010e0c2b3f81f5c517b5b22",
+      "public_path": "자료차수/2차/align_experiment_methods.mjs",
+      "public_bytes": 11212,
+      "public_sha256": "3e5b6ef089dd755c45cd2c5a2f360941c58fbbc1dd708c200a0f244a4b864d3d"
     },
     "자료차수/2차/build_block_blur_notebook.mjs": {
       "bytes": 29388,
-      "sha256": "bd77b870fe40d0a6318b49f210ae38b533401eb0b874c253277c6f673b86d70a"
+      "sha256": "bd77b870fe40d0a6318b49f210ae38b533401eb0b874c253277c6f673b86d70a",
+      "public_path": "자료차수/2차/build_block_blur_notebook.mjs",
+      "public_bytes": 29344,
+      "public_sha256": "614d6778ecef60cf30ce65aa037ca5a09c0bf1f1493e8d9543f92722f869bd77"
     },
     "자료차수/2차/rollback_original_notebooks.mjs": {
       "bytes": 3358,
-      "sha256": "c311e74df31a801231b391e4a692cc870e31f3ec950b9eb1fedd7169bbeb5c29"
+      "sha256": "c311e74df31a801231b391e4a692cc870e31f3ec950b9eb1fedd7169bbeb5c29",
+      "public_path": "자료차수/2차/rollback_original_notebooks.mjs",
+      "public_bytes": 3292,
+      "public_sha256": "955a0d7beb0e8989b86c1047ae4b2c303668bc970e7d66ab8f60d32b487c622a"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

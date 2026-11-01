@@ -2,7 +2,7 @@ import nbformat as nbf
 from pathlib import Path
 
 
-OUT = Path(r"C:\Users\PUVKID\Desktop\privacy_score_quantitative_docker_vscode.ipynb")
+OUT = Path(r".\privacy_score_quantitative_docker_vscode.ipynb")
 
 
 def md(text):
@@ -181,7 +181,7 @@ def candidate_train_dirs():
     candidates.extend([
         Path("/workspace"),
         Path.cwd(),
-        Path(r"C:\Users\PUVKID\Desktop\Train"),
+        Path(r".\Train"),
     ])
 
     unique = []

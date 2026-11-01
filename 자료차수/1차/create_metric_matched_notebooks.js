@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const workspace = "C:/Users/PUVKID/Documents/Codex/2026-05-18/files-mentioned-by-the-user-blur";
+const workspace = ".";
 const inputs = {
   blur: path.join(workspace, "blur_resnet50_same_settings_seq.ipynb"),
   block: path.join(workspace, "block_encryption_resnet50_same_settings_seq.ipynb"),

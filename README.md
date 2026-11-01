@@ -21,8 +21,8 @@
 
 [현재 원문 PDF·공식 링크 교체 위치](docs/PAPERS.md) · [모든 실제 차수·최종본·전체 비교](docs/REVISION_INDEX.md)
 
-- **연구1 · 하계 EfficientNetV2-S**: [PDF 원문](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp)
-- **연구2 · ResNet50 후속**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp)
+- **연구1 · 하계 EfficientNetV2-S**: [PDF 원문](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md)
+- **연구2 · ResNet50 후속**: [PDF 원문](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) · [편집 원본](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.hwp.md)
 
 공식 공개 URL은 아직 등록하지 않았습니다. 추후 [논문 전용 표](docs/PAPERS.md)의 교체 칸과 이 항목을 함께 갱신합니다.
 
@@ -287,7 +287,40 @@ python -m jupyter lab "블록+블러/block_blur_resnet50_v4_KO.ipynb"
 
 <div align="center">
 
-**Kwak Yunsuk · [PUVKID](https://github.com/PUVKID)**  
+**Kwak Yunsuk**  
 영상의 구조 변화와 분류 성능을 함께 살피는 연구 기록입니다.
 
 </div>
+
+
+> 공개 PDF에서는 지정된 개인정보와 학과·학부 정보를 제외했습니다. 저자·공동저자의 성명, 학교, 이메일, ORCID와 사진은 보존합니다. 편집 원문 링크는 비공개 보관 안내로 연결됩니다.
+
+
+<details>
+<summary>📚 차수별 논문 공개본 전체 보기</summary>
+
+| 원고·공개 경로 | 논문 |
+| :--- | :--- |
+| 논문/1차_EfficientNetV2-S_하계_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/1%EC%B0%A8_EfficientNetV2-S_%ED%95%98%EA%B3%84_%EC%B5%9C%EC%A2%85.pdf) |
+| 논문/2차_ResNet50_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/2%EC%B0%A8_ResNet50_%EC%B5%9C%EC%A2%85.pdf) |
+| 논문/연구2_원문_최종.pdf | [📄 PDF 열기](%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B5%AC2_%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) |
+| 연구1_하계_EfficientNetV2-S/논문/원문_최종.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EB%85%BC%EB%AC%B8/%EC%9B%90%EB%AC%B8_%EC%B5%9C%EC%A2%85.pdf) |
+| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EB%85%BC%EB%AC%B8_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf) |
+| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%8B%AC%EC%82%AC%EC%9A%A9.pdf) |
+| 연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.pdf | [📄 PDF 열기](%EC%97%B0%EA%B5%AC1_%ED%95%98%EA%B3%84_EfficientNetV2-S/%EC%9B%90%EB%AC%B8%EB%B3%B4%EA%B4%80/%ED%95%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B4%88%EB%A1%9D_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) |
+| 원본자료/4차/work/source/게재논문(한글논문)양식.pdf | [📄 PDF 열기](%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/4%EC%B0%A8/work/source/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf) |
+| 원본자료/폐암 2차 논문/게재논문(한글논문)양식.pdf | [📄 PDF 열기](%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%ED%8F%90%EC%95%94%202%EC%B0%A8%20%EB%85%BC%EB%AC%B8/%EA%B2%8C%EC%9E%AC%EB%85%BC%EB%AC%B8%28%ED%95%9C%EA%B8%80%EB%85%BC%EB%AC%B8%29%EC%96%91%EC%8B%9D.pdf) |
+
+</details>
+
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **1차** | [📁 검수 자료](1%EC%B0%A8) | [📖 정리 내용](docs/publication-review/item-1.md) · [🔎 파일 비교](docs/publication-review/공개파일변경.json) |
+
+[🗂️ 전체 차수와 자료](docs/REVISION_INDEX.md)
+
+</details>

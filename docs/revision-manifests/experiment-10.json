@@ -4,15 +4,25 @@
   "files": {
     "블록 엣지/block_encryption_resnet50_edge_v2.ipynb": {
       "bytes": 117559,
-      "sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da"
+      "sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da",
+      "public_path": "블록 엣지/block_encryption_resnet50_edge_v2.ipynb",
+      "public_bytes": 117559,
+      "public_sha256": "1a32a5a3c47f33f187dec48fb8c2cb7c1626e410e75cd88a52160a816f82a4da"
     },
     "원본자료/블록 엣지/all_block_results_resnet50_same_settings_gpu4090_v2.json": {
       "bytes": 5065,
-      "sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811"
+      "sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811",
+      "public_path": "원본자료/블록 엣지/all_block_results_resnet50_same_settings_gpu4090_v2.json",
+      "public_bytes": 5065,
+      "public_sha256": "08227a052f5070c5e2218b68c213e8c8c9ecc7c9f194e3d98694a2f9b9fa4811"
     },
     "원본자료/블록 엣지/block_encryption_resnet50_edge_v2.ipynb": {
       "bytes": 658506,
-      "sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb"
+      "sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb",
+      "public_path": "원본자료/블록 엣지/block_encryption_resnet50_edge_v2.ipynb",
+      "public_bytes": 658506,
+      "public_sha256": "56afa7be98a5c07badd73a3ea1db3cb54c6d819391f0142eab4547591e7171cb"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

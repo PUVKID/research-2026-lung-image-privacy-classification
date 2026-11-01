@@ -4,55 +4,95 @@
   "files": {
     "논문/1차_EfficientNetV2-S_하계_최종.pdf": {
       "bytes": 410164,
-      "sha256": "dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63"
+      "sha256": "dd6309e6f6b722d6db242e9c2237584314ad7d7bdf32eb1a91d10ced5ba3fe63",
+      "public_path": "논문/1차_EfficientNetV2-S_하계_최종.pdf",
+      "public_bytes": 402261,
+      "public_sha256": "936fbbbaf93dd3210f5e8ada7b73acca0120faf594769f64ea4c5c3eca925bc6"
     },
     "연구1_하계_EfficientNetV2-S/그래프/Blur_Block_1차_그래프_white.ipynb": {
       "bytes": 31695,
-      "sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823"
+      "sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823",
+      "public_path": "연구1_하계_EfficientNetV2-S/그래프/Blur_Block_1차_그래프_white.ipynb",
+      "public_bytes": 31695,
+      "public_sha256": "a8c2615ce407a6e49de77cbea440d236e423dd77439abeaca57697b21e928823"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf": {
       "bytes": 2156389,
-      "sha256": "22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3"
+      "sha256": "22c41af0ada654bbaf8c8c5882ca1165da5e1216430af199db1fd0f560f349b3",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pdf",
+      "public_bytes": 2230081,
+      "public_sha256": "a7e15a322aa89ccf28e81acd126fe6807693c43d7ef9d73b5e927d42a651322b"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx": {
       "bytes": 2325109,
-      "sha256": "a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193"
+      "sha256": "a95905aea2ed35a70f0e43e5f0eaf30cbb5c227fed7384f952641104b26d5193",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 PPT.pptx",
+      "public_bytes": 2322158,
+      "public_sha256": "fe074b7367e4f6f816ad1ac579742683fcdff9ed15157a5ca0752270e01355b4"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx": {
       "bytes": 12063,
-      "sha256": "fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246"
+      "sha256": "fbe895f010f6ee875395b5486b42dcf7d07248e6b6ac98a17a21bb38eda67246",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.docx",
+      "public_bytes": 12048,
+      "public_sha256": "5a155b5377c44b575b9de4852febb2d5cd31684767b89b9b84322cead045af34"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.pdf": {
       "bytes": 280123,
-      "sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598"
+      "sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본 정리.pdf",
+      "public_bytes": 280123,
+      "public_sha256": "0dad95908a9f7771703c37c882b5265162b1ea6d1a75762a96cef4d30923a598"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx": {
       "bytes": 14644,
-      "sha256": "3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8"
+      "sha256": "3a66466626c76c84640e1d4284ff375708f7ba428d92fd9f7a2c686cf3bbbae8",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.docx",
+      "public_bytes": 14584,
+      "public_sha256": "6e813724a4ba06b2a6d471c2d755a6efd7870fa18a6fe81ed407fee5e451a059"
     },
     "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf": {
       "bytes": 314134,
-      "sha256": "f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a"
+      "sha256": "f7d5589105d6a714a62ebe53a264a23070941e4fd26db78ddc8a08e8efc2f62a",
+      "public_path": "연구1_하계_EfficientNetV2-S/발표자료/하계학술대회 발표 대본.pdf",
+      "public_bytes": 313962,
+      "public_sha256": "075fbc9b6a10e4f47f8ac32d8eebfe863d1fd187ce740342d98bd2de2304e8c6"
     },
     "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp": {
       "bytes": 527360,
-      "sha256": "f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc"
+      "sha256": "f19ddfe212b9c38fd1cfdfec29f8d499e0150bd183e2d6a7992867b34720b7fc",
+      "public_path": "연구1_하계_EfficientNetV2-S/논문/원문_최종.hwp.md",
+      "public_bytes": 436,
+      "public_sha256": "4b34e0860d2c0ac79b7d51731ef143b012815fc3c805dbda4c0da663441bb12d"
     },
     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp": {
       "bytes": 534016,
-      "sha256": "a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915"
+      "sha256": "a50590b82b4f2a37c948d267c03acdb38e2dfdb6ec1b912ad77718c50d8b9915",
+      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_논문_심사용.hwp.md",
+      "public_bytes": 500,
+      "public_sha256": "ae2b1186b51ee532f81bc9b91f7e2a41289c5795266529ccaf8448c42bbb366f"
     },
     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp": {
       "bytes": 50688,
-      "sha256": "218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b"
+      "sha256": "218bd80c6e58efc061d4717f1e47dab5c494c748813b3e580d98660a54cb8a4b",
+      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_심사용.hwp.md",
+      "public_bytes": 500,
+      "public_sha256": "5b11cdea35374ffab3530b44649bdcd77a22db3d429385616756a8b6ee99636d"
     },
     "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp": {
       "bytes": 55296,
-      "sha256": "d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44"
+      "sha256": "d8d43b6b577716c444a38c1fe258184834317b69628d469d075bc1014ba21d44",
+      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/하계학술대회_초록_최종본.hwp.md",
+      "public_bytes": 500,
+      "public_sha256": "3a0fa74b093021d39129d96abc4d637a016a371ba4f3beb485b151b4f0c23e3d"
     },
     "연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb": {
       "bytes": 34700,
-      "sha256": "21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec"
+      "sha256": "21207ffb5200d44de6a06b908ce7171648cf3d4a2c390c834162e357d61461ec",
+      "public_path": "연구1_하계_EfficientNetV2-S/원문보관/그림/Blur_Block_1차_그래프_white.ipynb",
+      "public_bytes": 34424,
+      "public_sha256": "90fd32f132c7f75fdbd268d571154ed4ecefda36ab7168ed00b538b57ddba151"
     }
-  }
+  },
+  "original_values_preserved": "bytes와 sha256은 이전 원본 차수의 기준값이며 public_*은 개인정보를 제외한 현재 공개 파일입니다."
 }

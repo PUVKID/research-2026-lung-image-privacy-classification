@@ -64,9 +64,9 @@
 +Performance Analysis of Video De-identification Techniques for 
 +Privacy Protection in EfficientNetN2-S Model
 +곽윤석† ‧ O김남기†
-+†경기대학교 컴퓨터과학과
++†경기대학교 
 +Yunsuk Kwak† · ONamgi Kim†
-+†Dept. of Computer Science, Kyonggi University
++† Kyonggi University
 +OCorresponding author
 +요   약
 +폐 CT 영상은 환자의 민감한 의료정보를 포함하고 있어 활용 과정에서 개인정보 보호가 요구된다. 본 연구에서는 폐 CT 
@@ -856,8 +856,8 @@
 +        "})\n",
 +        "\n",
 +        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
-+        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_blur_results.json\"  # confirmed\n",
-+        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
++        "JSON_PATH = r\".\\그림\\all_blur_results.json\"  # confirmed\n",
++        "OUT       = r\".\\그림\"\n",
 +        "os.makedirs(OUT, exist_ok=True)\n",
 +        "\n",
 +        "# ── 데이터 로드 ────────────────────────────────────────────\n",
@@ -1327,8 +1327,8 @@
 +        "})\n",
 +        "\n",
 +        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
-+        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_block_results.json\"\n",
-+        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
++        "JSON_PATH = r\".\\그림\\all_block_results.json\"\n",
++        "OUT       = r\".\\그림\"\n",
 +        "os.makedirs(OUT, exist_ok=True)\n",
 +        "\n",
 +        "# ── 데이터 로드 ────────────────────────────────────────────\n",
@@ -1423,7 +1423,7 @@ Binary files /dev/null and 연구1_하계_EfficientNetV2-S/논문/원문_최종.
 +위한영상비식별화기법의성능분석
 +Performance Analysis of Video De-identification Techniques for Privacy Protection in EfficientNetN2-S Model
 +곽윤석·  김남기(교신저자)
-+경기대학교컴퓨터과학과
++경기대학교
 +
 +=== 2쪽 ===
 +I N T R O D U C T I O N
@@ -1718,9 +1718,9 @@ Binary files /dev/null and 연구1_하계_EfficientNetV2-S/발표자료/하계�
 +=== 1쪽 ===
 +EfficientNetV2-S 모델에서개인정보보호를
 +위한영상비식별화기법의성능분석
-+2026 하계학술대회· 곽윤석· 김남기(교신저자) · 경기대학교컴퓨터과학과
++2026 하계학술대회· 곽윤석· 김남기(교신저자) · 경기대학교
 +슬라이드1. 표지
-+안녕하십니까. 경기대학교컴퓨터과학과곽윤석입니다.
++안녕하십니까. 경기대학교곽윤석입니다.
 +오늘발표할주제는
 +'EfficientNetV2-S 모델에서개인정보보호를위한영상비식별화기법의성능분석'
 +입니다.
@@ -2604,8 +2604,8 @@ Binary files /dev/null and 연구1_하계_EfficientNetV2-S/원문보관/하계�
 +        "})\n",
 +        "\n",
 +        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
-+        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_blur_results.json\"  # confirmed\n",
-+        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
++        "JSON_PATH = r\".\\그림\\all_blur_results.json\"  # confirmed\n",
++        "OUT       = r\".\\그림\"\n",
 +        "os.makedirs(OUT, exist_ok=True)\n",
 +        "\n",
 +        "# ── 데이터 로드 ────────────────────────────────────────────\n",
@@ -3075,8 +3075,8 @@ Binary files /dev/null and 연구1_하계_EfficientNetV2-S/원문보관/하계�
 +        "})\n",
 +        "\n",
 +        "# ── 경로 설정 (필요하면 여기만 수정) ───────────────────────\n",
-+        "JSON_PATH = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\\all_block_results.json\"\n",
-+        "OUT       = r\"C:\\Users\\PUVKID\\Desktop\\2026\\하계학술대회 논문\\곽윤석\\그림\"\n",
++        "JSON_PATH = r\".\\그림\\all_block_results.json\"\n",
++        "OUT       = r\".\\그림\"\n",
 +        "os.makedirs(OUT, exist_ok=True)\n",
 +        "\n",
 +        "# ── 데이터 로드 ────────────────────────────────────────────\n",

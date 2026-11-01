@@ -21,3 +21,13 @@
 | [추가 학습모델과 실험 · 기본](revisions/experiment-14.md) | EfficientNetV2-S 변환 비교, MobileNetV2 풀링, ResNet50 사본과 SSIM/MS-SSIM 계산·도표를 모았습니다. 셀별 실험을 구분합니다. | csv·ipynb·json·py·xlsx | [직접 자료](../%EC%B6%94%EA%B0%80%20%ED%95%99%EC%8A%B5%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EC%8B%A4%ED%97%98/block_blur_resnet50_edge.ipynb) | [전체 차이](revision-diffs/experiment-14.diff) |
 | [블러 · 1차 실험](revisions/experiment-original-blur.md) | 원본 폴더의 첫 실험에서 저장한 결과 JSON입니다. 하계 원고의 그래프 입력 자료와 별도로 원본 위치·바이트·해시를 보존합니다. 연구1 번호와 폴더1차 실험은 구별하며 재학습을 수행하지 않았습니다. | json | [직접 자료](../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EB%B8%94%EB%9F%AC/1%EC%B0%A8%20%EC%8B%A4%ED%97%98/%EB%B8%94%EB%9F%AC%201/%EB%B8%94%EB%9F%AC%EB%A7%81%20%EA%B2%B0%EA%B3%BC/all_blur_results.json) | [전체 차이](revision-diffs/experiment-original-blur.diff) |
 | [블록 · 1차 실험](revisions/experiment-original-block.md) | 원본 폴더의 첫 실험에서 저장한 결과 JSON입니다. 하계 원고의 그래프 입력 자료와 별도로 원본 위치·바이트·해시를 보존합니다. 연구1 번호와 폴더1차 실험은 구별하며 재학습을 수행하지 않았습니다. | json | [직접 자료](../%EC%9B%90%EB%B3%B8%EC%9E%90%EB%A3%8C/%EB%B8%94%EB%A1%9D/1%EC%B0%A8%20%EC%8B%A4%ED%97%98/%EB%B8%94%EB%A1%9D%201/%EB%B6%88%EB%A1%9D%20%EA%B2%B0%EA%B3%BC/all_block_results.json) | [전체 차이](revision-diffs/experiment-original-block.diff) |
+
+
+<details>
+<summary>🧹 공개 자료 정리 기록</summary>
+
+| 검수 대상 | 연결 자료 | 상세·이번 비교 |
+| :--- | :--- | :--- |
+| **1차** | [📁 검수 자료](../1%EC%B0%A8) | [📖 정리 내용](publication-review/item-1.md) · [🔎 파일 비교](publication-review/공개파일변경.json) |
+
+</details>

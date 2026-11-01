@@ -7,7 +7,7 @@ from pathlib import Path
 import nbformat as nbf
 
 
-NOTEBOOK = Path(r"C:\Users\PUVKID\Desktop\privacy_score_ssim_psnr (1).ipynb")
+NOTEBOOK = Path(r".\privacy_score_ssim_psnr (1).ipynb")
 
 
 def md(text):

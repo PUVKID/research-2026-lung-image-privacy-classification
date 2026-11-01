@@ -3,10 +3,10 @@ import json
 from pathlib import Path
 
 
-WORKDIR = Path(r"C:\Users\PUVKID\Documents\Codex\2026-05-18\files-mentioned-by-the-user-blur")
+WORKDIR = Path(r".")
 FILES = [
-    Path(r"C:\Users\PUVKID\Desktop\blur_resnet50_rebuilt_KO.ipynb"),
-    Path(r"C:\Users\PUVKID\Desktop\block_encryption_resnet50_rebuilt_KO.ipynb"),
+    Path(r".\blur_resnet50_rebuilt_KO.ipynb"),
+    Path(r".\block_encryption_resnet50_rebuilt_KO.ipynb"),
 ]
 
 
